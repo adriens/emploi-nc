@@ -126,11 +126,14 @@ def main():
         # Handle Provinces
         provinces = []
         if 'region_sud' in row and (row['region_sud'] is True or str(row['region_sud']).lower() == 'true'):
-            provinces.append("Sud")
+            provinces.append("Province Sud")
         if 'region_nord' in row and (row['region_nord'] is True or str(row['region_nord']).lower() == 'true'):
-            provinces.append("Nord")
+            provinces.append("Province Nord")
         if 'region_ile' in row and (row['region_ile'] is True or str(row['region_ile']).lower() == 'true'):
-            provinces.append("Iles")
+            provinces.append("Province des Îles")
+        
+        if provinces:
+            metadata.append(f"- **📍 Province**: {', '.join(provinces)}")
         
         # Handle Durée
         duree_parts = []
@@ -144,7 +147,7 @@ def main():
             duree_parts.append(f"{jours} jour{'s' if jours > 1 else ''}")
         
         if duree_parts:
-            metadata.append(f"- **Durée**: {', '.join(duree_parts)}")
+            metadata.append(f"- **⏳ Durée**: {', '.join(duree_parts)}")
         
         for col in df_filtered.columns:
             if col in ['description', 'titre', 'region_sud', 'region_nord', 'region_ile', 'nb_jours_contrat', 'nb_mois_contrat', 'nb_annees_contrat']:
@@ -154,6 +157,18 @@ def main():
             if pd.notna(val):
                 # Clean value and handle booleans/durations nicely if they are simple
                 display_name = col.replace('_', ' ').capitalize()
+                
+                # Add emojis to common fields
+                emoji_map = {
+                    'uuid': '🆔',
+                    'ridet': '🏢',
+                    'statut': '⚙️',
+                    'type contrat': '📄',
+                    'ville physique': '🏙️',
+                    'diplome': '🎓',
+                    'nb postes': '👥',
+                }
+                prefix = emoji_map.get(display_name.lower(), '-')
                 
                 # Format boolean values
                 if isinstance(val, bool):
@@ -167,7 +182,7 @@ def main():
                 if col.lower() in ['ridet', 'uuid']:
                     val = f"`{val}`"
                     
-                metadata.append(f"- **{display_name}**: {val}")
+                metadata.append(f"{prefix} **{display_name}**: {val}")
 
         md_content = "\n".join(metadata) + "\n\n---\n\n" + clean_md
         
@@ -182,17 +197,20 @@ def main():
     # Generate index.md
     index_path = os.path.join(OUTPUT_DIR, "index.md")
     with open(index_path, "w", encoding="utf-8") as f:
-        f.write("# Offres d'emploi en Nouvelle-Calédonie\n\n")
+        f.write("# 💼 Offres d'emploi en Nouvelle-Calédonie\n\n")
         f.write(f"Ce site regroupe les **{count}** offres d'emploi actives extraites de data.gouv.nc.\n\n")
-        f.write("## Dernières offres\n\n")
         
-        # Add the first 10 offers as links
+        f.write("## 🚀 Dernières offres\n\n")
+        
+        # Add the first 20 offers with context
         for _, row in df_filtered.head(20).iterrows():
             uuid = str(row['uuid'])
             titre = row['titre'] if 'titre' in row else "Offre"
-            f.write(f"- [{titre}]({uuid}.md)\n")
+            type_c = row['type_contrat'] if 'type_contrat' in row else "?"
+            ville = row['ville_physique'] if 'ville_physique' in row else "?"
+            f.write(f"- [{titre}]({uuid}.md) ({type_c} - {ville})\n")
         
-        f.write("\n\n*Mis à jour automatiquement via GitHub Actions.*")
+        f.write("\n\n---\n\n*Mis à jour automatiquement via GitHub Actions.*")
 
     # Cleanup orphaned files (files that are no longer in the CSV)
     print("Cleaning up orphaned files...")
