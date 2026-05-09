@@ -1,0 +1,12 @@
+[project]
+site_name = "Emploi Nouvelle-Calédonie"
+site_url = "https://emploi-nc.github.io"
+site_description = "Offres d'emploi déposées sur le site Emploi NC"
+site_author = "Adrien"
+
+[theme]
+name = "zensical"
+
+[theme.palette]
+primary = "indigo"
+accent = "indigo"
