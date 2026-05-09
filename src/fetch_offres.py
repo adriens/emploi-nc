@@ -84,15 +84,21 @@ def main():
     for d in [WORK_DIR, OUTPUT_DIR]:
         os.makedirs(d, exist_ok=True)
 
-    print(f"Generating files in {WORK_DIR} and {OUTPUT_DIR}...")
+    print(f"Generating files in {WORK_DIR} and {OUTPUT_DIR}...", flush=True)
     
     # Track generated UUIDs for cleanup
     current_uuids = set()
     
     count = 0
+    total = len(df_filtered)
     for _, row in df_filtered.iterrows():
         uuid = str(row['uuid'])
         current_uuids.add(uuid)
+        
+        # Periodic progress logging
+        if (count + 1) % 100 == 0 or (count + 1) == total:
+            print(f"Progress: {count + 1}/{total} offers processed...", flush=True)
+            
         description = str(row['description']) if pd.notna(row['description']) else ""
         
         # Save raw to work
@@ -102,7 +108,7 @@ def main():
         # Try to fetch full content from web locally (Limit to top 200 for performance)
         web_md = None
         if count < 200:
-            print(f"[{count+1}/200] Fetching full content for {uuid}...")
+            print(f"[{count+1}/200] Fetching full content for {uuid}...", flush=True)
             web_md = fetch_web_content_as_md(uuid)
         
         if web_md:
