@@ -1,0 +1,16 @@
+[project]
+name = "emploi-nc"
+version = "0.1.0"
+description = "Extraction et visualisation des offres d'emploi en Nouvelle-Calédonie"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "pyarrow",
+    "requests",
+    "markdownify",
+    "trafilatura",
+]
+
+[tool.uv]
+managed = true
