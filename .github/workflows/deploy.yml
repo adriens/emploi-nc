@@ -31,6 +31,8 @@ jobs:
 
       - name: Generate Markdown files
         run: uv run src/fetch_offres.py
+        env:
+          PYTHONUNBUFFERED: 1
 
       - name: Build Zensical site
         run: uvx zensical build

@@ -96,7 +96,7 @@ def main():
         current_uuids.add(uuid)
         
         # Periodic progress logging
-        if (count + 1) % 100 == 0 or (count + 1) == total:
+        if (count + 1) % 50 == 0 or (count + 1) == total:
             print(f"Progress: {count + 1}/{total} offers processed...", flush=True)
             
         description = str(row['description']) if pd.notna(row['description']) else ""
