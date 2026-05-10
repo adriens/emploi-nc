@@ -32,6 +32,11 @@ def clean_text_for_markdown(text):
     # These characters:  (F02D), •, , , etc.
     # We replace them with a standard dash if they are at the start of a line
     text = re.sub(r'(?m)^[ \t]*[•\*][ \t]*', '- ', text)
+
+    # 2. Escape square brackets that are likely placeholders and not links
+    # This avoids "unresolved link reference" warnings in Zensical
+    # We look for [text] that is NOT followed by ( or : (link reference definition)
+    text = re.sub(r'\[([^\]]+)\](?![(\:])', r'(\1)', text)
     
     return text
 
@@ -171,7 +176,7 @@ def main():
             web_md = fetch_web_content_as_md(uuid)
         
         if web_md:
-            clean_md = web_md
+            clean_md = clean_text_for_markdown(web_md)
         else:
             # Pre-clean the description to catch "fake" lists before HTML conversion
             pre_cleaned = clean_text_for_markdown(description)
