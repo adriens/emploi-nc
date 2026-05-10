@@ -4,39 +4,39 @@ site_url = "https://adriens.github.io/emploi-nc/"
 site_description = "Offres d'emploi déposées sur le site Emploi NC"
 site_author = "Adrien"
 
-[theme]
+[project.theme]
 name = "zensical"
 
-[[theme.palette]]
+[[project.theme.palette]]
 scheme = "slate"
 primary = "indigo"
 accent = "indigo"
 toggle.icon = "lucide/moon"
-toggle.name = "Switch to light mode"
+toggle.name = "Passer au mode clair"
 
-[[theme.palette]]
+[[project.theme.palette]]
 scheme = "default"
 primary = "indigo"
 accent = "indigo"
 toggle.icon = "lucide/sun"
-toggle.name = "Switch to dark mode"
+toggle.name = "Passer au mode sombre"
 
-[[extra.social]]
+[[project.extra.social]]
 icon = "fontawesome/solid/briefcase"
 link = "https://emploi.nc/"
 name = "Site officiel Emploi.nc"
 
-[[extra.social]]
+[[project.extra.social]]
 icon = "fontawesome/solid/database"
 link = "https://data.gouv.nc/explore/dataset/offres-d-emploi-deposees-sur-le-site-emploi-nc"
 name = "Source Open Data"
 
-[[extra.social]]
+[[project.extra.social]]
 icon = "fontawesome/brands/github"
 link = "https://github.com/adriens/emploi-nc"
 name = "Code source sur GitHub"
 
-[[extra.social]]
+[[project.extra.social]]
 icon = "fontawesome/solid/rss"
 link = "https://adriens.github.io/emploi-nc/feed.xml"
 name = "Flux RSS des offres"
