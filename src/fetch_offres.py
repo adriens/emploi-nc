@@ -209,7 +209,9 @@ def main():
                 if col.lower() in ['ridet', 'uuid']:
                     val = f"`{val}`"
                     
-                metadata.append(f"{prefix} **{display_name}**: {val}")
+                # Always start with a dash to ensure it's a Markdown list item
+                # and avoid lines being collapsed into a single paragraph
+                metadata.append(f"- {prefix} **{display_name}**: {val}")
 
         md_content = "\n".join(metadata) + "\n\n---\n\n" + clean_md
         
