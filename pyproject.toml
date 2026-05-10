@@ -10,6 +10,7 @@ dependencies = [
     "requests",
     "markdownify",
     "trafilatura",
+    "zensical>=0.0.41",
 ]
 
 [tool.uv]

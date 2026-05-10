@@ -5,7 +5,8 @@ site_description = "Offres d'emploi déposées sur le site Emploi NC"
 site_author = "Adrien"
 
 [project.theme]
-name = "zensical"
+# Zensical will use its default modern theme.
+# variant = "classic"
 
 [[project.theme.palette]]
 scheme = "slate"

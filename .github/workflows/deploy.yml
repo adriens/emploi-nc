@@ -35,7 +35,7 @@ jobs:
           PYTHONUNBUFFERED: 1
 
       - name: Build Zensical site
-        run: uvx zensical build
+        run: uv run zensical build
 
       - name: Deploy Markdown files to data branch
         uses: peaceiris/actions-gh-pages@v4
