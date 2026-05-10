@@ -14,6 +14,7 @@ import os
 import re
 import time
 import trafilatura
+from datetime import datetime, timedelta
 from markdownify import markdownify as md
 
 URL = "https://data.gouv.nc/api/explore/v2.1/catalog/datasets/offres-d-emploi-deposees-sur-le-site-emploi-nc/exports/parquet?lang=fr&timezone=Pacific%2FNoumea"
@@ -89,15 +90,21 @@ def main():
     # Track generated UUIDs for cleanup
     current_uuids = set()
     
+    # Calculate threshold for full content enrichment (last 7 days)
+    one_week_ago = datetime.now() - timedelta(days=7)
+    # Note: we'll handle the timezone comparison carefully during the loop
+    
     count = 0
     total = len(df_filtered)
+    enrichment_count = 0
+    
     for _, row in df_filtered.iterrows():
         uuid = str(row['uuid'])
         current_uuids.add(uuid)
         
         # Periodic progress logging
         if (count + 1) % 50 == 0 or (count + 1) == total:
-            print(f"Progress: {count + 1}/{total} offers processed...", flush=True)
+            print(f"Progress: {count + 1}/{total} offers processed (Enriched: {enrichment_count})...", flush=True)
             
         description = str(row['description']) if pd.notna(row['description']) else ""
         
@@ -105,10 +112,24 @@ def main():
         with open(os.path.join(WORK_DIR, f"{uuid}.txt"), "w", encoding="utf-8") as f:
             f.write(description)
         
-        # Try to fetch full content from web locally (Limit to top 200 for performance)
+        # Check if offer is recent enough for full content enrichment
+        is_recent = False
+        if 'created_at' in row and pd.notna(row['created_at']):
+            created_at = pd.to_datetime(row['created_at'])
+            # Normalize both to offset-aware or naive to compare
+            if created_at.tzinfo is not None:
+                # Compare as offset-aware (using UTC for current time if needed)
+                if created_at >= (datetime.now(created_at.tzinfo) - timedelta(days=7)):
+                    is_recent = True
+            else:
+                if created_at >= one_week_ago:
+                    is_recent = True
+
+        # Try to fetch full content from web locally for recent offers
         web_md = None
-        if count < 200:
-            print(f"[{count+1}/200] Fetching full content for {uuid}...", flush=True)
+        if is_recent:
+            enrichment_count += 1
+            print(f"[{enrichment_count}] Fetching full content for recent offer {uuid}...", flush=True)
             web_md = fetch_web_content_as_md(uuid)
         
         if web_md:
@@ -197,7 +218,7 @@ def main():
         
         count += 1
         # No delay needed when using local conversion, but small one to be nice to emploi.nc
-        if count < 200 and count % 10 == 0:
+        if is_recent and enrichment_count % 10 == 0:
             time.sleep(0.5)
     
     # Generate index.md
