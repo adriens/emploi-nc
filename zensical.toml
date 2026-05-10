@@ -30,3 +30,8 @@ name = "Site officiel Emploi.nc"
 icon = "fontawesome/solid/database"
 link = "https://data.gouv.nc/explore/dataset/offres-d-emploi-deposees-sur-le-site-emploi-nc"
 name = "Source Open Data"
+
+[[extra.social]]
+icon = "fontawesome/solid/rss"
+link = "https://adriens.github.io/emploi-nc/feed.xml"
+name = "Flux RSS des offres"

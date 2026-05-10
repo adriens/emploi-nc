@@ -5,6 +5,7 @@
 #   "requests",
 #   "markdownify",
 #   "trafilatura",
+#   "feedgen",
 # ]
 # ///
 
@@ -16,6 +17,7 @@ import time
 import trafilatura
 from datetime import datetime, timedelta
 from markdownify import markdownify as md
+from feedgen.feed import FeedGenerator
 
 URL = "https://data.gouv.nc/api/explore/v2.1/catalog/datasets/offres-d-emploi-deposees-sur-le-site-emploi-nc/exports/parquet?lang=fr&timezone=Pacific%2FNoumea"
 OUTPUT_DIR = "docs"
@@ -49,6 +51,42 @@ def fetch_web_content_as_md(uuid):
         print(f"Error fetching web content for {uuid}: {e}")
     
     return None
+
+def generate_rss_feed(df_recent, output_path):
+    """Generate an RSS feed for the most recent job offers"""
+    fg = FeedGenerator()
+    fg.id('https://adriens.github.io/emploi-nc/')
+    fg.title("Offres d'emploi Nouvelle-Calédonie")
+    fg.author({'name': 'Adrien', 'email': 'adrien@example.com'})
+    fg.link(href='https://adriens.github.io/emploi-nc/', rel='alternate')
+    fg.subtitle('Dernières offres d\'emploi extraites de data.gouv.nc')
+    fg.language('fr')
+
+    # Take the top 50 most recent offers
+    for _, row in df_recent.head(50).iterrows():
+        fe = fg.add_entry()
+        uuid = str(row['uuid'])
+        titre = row['titre'] if 'titre' in row else "Offre d'emploi"
+        ville = row['ville_physique'] if 'ville_physique' in row else "N/A"
+        type_c = row['type_contrat'] if 'type_contrat' in row else "N/A"
+        
+        fe.id(f'https://adriens.github.io/emploi-nc/{uuid}.md')
+        fe.title(f"{titre} ({type_c} - {ville})")
+        fe.link(href=f'https://adriens.github.io/emploi-nc/{uuid}.html')
+        
+        description = str(row['description']) if pd.notna(row['description']) else "Pas de description"
+        fe.description(description[:500] + '...') # Short preview
+        
+        if 'created_at' in row and pd.notna(row['created_at']):
+            # Ensure it's a datetime object
+            dt = pd.to_datetime(row['created_at'])
+            if dt.tzinfo is None:
+                # Make it offset-aware if it's naive (assuming UTC or local)
+                dt = dt.tz_localize('UTC')
+            fe.published(dt)
+
+    fg.rss_file(output_path)
+    print(f"RSS feed generated at {output_path}")
 
 def main():
     print(f"Downloading data from {URL}...")
@@ -258,6 +296,10 @@ def main():
                 os.remove(os.path.join(OUTPUT_DIR, f))
 
     print(f"Processed {count} offers.")
+    
+    # Generate RSS Feed
+    rss_path = os.path.join(OUTPUT_DIR, "feed.xml")
+    generate_rss_feed(df_filtered, rss_path)
 
 if __name__ == "__main__":
     main()
