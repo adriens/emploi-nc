@@ -32,6 +32,11 @@ link = "https://data.gouv.nc/explore/dataset/offres-d-emploi-deposees-sur-le-sit
 name = "Source Open Data"
 
 [[extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/adriens/emploi-nc"
+name = "Code source sur GitHub"
+
+[[extra.social]]
 icon = "fontawesome/solid/rss"
 link = "https://adriens.github.io/emploi-nc/feed.xml"
 name = "Flux RSS des offres"
