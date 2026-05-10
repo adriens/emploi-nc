@@ -187,6 +187,7 @@ def main():
         metadata.append(f"# {titre}")
         metadata.append("")
         metadata.append(f"- **Url**: https://emploi.nc/offers/{uuid}")
+        metadata.append("")
         
         # Handle Provinces
         provinces = []
@@ -199,6 +200,7 @@ def main():
         
         if provinces:
             metadata.append(f"- **📍 Province**: {', '.join(provinces)}")
+            metadata.append("")
         
         # Handle Durée
         duree_parts = []
@@ -213,6 +215,7 @@ def main():
         
         if duree_parts:
             metadata.append(f"- **⏳ Durée**: {', '.join(duree_parts)}")
+            metadata.append("")
         
         for col in df_filtered.columns:
             if col in ['description', 'titre', 'region_sud', 'region_nord', 'region_ile', 'nb_jours_contrat', 'nb_mois_contrat', 'nb_annees_contrat']:
@@ -233,7 +236,8 @@ def main():
                     'diplome': '🎓',
                     'nb postes': '👥',
                 }
-                prefix = emoji_map.get(display_name.lower(), '-')
+                emoji = emoji_map.get(display_name.lower(), '')
+                label = f"{emoji} {display_name}" if emoji else display_name
                 
                 # Format boolean values
                 if isinstance(val, bool):
@@ -247,9 +251,9 @@ def main():
                 if col.lower() in ['ridet', 'uuid']:
                     val = f"`{val}`"
                     
-                # Always start with a dash to ensure it's a Markdown list item
-                # and avoid lines being collapsed into a single paragraph
-                metadata.append(f"- {prefix} **{display_name}**: {val}")
+                # Clean list item
+                metadata.append(f"- **{label}**: {val}")
+                metadata.append("")
 
         md_content = "\n".join(metadata) + "\n\n---\n\n" + clean_md
         
