@@ -20,3 +20,13 @@ primary = "indigo"
 accent = "indigo"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
+
+[[extra.social]]
+icon = "fontawesome/solid/briefcase"
+link = "https://emploi.nc/"
+name = "Site officiel Emploi.nc"
+
+[[extra.social]]
+icon = "fontawesome/solid/database"
+link = "https://data.gouv.nc/explore/dataset/offres-d-emploi-deposees-sur-le-site-emploi-nc"
+name = "Source Open Data"
