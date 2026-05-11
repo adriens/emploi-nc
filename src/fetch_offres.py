@@ -198,15 +198,20 @@ def main():
             clean_md = re.sub(r'([^\n])\n- ', r'\1\n\n- ', clean_md)
         
         titre = row['titre'] if 'titre' in row else "Offre d'emploi"
+        entreprise = row['designation'] if 'designation' in row else None
         
         # Build metadata block
         metadata = []
         metadata.append(f"# {titre}")
+        if entreprise:
+            metadata.append(f"## {entreprise}")
         metadata.append("")
-        metadata.append(f"- **Url**: https://emploi.nc/offers/{uuid}")
-        metadata.append("")
+
+        # 1. Block: Essential Summary
+        metadata.append("!!! info \"Synthèse de l'offre\"")
+        metadata.append(f"    - :material-link-variant: **Lien direct** : [Voir l'annonce sur Emploi.nc](https://emploi.nc/offers/{uuid})")
         
-        # Handle Provinces
+        # Provinces
         provinces = []
         if 'region_sud' in row and (row['region_sud'] is True or str(row['region_sud']).lower() == 'true'):
             provinces.append("Province Sud")
@@ -214,12 +219,13 @@ def main():
             provinces.append("Province Nord")
         if 'region_ile' in row and (row['region_ile'] is True or str(row['region_ile']).lower() == 'true'):
             provinces.append("Province des Îles")
-        
         if provinces:
-            metadata.append(f"- **📍 Province**: {', '.join(provinces)}")
-            metadata.append("")
+            metadata.append(f"    - :material-map-marker-outline: **Localisation** : {', '.join(provinces)}")
         
-        # Handle Durée
+        # Contract and Duration
+        if 'type_contrat' in row and pd.notna(row['type_contrat']):
+            metadata.append(f"    - :material-briefcase-outline: **Type de contrat** : {row['type_contrat']}")
+            
         duree_parts = []
         if 'nb_annees_contrat' in row and pd.notna(row['nb_annees_contrat']) and int(row['nb_annees_contrat']) > 0:
             annees = int(row['nb_annees_contrat'])
@@ -229,33 +235,42 @@ def main():
         if 'nb_jours_contrat' in row and pd.notna(row['nb_jours_contrat']) and int(row['nb_jours_contrat']) > 0:
             jours = int(row['nb_jours_contrat'])
             duree_parts.append(f"{jours} jour{'s' if jours > 1 else ''}")
-        
         if duree_parts:
-            metadata.append(f"- **⏳ Durée**: {', '.join(duree_parts)}")
-            metadata.append("")
+            metadata.append(f"    - :material-calendar-clock: **Durée** : {', '.join(duree_parts)}")
         
+        if 'ville_physique' in row and pd.notna(row['ville_physique']):
+            metadata.append(f"    - :material-city-variant-outline: **Ville** : {row['ville_physique']}")
+        
+        if 'nb_postes' in row and pd.notna(row['nb_postes']):
+            metadata.append(f"    - :material-account-group-outline: **Nombre de postes** : {row['nb_postes']}")
+        metadata.append("")
+
+        # 2. Block: Employer Details
+        metadata.append("!!! abstract \"Informations Employeur\"")
+        if 'ridet' in row and pd.notna(row['ridet']):
+            metadata.append(f"    - **Ridet** : `{row['ridet']}`")
+        if 'enseigne' in row and pd.notna(row['enseigne']):
+            metadata.append(f"    - **Enseigne** : {row['enseigne']}")
+        if 'forme_juridique' in row and pd.notna(row['forme_juridique']):
+            metadata.append(f"    - **Forme juridique** : {row['forme_juridique']}")
+        if 'adresse_physique' in row and pd.notna(row['adresse_physique']):
+            metadata.append(f"    - **Adresse** : {row['adresse_physique']}")
+        metadata.append("")
+
+        # 3. Block: Technical details (collapsible)
+        metadata.append("??? quote \"Détails Techniques\"")
+        metadata.append(f"    - **UUID** : `{uuid}`")
         for col in df_filtered.columns:
-            if col in ['description', 'titre', 'region_sud', 'region_nord', 'region_ile', 'nb_jours_contrat', 'nb_mois_contrat', 'nb_annees_contrat']:
+            # Skip fields already displayed
+            if col in ['description', 'titre', 'region_sud', 'region_nord', 'region_ile', 
+                      'nb_jours_contrat', 'nb_mois_contrat', 'nb_annees_contrat',
+                      'type_contrat', 'ville_physique', 'nb_postes', 'ridet', 
+                      'designation', 'enseigne', 'forme_juridique', 'adresse_physique', 'uuid']:
                 continue
             
             val = row[col]
             if pd.notna(val):
-                # Clean value and handle booleans/durations nicely if they are simple
                 display_name = col.replace('_', ' ').capitalize()
-                
-                # Add emojis to common fields
-                emoji_map = {
-                    'uuid': '🆔',
-                    'ridet': '🏢',
-                    'statut': '⚙️',
-                    'type contrat': '📄',
-                    'ville physique': '🏙️',
-                    'diplome': '🎓',
-                    'nb postes': '👥',
-                }
-                emoji = emoji_map.get(display_name.lower(), '')
-                label = f"{emoji} {display_name}" if emoji else display_name
-                
                 # Format boolean values
                 if isinstance(val, bool):
                     val = "Oui" if val else "Non"
@@ -263,16 +278,10 @@ def main():
                     val = "Oui"
                 elif str(val).lower() == 'false':
                     val = "Non"
-                
-                # Format Ridet and Uuid with backticks
-                if col.lower() in ['ridet', 'uuid']:
-                    val = f"`{val}`"
-                    
-                # Clean list item
-                metadata.append(f"- **{label}**: {val}")
-                metadata.append("")
+                metadata.append(f"    - **{display_name}** : {val}")
+        metadata.append("")
 
-        md_content = "\n".join(metadata) + "\n\n---\n\n" + clean_md
+        md_content = "\n".join(metadata) + "\n---\n\n" + clean_md
         
         with open(os.path.join(OUTPUT_DIR, f"{uuid}.md"), "w", encoding="utf-8") as f:
             f.write(md_content)
@@ -285,20 +294,23 @@ def main():
     # Generate index.md
     index_path = os.path.join(OUTPUT_DIR, "index.md")
     with open(index_path, "w", encoding="utf-8") as f:
-        f.write("# 💼 Offres d'emploi en Nouvelle-Calédonie\n\n")
-        f.write(f"Ce site regroupe les **{count}** offres d'emploi actives extraites de data.gouv.nc.\n\n")
+        f.write("# :material-briefcase-search: Emplois en Nouvelle-Calédonie\n\n")
+        f.write(f"Accédez aux **{count}** offres d'emploi actuellement actives sur le territoire.\n\n")
         
-        f.write("## 🚀 Dernières offres\n\n")
+        f.write("## :material-clock-fast: Dernières publications\n\n")
         
-        # Add the first 20 offers with context
-        for _, row in df_filtered.head(20).iterrows():
+        # Add the first 20 offers with context and icons
+        for _, row in df_filtered.head(30).iterrows():
             uuid = str(row['uuid'])
             titre = row['titre'] if 'titre' in row else "Offre"
             type_c = row['type_contrat'] if 'type_contrat' in row else "?"
             ville = row['ville_physique'] if 'ville_physique' in row else "?"
-            f.write(f"- [{titre}]({uuid}.md) ({type_c} - {ville})\n")
+            entreprise = row['designation'] if 'designation' in row else "Entreprise confidentielle"
+            
+            f.write(f"- **[{titre}]({uuid}.md)**  \n")
+            f.write(f"    :material-domain: *{entreprise}* | :material-file-document-outline: {type_c} | :material-map-marker-outline: {ville}\n\n")
         
-        f.write("\n\n---\n\n*Mis à jour automatiquement via GitHub Actions.*")
+        f.write("\n\n---\n\n*Source des données : [data.gouv.nc](https://data.gouv.nc/) - Mis à jour quotidiennement.*")
 
     # Cleanup orphaned files (files that are no longer in the CSV)
     print("Cleaning up orphaned files...")
