@@ -33,7 +33,15 @@ def clean_text_for_markdown(text):
     # We replace them with a standard dash if they are at the start of a line
     text = re.sub(r'(?m)^[ \t]*[•\*][ \t]*', '- ', text)
 
-    # 2. Escape square brackets that are likely placeholders and not links
+    # 2. Fix bold text spacing issues (e.g., "** Text **" -> "**Text**")
+    # Python-Markdown (Zensical) can be picky about spaces inside bold markers
+    text = re.sub(r'\*\*[ \t]+', '**', text)
+    text = re.sub(r'[ \t]+\*\*', '**', text)
+
+    # 3. Ensure space after bullets for better rendering in lists
+    text = re.sub(r'(?m)^-[ \t]*([^\s])', r'- \1', text)
+
+    # 4. Escape square brackets that are likely placeholders and not links
     # This avoids "unresolved link reference" warnings in Zensical
     # We look for [text] that is NOT followed by ( or : (link reference definition)
     text = re.sub(r'\[([^\]]+)\](?![(\:])', r'(\1)', text)
