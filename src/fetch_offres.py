@@ -45,6 +45,10 @@ def clean_text_for_markdown(text):
     # This avoids "unresolved link reference" warnings in Zensical
     # We look for [text] that is NOT followed by ( or : (link reference definition)
     text = re.sub(r'\[([^\]]+)\](?![(\:])', r'(\1)', text)
+
+    # 5. Unescape markers that should be active (Trafilatura sometimes escapes them)
+    text = text.replace(r'\*\*', '**')
+    text = text.replace(r'\_', '_')
     
     return text
 
