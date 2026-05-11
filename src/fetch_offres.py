@@ -248,7 +248,9 @@ def main():
         # 2. Block: Employer Details
         metadata.append("!!! abstract \"Informations Employeur\"")
         if 'ridet' in row and pd.notna(row['ridet']):
-            metadata.append(f"    - **Ridet** : `{row['ridet']}`")
+            ridet = str(row['ridet']).strip()
+            metadata.append(f"    - **Ridet** : `{ridet}`")
+            metadata.append(f"    - :material-office-building-marker: **Fiche Annuaire** : [Consulter sur gouv.nc](https://annuaire-entreprises.gouv.nc/entreprise/{ridet})")
         if 'enseigne' in row and pd.notna(row['enseigne']):
             metadata.append(f"    - **Enseigne** : {row['enseigne']}")
         if 'forme_juridique' in row and pd.notna(row['forme_juridique']):
