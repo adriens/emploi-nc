@@ -1,29 +1,29 @@
 # 💼 Offres d'emploi en Nouvelle-Calédonie
 
-Ce site regroupe les **4238** offres d'emploi actives extraites de data.gouv.nc.
+Ce site regroupe les **4531** offres d'emploi actives extraites de data.gouv.nc.
 
 ## 🚀 Dernières offres
 
-- [Accompagnant éducatif / Accompagnante éducative petite enfance](202605053a0c.md) (CDD - THIO)
-- [C1501-13487 - Conseiller / Conseillère technique en immobilier](20260505ccd7.md) (CDI - NOUMEA)
-- [M1607-11183 - Assistant administratif / Assistante administrative](20260505ef43.md) (CDI - nan)
-- [I1203-17477 - Ouvrier polyvalent / Ouvrière polyvalente d'entretien des bâtiments](20260505231d.md) (CDD - nan)
-- [D1202-12688 - Coiffeur / Coiffeuse](20260505eda9.md) (CDD - nan)
-- [M1607-11183 - Assistant administratif / Assistante administrative](202605050eed.md) (CDI - nan)
-- [K1204-10455 - Agent / Agente de facilitation de la vie sociale](20260505299f.md) (CDD - nan)
-- [K1204-10455 - Agent / Agente de facilitation de la vie sociale](20260505c4a6.md) (CDD - nan)
-- [M1607-19364 - Secrétaire](20260505fca3.md) (CDI - NOUMEA)
-- [K1204-38621 - Médiateur social / Médiatrice sociale en milieu scolaire](20260505ee69.md) (CDD - nan)
-- [H2102-17756 - Pilote de systèmes de production automatisée en industrie alimentaire](2026050543f6.md) (CDI - NOUMEA)
-- [H2102-17756 - Pilote de systèmes de production automatisée en industrie alimentaire](20260505912c.md) (CDI - NOUMEA)
-- [H1303-20072 - Technicien / Technicienne en Hygiène, Sécurité, Environnement industriel -HSE-](2026050536a9.md) (CDI - nan)
-- [Responsable des Ressources Humaines -RRH-](20260505ae92.md) (CDD - NOUMEA)
-- [M1607-19364 - Secrétaire](202605052b53.md) (CDI - NOUMEA)
-- [G1703-18325 - Réceptionniste en hôtellerie](20260505b90c.md) (CDI - nan)
-- [G1703-18325 - Réceptionniste en hôtellerie](20260505b2cd.md) (CDI - nan)
-- [G1703-18325 - Réceptionniste en hôtellerie](20260505b487.md) (CDI - nan)
-- [G1602-13861 - Cuisinier / Cuisinière](202605052794.md) (CDI - nan)
-- [F1203-12079 - Chef de carrière](202605051bf4.md) (CDI - nan)
+- [Aide couvreur / Aide couvreuse](2026051092f0.md) (CDD - NOUMEA)
+- [Agente / Agent de bio-nettoyage](202605097bcf.md) (CDI - NOUMEA)
+- [Assistant / Assistante audioprothésiste](20260509e965.md) (CDD - DUMBEA)
+- [Responsable du développement commercial](2026050840ca.md) (CDI - NOUMEA)
+- [Auditeur / Auditrice comptable](20260508c43e.md) (CDI - NOUMEA)
+- [Administrateur / Administratrice systéme informatique](202605087bcf.md) (CDI - NOUMEA)
+- [Responsable commercial international / Responsable commerciale internationale](202605084383.md) (CDI - NOUMEA)
+- [Chef / Cheffe de projet en organisation](20260508c839.md) (CDI - NOUMEA)
+- [Directeur adjoint / Directrice adjointe de PME-PMI](20260508436c.md) (CDI - NOUMEA)
+- [Gestionnaire de patrimoine immobilier](20260508b18e.md) (CDI - NOUMEA)
+- [Commercial / Commerciale](20260507482b.md) (CDD - NOUMEA)
+- [Responsable de salle](20260507a867.md) (CDI - NOUMEA)
+- [Directeur général / Directrice générale de grande entreprise](202605079ef6.md) (CDI - NOUMEA)
+- [Directeur / Directrice de centre de profit](202605071f29.md) (CDI - NOUMEA)
+- [Responsable technique diagnostic du bétiment](20260507e556.md) (CDI - NOUMEA)
+- [D1106-20560 - Vendeur / Vendeuse en boulangerie-pâtisserie](20260507c9b2.md) (CDD - nan)
+- [D1106-20560 - Vendeur / Vendeuse en boulangerie-pâtisserie](202605077d32.md) (CDD - nan)
+- [Ouvrier / Ouvriére d'assainissement](202605076fd9.md) (CDD - MONT-DORE)
+- [Conducteur / Conductrice de travaux du BTP](20260507348c.md) (CDI - DUMBEA)
+- [Conducteur / Conductrice de travaux génie civil](2026050772c1.md) (CDI - DUMBEA)
 
 
 ---
