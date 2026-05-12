@@ -49,10 +49,10 @@ def clean_text_for_markdown(text):
 
     # 3. Fix cases where bold markers are glued to surrounding text
     # e.g., "un**SDSI" -> "un **SDSI" or "MCO :**sécuriser" -> "MCO :** sécuriser"
-    # Fix opening bold attached to word
-    text = re.sub(r'([a-zA-Z0-9,;:])\*\*(\w)', r'\1 **\2', text)
-    # Fix closing bold attached to word
-    text = re.sub(r'(\w)\*\*([a-zA-Z0-9])', r'\1** \2', text)
+    # Fix opening bold attached to non-space: word**Bold -> word **Bold
+    text = re.sub(r'(\S)\*\*(?=\w)', r'\1 **', text)
+    # Fix closing bold attached to word: Bold**word -> Bold** word
+    text = re.sub(r'(\S)\*\*([a-zA-Z0-9])', r'\1** \2', text)
 
     # 4. Ensure space after bullets for better rendering in lists
     text = re.sub(r'(?m)^-[ \t]*([^\s])', r'- \1', text)
