@@ -1,31 +1,101 @@
-# 💼 Offres d'emploi en Nouvelle-Calédonie
+# :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Ce site regroupe les **4531** offres d'emploi actives extraites de data.gouv.nc.
+Accédez aux **4722** offres d'emploi actuellement actives sur le territoire.
 
-## 🚀 Dernières offres
+## :material-clock-fast: Dernières publications
 
-- [Aide couvreur / Aide couvreuse](2026051092f0.md) (CDD - NOUMEA)
-- [Agente / Agent de bio-nettoyage](202605097bcf.md) (CDI - NOUMEA)
-- [Assistant / Assistante audioprothésiste](20260509e965.md) (CDD - DUMBEA)
-- [Responsable du développement commercial](2026050840ca.md) (CDI - NOUMEA)
-- [Auditeur / Auditrice comptable](20260508c43e.md) (CDI - NOUMEA)
-- [Administrateur / Administratrice systéme informatique](202605087bcf.md) (CDI - NOUMEA)
-- [Responsable commercial international / Responsable commerciale internationale](202605084383.md) (CDI - NOUMEA)
-- [Chef / Cheffe de projet en organisation](20260508c839.md) (CDI - NOUMEA)
-- [Directeur adjoint / Directrice adjointe de PME-PMI](20260508436c.md) (CDI - NOUMEA)
-- [Gestionnaire de patrimoine immobilier](20260508b18e.md) (CDI - NOUMEA)
-- [Commercial / Commerciale](20260507482b.md) (CDD - NOUMEA)
-- [Responsable de salle](20260507a867.md) (CDI - NOUMEA)
-- [Directeur général / Directrice générale de grande entreprise](202605079ef6.md) (CDI - NOUMEA)
-- [Directeur / Directrice de centre de profit](202605071f29.md) (CDI - NOUMEA)
-- [Responsable technique diagnostic du bétiment](20260507e556.md) (CDI - NOUMEA)
-- [D1106-20560 - Vendeur / Vendeuse en boulangerie-pâtisserie](20260507c9b2.md) (CDD - nan)
-- [D1106-20560 - Vendeur / Vendeuse en boulangerie-pâtisserie](202605077d32.md) (CDD - nan)
-- [Ouvrier / Ouvriére d'assainissement](202605076fd9.md) (CDD - MONT-DORE)
-- [Conducteur / Conductrice de travaux du BTP](20260507348c.md) (CDI - DUMBEA)
-- [Conducteur / Conductrice de travaux génie civil](2026050772c1.md) (CDI - DUMBEA)
+- **[Chauffeur / Chauffeuse de poids lourd](202605116273.md)**  
+    :material-domain: *RP MANUTENTION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur armurier / Vendeuse armuriére](2026051134fe.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DE TRAVAUX   MARITIMES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[M1501-11231 - Assistant / Assistante de gestion administrative du personnel](20260511a189.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[D1506-16389 - Marchandiseur / Marchandiseuse](20260511b650.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[G1501-20500 - Valet / Femme de chambre](20260511ff46.md)**  
+    :material-domain: *HESTIA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[G1501-20500 - Valet / Femme de chambre](20260511c5e0.md)**  
+    :material-domain: *HESTIA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[G1501-20500 - Valet / Femme de chambre](2026051166c7.md)**  
+    :material-domain: *HESTIA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[G1501-20500 - Valet / Femme de chambre](2026051197a6.md)**  
+    :material-domain: *HESTIA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[A1303-11824 - Chargé / Chargée de mission en agriculture](20260511b178.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDIC | :material-map-marker-outline: nan
+
+- **[M1806-18835 - Responsable de projets « métiers » système d'information](20260511f7a2.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[M1806-18835 - Responsable de projets « métiers » système d'information](20260511761d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[A1303-11824 - Chargé / Chargée de mission en agriculture](202605116468.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDIC | :material-map-marker-outline: nan
+
+- **[A1303-11824 - Chargé / Chargée de mission en agriculture](202605113106.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDIC | :material-map-marker-outline: nan
+
+- **[D1505-38655 - Hôte / Hôtesse de caisse services clients](202605112b66.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[A1416-38880 - Chef de chantier de travaux agricoles](2026051190c5.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[D1505-38655 - Hôte / Hôtesse de caisse services clients](202605119324.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[D1505-38655 - Hôte / Hôtesse de caisse services clients](2026051180fa.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[D1505-38655 - Hôte / Hôtesse de caisse services clients](20260511dfca.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[D1505-38655 - Hôte / Hôtesse de caisse services clients](202605110fc3.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[A1303-11824 - Chargé / Chargée de mission en agriculture](202605119bfa.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDIC | :material-map-marker-outline: nan
+
+- **[A1303-11824 - Chargé / Chargée de mission en agriculture](202605112c9f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDIC | :material-map-marker-outline: nan
+
+- **[A1303-11824 - Chargé / Chargée de mission en agriculture](202605117bb3.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDIC | :material-map-marker-outline: nan
+
+- **[A1303-11824 - Chargé / Chargée de mission en agriculture](20260511ee7d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDIC | :material-map-marker-outline: nan
+
+- **[A1407-17389 - Ouvrier / Ouvrière agricole en production bovine](20260511547c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[A1303-11824 - Chargé / Chargée de mission en agriculture](2026051104db.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDIC | :material-map-marker-outline: nan
+
+- **[A1407-17389 - Ouvrier / Ouvrière agricole en production bovine](2026051119b6.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[D1505-38655 - Hôte / Hôtesse de caisse services clients](20260511511d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[D1505-38655 - Hôte / Hôtesse de caisse services clients](202605110528.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[D1505-38655 - Hôte / Hôtesse de caisse services clients](202605115f80.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[D1505-38655 - Hôte / Hôtesse de caisse services clients](20260511c50e.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
 
 
 ---
 
-*Mis à jour automatiquement via GitHub Actions.*
+*Source des données : [data.gouv.nc](https://data.gouv.nc/) - Mis à jour quotidiennement.*
