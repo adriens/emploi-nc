@@ -250,7 +250,7 @@ def main():
         if 'ridet' in row and pd.notna(row['ridet']):
             ridet = str(row['ridet']).strip()
             metadata.append(f"    - **Ridet** : `{ridet}`")
-            metadata.append(f"    - :material-office-building-marker: **Fiche Annuaire** : [Consulter sur gouv.nc](https://annuaire-entreprises.gouv.nc/entreprise/{ridet})")
+            metadata.append(f"    - :material-office-building-marker: **Fiche Annuaire** : [Consulter sur gouv.nc](https://annuaire-entreprises.gouv.nc/recherche?q={ridet})")
         if 'enseigne' in row and pd.notna(row['enseigne']):
             metadata.append(f"    - **Enseigne** : {row['enseigne']}")
         if 'forme_juridique' in row and pd.notna(row['forme_juridique']):
