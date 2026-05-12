@@ -47,15 +47,22 @@ def clean_text_for_markdown(text):
     text = re.sub(r'\*\*[ \t]+', '**', text)
     text = re.sub(r'[ \t]+\*\*', '**', text)
 
-    # 3. Ensure space after bullets for better rendering in lists
+    # 3. Fix cases where bold markers are glued to surrounding text
+    # e.g., "un**SDSI" -> "un **SDSI" or "MCO :**sécuriser" -> "MCO :** sécuriser"
+    # Fix opening bold attached to word
+    text = re.sub(r'([a-zA-Z0-9,;:])\*\*(\w)', r'\1 **\2', text)
+    # Fix closing bold attached to word
+    text = re.sub(r'(\w)\*\*([a-zA-Z0-9])', r'\1** \2', text)
+
+    # 4. Ensure space after bullets for better rendering in lists
     text = re.sub(r'(?m)^-[ \t]*([^\s])', r'- \1', text)
 
-    # 4. Escape square brackets that are likely placeholders and not links
+    # 5. Escape square brackets that are likely placeholders and not links
     # This avoids "unresolved link reference" warnings in Zensical
     # We look for [text] that is NOT followed by ( or : (link reference definition)
     text = re.sub(r'\[([^\]]+)\](?![(\:])', r'(\1)', text)
 
-    # 5. Unescape markers that should be active (Trafilatura sometimes escapes them)
+    # 6. Unescape markers that should be active (Trafilatura sometimes escapes them)
     text = text.replace(r'\*\*', '**')
     text = text.replace(r'\_', '_')
     
