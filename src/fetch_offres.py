@@ -24,6 +24,15 @@ OUTPUT_DIR = "docs"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "offres.csv")
 WORK_DIR = "work"
 
+def is_valid_data(val):
+    """Strictly check if a value is valid (not NaN, not 'nan' string, not empty/whitespace)"""
+    if pd.isna(val):
+        return False
+    s_val = str(val).strip()
+    if s_val.lower() == 'nan' or s_val == '':
+        return False
+    return True
+
 def clean_text_for_markdown(text):
     if not text:
         return ""
@@ -197,8 +206,8 @@ def main():
             # Post-process: ensure list items have a newline before them if they don't
             clean_md = re.sub(r'([^\n])\n- ', r'\1\n\n- ', clean_md)
         
-        titre = row['titre'] if 'titre' in row and pd.notna(row['titre']) and str(row['titre']).lower() != 'nan' else "Offre d'emploi"
-        entreprise = row['designation'] if 'designation' in row and pd.notna(row['designation']) and str(row['designation']).lower() != 'nan' else None
+        titre = row['titre'] if 'titre' in row and is_valid_data(row['titre']) else "Offre d'emploi"
+        entreprise = row['designation'] if 'designation' in row and is_valid_data(row['designation']) else None
         
         # Build metadata block
         metadata = []
@@ -223,39 +232,39 @@ def main():
             metadata.append(f"    - :material-map-marker-outline: **Localisation** : {', '.join(provinces)}")
         
         # Contract and Duration
-        if 'type_contrat' in row and pd.notna(row['type_contrat']) and str(row['type_contrat']).lower() != 'nan':
+        if 'type_contrat' in row and is_valid_data(row['type_contrat']):
             metadata.append(f"    - :material-briefcase-outline: **Type de contrat** : {row['type_contrat']}")
             
         duree_parts = []
-        if 'nb_annees_contrat' in row and pd.notna(row['nb_annees_contrat']) and str(row['nb_annees_contrat']).lower() != 'nan' and int(row['nb_annees_contrat']) > 0:
+        if 'nb_annees_contrat' in row and is_valid_data(row['nb_annees_contrat']) and int(row['nb_annees_contrat']) > 0:
             annees = int(row['nb_annees_contrat'])
             duree_parts.append(f"{annees} an{'s' if annees > 1 else ''}")
-        if 'nb_mois_contrat' in row and pd.notna(row['nb_mois_contrat']) and str(row['nb_mois_contrat']).lower() != 'nan' and int(row['nb_mois_contrat']) > 0:
+        if 'nb_mois_contrat' in row and is_valid_data(row['nb_mois_contrat']) and int(row['nb_mois_contrat']) > 0:
             duree_parts.append(f"{int(row['nb_mois_contrat'])} mois")
-        if 'nb_jours_contrat' in row and pd.notna(row['nb_jours_contrat']) and str(row['nb_jours_contrat']).lower() != 'nan' and int(row['nb_jours_contrat']) > 0:
+        if 'nb_jours_contrat' in row and is_valid_data(row['nb_jours_contrat']) and int(row['nb_jours_contrat']) > 0:
             jours = int(row['nb_jours_contrat'])
             duree_parts.append(f"{jours} jour{'s' if jours > 1 else ''}")
         if duree_parts:
             metadata.append(f"    - :material-calendar-clock: **Durée** : {', '.join(duree_parts)}")
         
-        if 'ville_physique' in row and pd.notna(row['ville_physique']) and str(row['ville_physique']).lower() != 'nan':
+        if 'ville_physique' in row and is_valid_data(row['ville_physique']):
             metadata.append(f"    - :material-city-variant-outline: **Ville** : {row['ville_physique']}")
         
-        if 'nb_postes' in row and pd.notna(row['nb_postes']) and str(row['nb_postes']).lower() != 'nan':
+        if 'nb_postes' in row and is_valid_data(row['nb_postes']):
             metadata.append(f"    - :material-account-group-outline: **Nombre de postes** : {row['nb_postes']}")
         metadata.append("")
 
         # 2. Block: Employer Details (only if we have data)
         employer_info = []
-        if 'ridet' in row and pd.notna(row['ridet']) and str(row['ridet']).lower() != 'nan':
+        if 'ridet' in row and is_valid_data(row['ridet']):
             ridet = str(row['ridet']).strip()
             employer_info.append(f"    - **Ridet** : `{ridet}`")
             employer_info.append(f"    - :material-office-building-marker: **Fiche Annuaire** : [Consulter sur gouv.nc](https://annuaire-entreprises.gouv.nc/recherche?q={ridet})")
-        if 'enseigne' in row and pd.notna(row['enseigne']) and str(row['enseigne']).lower() != 'nan':
+        if 'enseigne' in row and is_valid_data(row['enseigne']):
             employer_info.append(f"    - **Enseigne** : {row['enseigne']}")
-        if 'forme_juridique' in row and pd.notna(row['forme_juridique']) and str(row['forme_juridique']).lower() != 'nan':
+        if 'forme_juridique' in row and is_valid_data(row['forme_juridique']):
             employer_info.append(f"    - **Forme juridique** : {row['forme_juridique']}")
-        if 'adresse_physique' in row and pd.notna(row['adresse_physique']) and str(row['adresse_physique']).lower() != 'nan':
+        if 'adresse_physique' in row and is_valid_data(row['adresse_physique']):
             employer_info.append(f"    - **Adresse** : {row['adresse_physique']}")
         
         if employer_info:
@@ -275,7 +284,7 @@ def main():
                 continue
             
             val = row[col]
-            if pd.notna(val) and str(val).lower() != 'nan':
+            if is_valid_data(val):
                 display_name = col.replace('_', ' ').capitalize()
                 # Format boolean values
                 if isinstance(val, bool):
@@ -286,6 +295,7 @@ def main():
                     val = "Non"
                 metadata.append(f"    - **{display_name}** : {val}")
         metadata.append("")
+
 
         md_content = "\n".join(metadata) + "\n---\n\n" + clean_md
         
