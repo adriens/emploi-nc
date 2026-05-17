@@ -40,16 +40,16 @@ Accédez aux **4926** offres d'emploi actuellement actives sur le territoire.
 - **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](2026051380aa.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[K2104-11263 - Assistant / Assistante d'éducation](202605139bcf.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+- **[K2204-10573 - Agent / Agente de propreté et d'hygiène](2026051396d4.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 - **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](2026051357a6.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[K2204-10573 - Agent / Agente de propreté et d'hygiène](2026051396d4.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
 - **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](2026051372c2.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[K2104-11263 - Assistant / Assistante d'éducation](202605139bcf.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[K2204-10573 - Agent / Agente de propreté et d'hygiène](20260513cc18.md)**  
@@ -70,13 +70,13 @@ Accédez aux **4926** offres d'emploi actuellement actives sur le territoire.
 - **[K2104-19601 - Surveillant / Surveillante en milieu scolaire](202605134986.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](2026051343f5.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
 - **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](20260513eeb4.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](202605132b8e.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](2026051343f5.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[H1303-20072 - Technicien / Technicienne en Hygiène, Sécurité, Environnement industriel -HSE-](202605134edb.md)**  
@@ -85,10 +85,10 @@ Accédez aux **4926** offres d'emploi actuellement actives sur le territoire.
 - **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](20260513645a.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](202605132d2b.md)**  
+- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](202605135401.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](202605135401.md)**  
+- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](202605132d2b.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[F1201-13210 - Conducteur / Conductrice de travaux du bâtiment](202605131566.md)**  
