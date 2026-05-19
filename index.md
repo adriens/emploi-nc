@@ -1,97 +1,97 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **4931** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **5098** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
-- **[Commis / Commise de restaurant](20260517e8d2.md)**  
-    :material-domain: *LA PLANCHE À PIZZA* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+- **[Electronicien / Electronicienne d'installation](20260518a809.md)**  
+    :material-domain: *CIPAC MEDICAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[G1602-13861 - Cuisinier / Cuisinière](20260517ec8a.md)**  
+- **[D1212-20625 - Vendeur / Vendeuse en quincaillerie](20260518ecb9.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[G1602-13861 - Cuisinier / Cuisinière](20260517e38d.md)**  
+- **[G1803-12274 - Chef de rang](20260518935f.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[Animateur / Animatrice d'atelier sciences](20260517f6ba.md)**  
+- **[G1803-12274 - Chef de rang](202605184899.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[M1601-14754 - Employé / Employée d'accueil](20260517b036.md)**  
+- **[M1607-19364 - Secrétaire](20260518bb63.md)**  
+    :material-domain: *SOCIETE NEO-CALEDONIENNE D'ENERGIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[M1501-15369 - Gestionnaire paie et administration du personnel](20260518efde.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
-- **[Ingénieur / Ingénieure systéme réseau informatique](20260515d0ee.md)**  
-    :material-domain: *CUBE.NC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ingénieur / Ingénieure réseaux télécoms](202605154ba6.md)**  
-    :material-domain: *CUBE.NC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe de projet marketing digital](20260515d1b1.md)**  
-    :material-domain: *IMPACT E-MEDIA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Mécanicien / Mécanicienne de chantier](20260515dc51.md)**  
-    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Monteur cébleur raccordeur / Monteuse cébleuse raccordeuse](20260514a853.md)**  
-    :material-domain: *SECU SYSTEM'S* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne sécurité-alarme](20260514ef51.md)**  
-    :material-domain: *SECU SYSTEM'S* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de maintenance industrielle](20260514c45d.md)**  
-    :material-domain: *SMART & CO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable sécurité](20260514107e.md)**  
-    :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Agent / Agente de destruction d'insectes](2026051401bc.md)**  
+- **[N3101-11670 - Capitaine de port](20260518805f.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
-- **[M1605-11230 - Assistant / Assistante de gestion administrative](202605135072.md)**  
+- **[G1602-13861 - Cuisinier / Cuisinière](20260518e996.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[G1602-13861 - Cuisinier / Cuisinière](20260518cb8b.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[G1602-13861 - Cuisinier / Cuisinière](202605184a1c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Peintre finisseur / Peintre finisseuse](202605180bf6.md)**  
+    :material-domain: *MAMATUI YANNICK* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[M1501-15369 - Gestionnaire paie et administration du personnel](20260518a417.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
-- **[K2104-11263 - Assistant / Assistante d'éducation](20260513b395.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](2026051380aa.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](2026051357a6.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[K2204-10573 - Agent / Agente de propreté et d'hygiène](2026051396d4.md)**  
+- **[M1501-15369 - Gestionnaire paie et administration du personnel](20260518678b.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
-- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](2026051372c2.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[K2104-11263 - Assistant / Assistante d'éducation](202605139bcf.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[K2204-10573 - Agent / Agente de propreté et d'hygiène](20260513cc18.md)**  
+- **[H1502-15587 - Ingénieur / Ingénieure assurance qualité en industrie](202605181437.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
-- **[G1602-12756 - Commis / Commise de cuisine](2026051359bb.md)**  
+- **[M1501-15369 - Gestionnaire paie et administration du personnel](202605180505.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[H1502-15587 - Ingénieur / Ingénieure assurance qualité en industrie](20260518410f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[H1502-15587 - Ingénieur / Ingénieure assurance qualité en industrie](20260518e02a.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[H1502-15587 - Ingénieur / Ingénieure assurance qualité en industrie](202605185364.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[H1502-15587 - Ingénieur / Ingénieure assurance qualité en industrie](20260518505d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[M1501-15369 - Gestionnaire paie et administration du personnel](202605185f3c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[D1506-16389 - Marchandiseur / Marchandiseuse](2026051817a6.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[K2104-19601 - Surveillant / Surveillante en milieu scolaire](202605131f21.md)**  
+- **[G1401-18997 - Responsable d'hébergement hôtelier](202605187210.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[K2104-19601 - Surveillant / Surveillante en milieu scolaire](202605134c0b.md)**  
+- **[G1401-18997 - Responsable d'hébergement hôtelier](202605182cfc.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[Technicien expert / Technicienne experte immobilier](202605135e7e.md)**  
-    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[K2104-19601 - Surveillant / Surveillante en milieu scolaire](202605134986.md)**  
+- **[D1506-16389 - Marchandiseur / Marchandiseuse](202605189fe2.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](202605132b8e.md)**  
+- **[D1506-16389 - Marchandiseur / Marchandiseuse](20260518ec10.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](20260513eeb4.md)**  
+- **[M1501-11231 - Assistant / Assistante de gestion administrative du personnel](202605181758.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[D1106-20560 - Vendeur / Vendeuse en boulangerie-pâtisserie](20260518bf6d.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[G1603-14875 - Equipier polyvalent / Equipière polyvalente de restauration rapide](2026051343f5.md)**  
+- **[D1106-20560 - Vendeur / Vendeuse en boulangerie-pâtisserie](20260518bc63.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[H1502-15587 - Ingénieur / Ingénieure assurance qualité en industrie](20260518ec0a.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[D1403-38068 - Chargé / Chargée de recouvrement de créances](20260518f98e.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
