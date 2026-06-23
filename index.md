@@ -1,13 +1,40 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **722** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **266** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
-- **[1 Agent informateur et animateur jeunesse](2026061906ef.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+- **[Préparateur / Préparatrice en pharmacie d'officine](2026062251d9.md)**  
+    :material-domain: *PHARMACIE MAGENTA PLAGE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
-- **[1 Commercial](20260619017a.md)**  
+- **[Magasinier / Magasiniére cariste](20260622d1d5.md)**  
+    :material-domain: *CALLIDUS NOUVELLE CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Formateur / Formatrice comptabilité et gestion financiére](202606223302.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Instituteur spécialisé / Institutrice spécialisée](202606224300.md)**  
+    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Educateur familial / Educatrice familiale](20260622ce0f.md)**  
+    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Visiteur / Visiteuse pharmaceutique](20260621ab25.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne logistique responsable stocks](202606210e0f.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Préparateur / Préparatrice en pharmacie d'officine](202606219c7d.md)**  
+    :material-domain: *PHARMACIE DE BOULOUPARIS* | :material-file-document-outline: CDI | :material-map-marker-outline: BOULOUPARIS
+
+- **[Secrétaire juridique](20260619d07a.md)**  
+    :material-domain: *SITRITA Estelle, Caletrë* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de magasin](20260619d4ac.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Vendeur comptoir expérimenté](20260619ce0a.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[1 Chef du service milieux et ressources aquatiques](20260619003a.md)**  
@@ -16,7 +43,10 @@ Accédez aux **722** offres d'emploi actuellement actives sur le territoire.
 - **[1 Responsable magasin](202606194156.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[1 Vendeur comptoir expérimenté](20260619ce0a.md)**  
+- **[1 Commercial](20260619017a.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Agent informateur et animateur jeunesse](2026061906ef.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[1 Gestionnaire du parc automobile](202606199fa9.md)**  
@@ -31,10 +61,10 @@ Accédez aux **722** offres d'emploi actuellement actives sur le territoire.
 - **[1 Animateur terrain - sensibilisation à la préservation du dugong et des tortues](202606198cf1.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
-- **[2 Enseignants suppléants annualisés LCK -55-2026 / DEFIJ](20260619ce14.md)**  
+- **[3 Enseignants suppléants annualisés LCK-55-2026 / DEFIJ](202606194ba1.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[3 Enseignants suppléants annualisés LCK-55-2026 / DEFIJ](202606194ba1.md)**  
+- **[2 Enseignants suppléants annualisés LCK -55-2026 / DEFIJ](20260619ce14.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[2 Enseignants suppléants annualisés -54-2026 / DEFIJ](202606194c59.md)**  
@@ -43,56 +73,26 @@ Accédez aux **722** offres d'emploi actuellement actives sur le territoire.
 - **[2 Enseignants suppléants annualisés -54-2026 / DEFIJ](202606198f62.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[1 Responsable technique d'armement](20260617004f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+- **[Auxiliaire Spécialisé / Spécialisée Vétérinaire -ASV-](20260619dd4f.md)**  
+    :material-domain: *LEADER VET HIPPOCAMPE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
-- **[1 Technicien service](20260616046a.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+- **[Vétérinaire canin](2026061914a1.md)**  
+    :material-domain: *LEADER VET HIPPOCAMPE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
-- **[Infirmier / Infirmière en soins généraux - réf 3134-26-0883/SR du 5 juin 2026](20260605295b.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+- **[Conducteur / Conductrice d'engins BTP](2026061833cb.md)**  
+    :material-domain: *SARL DZUMAC* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
-- **[1 Infirmier / Infirmière de soins généraux-26-0882/SR du 5 juin 2026 - DASSPS- BELEP](202606054631.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+- **[Assistant administratif / Assistante administrative et comptable](20260618d2f9.md)**  
+    :material-domain: *AZUR SANTE* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
 
-- **[1 Chef magasinier](202606049818.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+- **[Directeur / Directrice de maison de retraite](202606182fe3.md)**  
+    :material-domain: *AZUR SANTE* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
 
-- **[1 Chef de cuisine spécialité vietnamienne et asiatique](20260604a3fd.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+- **[Technicien / Technicienne de planning transport routier de marchandises](20260617747b.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[1 Aide Technicien](20260603ae61.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Enseignant documentaliste-Collège Hippolyte Bonou et LP Gabriel Rivat - Pouébo](202606022652.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Infirmier en hémodialyse- Fixe Koumac](202606022eb6.md)**  
-    :material-domain: *ASSOCIATION POUR LA PREVENTION ET LE TRAITEMENT DE L'INSUFFISANCE RENALE EN NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[1 Chef de projet géomatique - 0795/SR du 22 mai 2026 - Koné](202606026b5e.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Enseignant suppléant LCK (Païcî) - Année scolaire 2027 - Poya (Village et Gohapin)](20260602c494.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Technicien électricien / Agent de maîtrise électricien](20260602bd1d.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[1 Assistant social de secteur (H/F) - 0408/SR du 20 mars 2026](202606029d30.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Infirmier référent en gérontologie - 0537/SR du 10/04/2026 - Côte Est - Poindimié](20260602b607.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Infirmier en soins généraux (H/F) - 26-0440/SR du 27 mars 2026](2026060287c9.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Médecin itinérant et de téléconsultation - 0727/SR du 8 mai 2026 - Nouméa](202606021b21.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Chargé d'études hors bilan - 0407/SR du 20 mars 2026 - Koné](202606020a81.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+- **[Graphiste](20260617ac5f.md)**  
+    :material-domain: *STICKNSHIRT FACTORY* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
