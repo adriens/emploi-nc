@@ -1,8 +1,20 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **274** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **278** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Chargé de projet jeunesse](20260624a472.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Employé familial / Employée familiale de maison](202606248ab9.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Animateur / Animatrice d'attractions](202606248fdf.md)**  
+    :material-domain: *MANAMANO* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Conseiller / Conseillére en formation](202606241153.md)**  
+    :material-domain: *ASSOCIATION FORMATION BTP (AF-BTP)* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Directeur / Directrice de centre de profit](20260623fbc4.md)**  
     :material-domain: *MULTI EXPERTISES TECHNIQUES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -70,10 +82,10 @@ Accédez aux **274** offres d'emploi actuellement actives sur le territoire.
 - **[1 Vendeur comptoir expérimenté](20260619ce0a.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[1 Agent informateur et animateur jeunesse](2026061906ef.md)**  
+- **[1 Commercial](20260619017a.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[1 Commercial](20260619017a.md)**  
+- **[1 Agent informateur et animateur jeunesse](2026061906ef.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[1 Mécanicien sur engins minier - Kaala Gomen](202606190241.md)**  
@@ -81,18 +93,6 @@ Accédez aux **274** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Technicien service](20260619dac5.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[1 Gestionnaire du parc automobile](202606199fa9.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[3 Enseignants suppléants annualisés LCK-55-2026 / DEFIJ](202606194ba1.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[2 Enseignants suppléants annualisés -54-2026 / DEFIJ](202606194c59.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[2 Enseignants suppléants annualisés LCK -55-2026 / DEFIJ](20260619ce14.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
