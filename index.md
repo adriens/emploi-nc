@@ -1,8 +1,41 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **278** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **288** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Chargé / Chargée d'affaires en électricité](20260625404a.md)**  
+    :material-domain: *NIUSYSTEM NOUVELLE CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Conseiller à l'emploi](202606253097.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Conseiller / Conseillére en séjour touristique](202606253bbf.md)**  
+    :material-domain: *SPL AGENCE D'ATTRACTIVITE SUD TOURISME* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne paie](202606255a88.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: INTERIM | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse en boulangerie-pétisserie](202606249079.md)**  
+    :material-domain: *L.T* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Développeur / Développeuse full-stack](202606244161.md)**  
+    :material-domain: *BALLANDE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Développeur / Développeuse full-stack](2026062434b6.md)**  
+    :material-domain: *BALLANDE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Assistant / Assistante de gestion en ressources humaines](2026062488d1.md)**  
+    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Menuisier / Menuisiére atelier et pose](202606242069.md)**  
+    :material-domain: *MEUBLES DU PACIFIQUE LTD* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Vendeur / Vendeuse en téléphonie](202606247788.md)**  
+    :material-domain: *MOBILE PROTECT NC* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Vendeur / Vendeuse en téléphonie](202606240a9e.md)**  
+    :material-domain: *MOBILE PROTECT NC* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
 - **[Chargé de projet jeunesse](20260624a472.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -60,39 +93,6 @@ Accédez aux **278** offres d'emploi actuellement actives sur le territoire.
 
 - **[Visiteur / Visiteuse pharmaceutique](20260621ab25.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne logistique responsable stocks](202606210e0f.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Préparateur / Préparatrice en pharmacie d'officine](202606219c7d.md)**  
-    :material-domain: *PHARMACIE DE BOULOUPARIS* | :material-file-document-outline: CDI | :material-map-marker-outline: BOULOUPARIS
-
-- **[Secrétaire juridique](20260619d07a.md)**  
-    :material-domain: *SITRITA Estelle, Caletrë* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de magasin](20260619d4ac.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Responsable magasin](202606194156.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Chef du service milieux et ressources aquatiques](20260619003a.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Vendeur comptoir expérimenté](20260619ce0a.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Commercial](20260619017a.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Agent informateur et animateur jeunesse](2026061906ef.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Mécanicien sur engins minier - Kaala Gomen](202606190241.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[1 Technicien service](20260619dac5.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 
 
