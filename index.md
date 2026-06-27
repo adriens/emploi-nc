@@ -1,8 +1,56 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **288** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **304** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Enseignant en Éducation socioculturelle](2026062619d7.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Mécanicien / Mécanicienne agricole](202606262512.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Ingénieur Mine Sénior](202606263e06.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[1 Responsable technique d'armement](202606262c48.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Directeur de magasins](20260626d819.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Enseignant suppléant occasionnel - 76/2026 du 22 juin 2026 - CANALA](202606262da5.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Agent / Agente de cuisine](20260626dbd4.md)**  
+    :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: CDD | :material-map-marker-outline: ILE DES PINS
+
+- **[Opticien / Opticienne responsable de magasin](2026062603d5.md)**  
+    :material-domain: *OPTIC BELLE VIE* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Commis / Commise de restaurant](202606264abe.md)**  
+    :material-domain: *BLUE LAGOON* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Serveur / Serveuse](202606265c71.md)**  
+    :material-domain: *BLUE LAGOON* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Serveur / Serveuse de bar](2026062606c4.md)**  
+    :material-domain: *BLUE LAGOON* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Contréleur / Contréleuse de gestion commerciale](202606264513.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Gestionnaire paie et administration du personnel](20260626fd10.md)**  
+    :material-domain: *FIDEC SOCIAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Serveur / Serveuse de café](20260626f6b6.md)**  
+    :material-domain: *BLUE LAGOON* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente d'entretien des installations d'infrastructures](20260625755d.md)**  
+    :material-domain: *ASSOCIATION POUR LA PREVENTION ET LE TRAITEMENT DE L'INSUFFISANCE RENALE EN NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[Aide-comptable facturier / Aide-comptable facturiére](20260625871d.md)**  
+    :material-domain: *MGN SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: YATE
 
 - **[Chargé / Chargée d'affaires en électricité](20260625404a.md)**  
     :material-domain: *NIUSYSTEM NOUVELLE CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -45,54 +93,6 @@ Accédez aux **288** offres d'emploi actuellement actives sur le territoire.
 
 - **[Animateur / Animatrice d'attractions](202606248fdf.md)**  
     :material-domain: *MANAMANO* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Conseiller / Conseillére en formation](202606241153.md)**  
-    :material-domain: *ASSOCIATION FORMATION BTP (AF-BTP)* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Directeur / Directrice de centre de profit](20260623fbc4.md)**  
-    :material-domain: *MULTI EXPERTISES TECHNIQUES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante de cabinet juridique](20260623adcb.md)**  
-    :material-domain: *SELARL LOÏC PIEUX* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Préparateur / Préparatrice en pharmacie d'officine](2026062312b2.md)**  
-    :material-domain: *PHARMACIE ROCADE DU MONT DORE* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Vendeur / Vendeuse en revétement de mur, sol](20260623e387.md)**  
-    :material-domain: *BATI CENTER* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable achats et logistique](202606235247.md)**  
-    :material-domain: *BATI CENTER* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée de clientéle particuliers de banque](2026062370c7.md)**  
-    :material-domain: *SOCIETE GENERALE CALEDONIENNE  DE BANQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier boulanger / Ouvriére boulangére](20260622b3a0.md)**  
-    :material-domain: *AU PETRIN* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Responsable QSE - Qualité Sécurité Environnement BTP](2026062245be.md)**  
-    :material-domain: *ARBE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Assistant administratif / Assistante administrative](2026062266a0.md)**  
-    :material-domain: *MAISON DE LA SECURITE ET DE L'EPI* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Préparateur / Préparatrice en pharmacie d'officine](2026062251d9.md)**  
-    :material-domain: *PHARMACIE MAGENTA PLAGE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Magasinier / Magasiniére cariste](20260622d1d5.md)**  
-    :material-domain: *CALLIDUS NOUVELLE CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Formateur / Formatrice comptabilité et gestion financiére](202606223302.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Instituteur spécialisé / Institutrice spécialisée](202606224300.md)**  
-    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Educateur familial / Educatrice familiale](20260622ce0f.md)**  
-    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Visiteur / Visiteuse pharmaceutique](20260621ab25.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
