@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **304** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **305** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé polyvalent / Employée polyvalente de libre-service](2026062633f2.md)**  
+    :material-domain: *TUCANO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[1 Enseignant en Éducation socioculturelle](2026062619d7.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -10,16 +13,16 @@ Accédez aux **304** offres d'emploi actuellement actives sur le territoire.
 - **[Mécanicien / Mécanicienne agricole](202606262512.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
+- **[Enseignant suppléant occasionnel - 76/2026 du 22 juin 2026 - CANALA](202606262da5.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
 - **[1 Ingénieur Mine Sénior](202606263e06.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[1 Responsable technique d'armement](202606262c48.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[1 Directeur de magasins](20260626d819.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
-- **[Enseignant suppléant occasionnel - 76/2026 du 22 juin 2026 - CANALA](202606262da5.md)**  
+- **[1 Responsable technique d'armement](202606262c48.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Agent / Agente de cuisine](20260626dbd4.md)**  
@@ -90,9 +93,6 @@ Accédez aux **304** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé familial / Employée familiale de maison](202606248ab9.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Animateur / Animatrice d'attractions](202606248fdf.md)**  
-    :material-domain: *MANAMANO* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
 
 
