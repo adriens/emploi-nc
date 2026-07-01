@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **317** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **325** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Vendeur / Vendeuse en prét-é-porter féminin](20260630de18.md)**  
+    :material-domain: *LEMMYNEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Mécanicien / Mécanicienne de chantier](202606309ccc.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[1 Chargé d'enquête et de médiation socio-écologique](202606301993.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Ingénieur / Ingénieure conseil en prévention des risques industriels](2026063023fa.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée d'études économiques](202606306011.md)**  
+    :material-domain: *INSTITUT D'EMISSION D'OUTRE-MER* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[1 Vendeur polyvalent confirmé](202606293ddf.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Employé / Employée de maison](20260629813e.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Secrétaire médical / Secrétaire médicale vétérinaire](20260629513e.md)**  
+    :material-domain: *Information non diffusable* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Syndic de copropriété](202606299f82.md)**  
     :material-domain: *ISIS GESTION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -43,14 +67,14 @@ Accédez aux **317** offres d'emploi actuellement actives sur le territoire.
 - **[Employé polyvalent / Employée polyvalente de libre-service](2026062633f2.md)**  
     :material-domain: *TUCANO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[Mécanicien / Mécanicienne agricole](202606262512.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
 - **[1 Enseignant en Éducation socioculturelle](2026062619d7.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[1 Directeur de magasins](20260626d819.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+- **[Mécanicien / Mécanicienne agricole](202606262512.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Responsable technique d'armement](202606262c48.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Enseignant suppléant occasionnel - 76/2026 du 22 juin 2026 - CANALA](202606262da5.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -58,8 +82,8 @@ Accédez aux **317** offres d'emploi actuellement actives sur le territoire.
 - **[1 Ingénieur Mine Sénior](202606263e06.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
-- **[1 Responsable technique d'armement](202606262c48.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+- **[1 Directeur de magasins](20260626d819.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 - **[Agent / Agente de cuisine](20260626dbd4.md)**  
     :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: CDD | :material-map-marker-outline: ILE DES PINS
@@ -69,30 +93,6 @@ Accédez aux **317** offres d'emploi actuellement actives sur le territoire.
 
 - **[Commis / Commise de restaurant](202606264abe.md)**  
     :material-domain: *BLUE LAGOON* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Serveur / Serveuse](202606265c71.md)**  
-    :material-domain: *BLUE LAGOON* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Serveur / Serveuse de bar](2026062606c4.md)**  
-    :material-domain: *BLUE LAGOON* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Contréleur / Contréleuse de gestion commerciale](202606264513.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Gestionnaire paie et administration du personnel](20260626fd10.md)**  
-    :material-domain: *FIDEC SOCIAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Serveur / Serveuse de café](20260626f6b6.md)**  
-    :material-domain: *BLUE LAGOON* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente d'entretien des installations d'infrastructures](20260625755d.md)**  
-    :material-domain: *ASSOCIATION POUR LA PREVENTION ET LE TRAITEMENT DE L'INSUFFISANCE RENALE EN NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Aide-comptable facturier / Aide-comptable facturiére](20260625871d.md)**  
-    :material-domain: *MGN SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: YATE
-
-- **[Chargé / Chargée d'affaires en électricité](20260625404a.md)**  
-    :material-domain: *NIUSYSTEM NOUVELLE CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
