@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **325** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **329** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Responsable de laboratoire et bord de mer](202607014a7f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Chef barman / Cheffe barmaid](202607019b49.md)**  
+    :material-domain: *MERSEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne de maintenance des systémes d'alarme](2026070111b3.md)**  
+    :material-domain: *ARES* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[1 Assistant administratif polyvalent](20260630fea8.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Web vendeur / Web vendeuse](2026063079c9.md)**  
+    :material-domain: *DELICIEUSEMENT VOTRE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: MONT-DORE
+
+- **[Ouvrier / Ouvriére paysagiste](20260630e825.md)**  
+    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
+
+- **[Chauffeur Poids Lourd Polyvalent](2026063001f5.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[2 Agents de déchetterie à mi-temps](2026063067b7.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Vendeur / Vendeuse en prét-é-porter féminin](20260630de18.md)**  
     :material-domain: *LEMMYNEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -69,30 +93,6 @@ Accédez aux **325** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Enseignant en Éducation socioculturelle](2026062619d7.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Mécanicien / Mécanicienne agricole](202606262512.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Responsable technique d'armement](202606262c48.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Enseignant suppléant occasionnel - 76/2026 du 22 juin 2026 - CANALA](202606262da5.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Ingénieur Mine Sénior](202606263e06.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[1 Directeur de magasins](20260626d819.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Agent / Agente de cuisine](20260626dbd4.md)**  
-    :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: CDD | :material-map-marker-outline: ILE DES PINS
-
-- **[Opticien / Opticienne responsable de magasin](2026062603d5.md)**  
-    :material-domain: *OPTIC BELLE VIE* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Commis / Commise de restaurant](202606264abe.md)**  
-    :material-domain: *BLUE LAGOON* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
