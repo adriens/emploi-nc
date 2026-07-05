@@ -1,6 +1,6 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **336** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **332** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
