@@ -1,8 +1,47 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **332** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **345** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Coordinateur des opérations](2026070662c0.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Chef / Cheffe du service environnement en industrie](20260706b9a2.md)**  
+    :material-domain: *RHNC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chef cuisinier / Cheffe cuisiniére](2026070614a8.md)**  
+    :material-domain: *LE CHAPITÔ DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Boulanger-viennoisier / Boulangére-viennoisiére](2026070667d9.md)**  
+    :material-domain: *AU PETRIN* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Agent / Agente de sécurité](2026070628e0.md)**  
+    :material-domain: *PROTECTION.NC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Comptable général / Comptable générale](20260706cd6e.md)**  
+    :material-domain: *CONSERVATION INTERNATIONAL FOUNDATION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de maison](20260706a191.md)**  
+    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne support en systémes téléinformatiques](202607059ae2.md)**  
+    :material-domain: *HAL MICRO-SYSTEMES SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de restaurant](2026070511cd.md)**  
+    :material-domain: *SARL BG* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne SAV](2026070540c1.md)**  
+    :material-domain: *CAFEINE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse en meubles](20260705564c.md)**  
+    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
+
+- **[Mécanicien sur engins miniers](20260705d2de.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Ouvrier / Ouvriére agricole](202607059cb9.md)**  
+    :material-domain: *CH'API'CULTURE* | :material-file-document-outline: CDI | :material-map-marker-outline: LA FOA
 
 - **[Assistant / Assistante paie](20260703ad3d.md)**  
     :material-domain: *OCEA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -54,45 +93,6 @@ Accédez aux **332** offres d'emploi actuellement actives sur le territoire.
 
 - **[Web vendeur / Web vendeuse](2026063079c9.md)**  
     :material-domain: *DELICIEUSEMENT VOTRE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: MONT-DORE
-
-- **[Ouvrier / Ouvriére paysagiste](20260630e825.md)**  
-    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
-
-- **[Vendeur / Vendeuse en prét-é-porter féminin](20260630de18.md)**  
-    :material-domain: *LEMMYNEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Mécanicien / Mécanicienne de chantier](202606309ccc.md)**  
-    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[1 Chargé d'enquête et de médiation socio-écologique](202606301993.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Ingénieur / Ingénieure conseil en prévention des risques industriels](2026063023fa.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée d'études économiques](202606306011.md)**  
-    :material-domain: *INSTITUT D'EMISSION D'OUTRE-MER* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[1 Vendeur polyvalent confirmé](202606293ddf.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Employé / Employée de maison](20260629813e.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Secrétaire médical / Secrétaire médicale vétérinaire](20260629513e.md)**  
-    :material-domain: *Information non diffusable* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Syndic de copropriété](202606299f82.md)**  
-    :material-domain: *ISIS GESTION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe de chantier](202606295cac.md)**  
-    :material-domain: *EL2T* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Conseiller / Conseillére emploi formation](20260629796d.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de bureau](202606290578.md)**  
-    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
