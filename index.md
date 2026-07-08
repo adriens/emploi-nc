@@ -1,11 +1,53 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **345** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **358** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
-- **[1 Coordinateur des opérations](2026070662c0.md)**  
+- **[Administrateur / Administratrice systémes et réseaux](2026070792a1.md)**  
+    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[ERP integrator](202607073dbb.md)**  
+    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne informatique](20260707d73a.md)**  
+    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant / Assistante de vie auprés de personnes handicapées](202607070985.md)**  
+    :material-domain: *ACCOMPAGNEMENT VERS L'AUTONOMIE (A.V.A.)* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
+
+- **[Conducteur / Conductrice de Véhicule Sanitaire](20260707fc75.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Chef de site tâcherons](2026070710f2.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Chef / Cheffe de projet études industrielles](20260707ada7.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé polyvalent / Employée polyvalente de libre-service](202607077418.md)**  
+    :material-domain: *KIM MARCHÉ* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Educateur familial / Educatrice familiale](2026070694ae.md)**  
+    :material-domain: *ASSOCIATION POUR LA PROTECTION DE L'ENFANCE, DE LA JEUNESSE ET DES ADULTES EN DIFFICULTE EN N.C* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Educateur familial / Educatrice familiale](20260706baf7.md)**  
+    :material-domain: *ASSOCIATION POUR LA PROTECTION DE L'ENFANCE, DE LA JEUNESSE ET DES ADULTES EN DIFFICULTE EN N.C* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Collaborateur commercial / Collaboratrice commerciale en assurances](20260706ce5b.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Expert / Experte é distance sinistres et dommages en assurances](20260706ab96.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée de clientéle en assurances](20260706e7ea.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de bureau d'assurances](20260706d98d.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Superviseur / Superviseuse de chantier](2026070638ed.md)**  
+    :material-domain: *NOVANCE* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
 
 - **[Chef / Cheffe du service environnement en industrie](20260706b9a2.md)**  
     :material-domain: *RHNC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -51,48 +93,6 @@ Accédez aux **345** offres d'emploi actuellement actives sur le territoire.
 
 - **[Coordinateur / Coordinatrice de travaux](20260703ecb0.md)**  
     :material-domain: *RHNC* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[1 Responsable des opérations Sénior - Poya (Népoui)](20260703e46d.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Superviseur / Superviseuse de travaux](202607033edc.md)**  
-    :material-domain: *RHNC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Comptable général / Comptable générale](20260702a5de.md)**  
-    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de magasin](202607026092.md)**  
-    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
-
-- **[1 Coordinateur(rice) LVCK de l'aire Païcî - AAC N°6060-84-2026/DEFIJ du 30 juin 2026 POINDIMIE](20260702a4b7.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Convoyeur / Convoyeuse de fonds et valeurs](20260702cea8.md)**  
-    :material-domain: *VIGIFONDS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne d'ordonnancement de production industrielle](20260702fafd.md)**  
-    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de bureau](20260702eba1.md)**  
-    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Aide maternel / Aide maternelle d'école](20260702101b.md)**  
-    :material-domain: *TROCHE Morgane* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Responsable de laboratoire et bord de mer](202607014a7f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Chef barman / Cheffe barmaid](202607019b49.md)**  
-    :material-domain: *MERSEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne de maintenance des systémes d'alarme](2026070111b3.md)**  
-    :material-domain: *ARES* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[1 Assistant administratif polyvalent](20260630fea8.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Web vendeur / Web vendeuse](2026063079c9.md)**  
-    :material-domain: *DELICIEUSEMENT VOTRE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: MONT-DORE
 
 
 
