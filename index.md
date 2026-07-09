@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **358** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **366** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Secrétaire de direction](2026070829e0.md)**  
+    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Ouvrier polyvalent / Ouvriére polyvalente d'entretien des bétiments](20260708d64d.md)**  
+    :material-domain: *CONTRABAT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Machiniste théétre](20260708aeff.md)**  
+    :material-domain: *LE CHAPITÔ DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée de production de spectacles](202607089a63.md)**  
+    :material-domain: *LE CHAPITÔ DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Secrétaire comptable](202607088a05.md)**  
+    :material-domain: *LE CHAPITÔ DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Assistant / Assistante des ventes](20260707401c.md)**  
+    :material-domain: *ER TRAVAUX* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Enseignant suppléant occasionnel - 89/2026 du 07 juillet 2026](202607071e68.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Coordinateur / Coordinatrice de travaux](20260707d64d.md)**  
+    :material-domain: *NOVANCE* | :material-file-document-outline: CDIC | :material-map-marker-outline: MONT-DORE
 
 - **[Administrateur / Administratrice systémes et réseaux](2026070792a1.md)**  
     :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -69,30 +93,6 @@ Accédez aux **358** offres d'emploi actuellement actives sur le territoire.
 
 - **[Technicien / Technicienne support en systémes téléinformatiques](202607059ae2.md)**  
     :material-domain: *HAL MICRO-SYSTEMES SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de restaurant](2026070511cd.md)**  
-    :material-domain: *SARL BG* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne SAV](2026070540c1.md)**  
-    :material-domain: *CAFEINE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en meubles](20260705564c.md)**  
-    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
-
-- **[Mécanicien sur engins miniers](20260705d2de.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Ouvrier / Ouvriére agricole](202607059cb9.md)**  
-    :material-domain: *CH'API'CULTURE* | :material-file-document-outline: CDI | :material-map-marker-outline: LA FOA
-
-- **[Assistant / Assistante paie](20260703ad3d.md)**  
-    :material-domain: *OCEA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Conducteur / Conductrice de travaux génie civil](202607033dfe.md)**  
-    :material-domain: *RHNC* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[Coordinateur / Coordinatrice de travaux](20260703ecb0.md)**  
-    :material-domain: *RHNC* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
 
 
 
