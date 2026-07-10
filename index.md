@@ -1,8 +1,29 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **366** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **372** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Responsable de délégation régionale en assurances](20260709a00f.md)**  
+    :material-domain: *ALLIANZ I.A.R.D.* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable d'unité de services à la personne](202607091911.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Poissonnier-traiteur / Poissonniére-traiteuse](202607092d8d.md)**  
+    :material-domain: *PLAISIR DU LAGON* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Agent / Agente d'exploitation informatique](2026070979e2.md)**  
+    :material-domain: *SF2I* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[2 Techniciens diéselistes engins de mine](20260709ce2f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Technicien / Technicienne support informatique](202607092554.md)**  
+    :material-domain: *SF2I* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Ouvrier / Ouvriére de maintenance d'équipements industriels](2026070818a3.md)**  
+    :material-domain: *MAINTENANCE ET SERVICES NC* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
 
 - **[Secrétaire de direction](2026070829e0.md)**  
     :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -72,27 +93,6 @@ Accédez aux **366** offres d'emploi actuellement actives sur le territoire.
 
 - **[Superviseur / Superviseuse de chantier](2026070638ed.md)**  
     :material-domain: *NOVANCE* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
-
-- **[Chef / Cheffe du service environnement en industrie](20260706b9a2.md)**  
-    :material-domain: *RHNC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chef cuisinier / Cheffe cuisiniére](2026070614a8.md)**  
-    :material-domain: *LE CHAPITÔ DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Boulanger-viennoisier / Boulangére-viennoisiére](2026070667d9.md)**  
-    :material-domain: *AU PETRIN* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Agent / Agente de sécurité](2026070628e0.md)**  
-    :material-domain: *PROTECTION.NC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Comptable général / Comptable générale](20260706cd6e.md)**  
-    :material-domain: *CONSERVATION INTERNATIONAL FOUNDATION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de maison](20260706a191.md)**  
-    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne support en systémes téléinformatiques](202607059ae2.md)**  
-    :material-domain: *HAL MICRO-SYSTEMES SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
