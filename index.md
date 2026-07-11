@@ -1,8 +1,38 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **372** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **382** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Responsable des Ressources Humaines -RRH-](202607106f50.md)**  
+    :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[1 Superviseur maintenance](202607108353.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Chef de partie tournant / Cheffe de partie tournante](202607105f63.md)**  
+    :material-domain: *MERSEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Coordinateur de formation professionnelle continue (CFPPA Pouembout)](202607105ae4.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Comptable d'entreprise](202607096a47.md)**  
+    :material-domain: *HOLDING SF2I* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Commercial / Commerciale](202607092553.md)**  
+    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Laveur / Laveuse de véhicules automobiles](20260709ba3d.md)**  
+    :material-domain: *SARL WADIANA* | :material-file-document-outline: CDD | :material-map-marker-outline: YATE
+
+- **[Vendeur / Vendeuse de primeurs](202607091752.md)**  
+    :material-domain: *DELICIEUSEMENT VOTRE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: MONT-DORE
+
+- **[Infirmier / Infirmiére en gériatrie](20260709755d.md)**  
+    :material-domain: *LES HESPERIDES* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[Préparateur / Préparatrice en pharmacie d'officine](202607092cf7.md)**  
+    :material-domain: *LA PHARMACIE DE BOULOUPARIS* | :material-file-document-outline: CDD | :material-map-marker-outline: BOULOUPARIS
 
 - **[Responsable de délégation régionale en assurances](20260709a00f.md)**  
     :material-domain: *ALLIANZ I.A.R.D.* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -63,36 +93,6 @@ Accédez aux **372** offres d'emploi actuellement actives sur le territoire.
 
 - **[Conducteur / Conductrice de Véhicule Sanitaire](20260707fc75.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Chef de site tâcherons](2026070710f2.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Chef / Cheffe de projet études industrielles](20260707ada7.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](202607077418.md)**  
-    :material-domain: *KIM MARCHÉ* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Educateur familial / Educatrice familiale](2026070694ae.md)**  
-    :material-domain: *ASSOCIATION POUR LA PROTECTION DE L'ENFANCE, DE LA JEUNESSE ET DES ADULTES EN DIFFICULTE EN N.C* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Educateur familial / Educatrice familiale](20260706baf7.md)**  
-    :material-domain: *ASSOCIATION POUR LA PROTECTION DE L'ENFANCE, DE LA JEUNESSE ET DES ADULTES EN DIFFICULTE EN N.C* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Collaborateur commercial / Collaboratrice commerciale en assurances](20260706ce5b.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Expert / Experte é distance sinistres et dommages en assurances](20260706ab96.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée de clientéle en assurances](20260706e7ea.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de bureau d'assurances](20260706d98d.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Superviseur / Superviseuse de chantier](2026070638ed.md)**  
-    :material-domain: *NOVANCE* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
 
 
 
