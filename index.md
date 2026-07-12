@@ -4,6 +4,12 @@ Accédez aux **382** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
+- **[Vendeur / Vendeuse en articles de bazar](202607110ea7.md)**  
+    :material-domain: *AVENUE DE LA FETE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse en boulangerie-pétisserie](20260710b0e4.md)**  
+    :material-domain: *LE BON PAIN* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
 - **[Responsable des Ressources Humaines -RRH-](202607106f50.md)**  
     :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
 
@@ -87,12 +93,6 @@ Accédez aux **382** offres d'emploi actuellement actives sur le territoire.
 
 - **[Technicien / Technicienne informatique](20260707d73a.md)**  
     :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante de vie auprés de personnes handicapées](202607070985.md)**  
-    :material-domain: *ACCOMPAGNEMENT VERS L'AUTONOMIE (A.V.A.)* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
-
-- **[Conducteur / Conductrice de Véhicule Sanitaire](20260707fc75.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
