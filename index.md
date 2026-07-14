@@ -1,8 +1,20 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **382** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **386** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Agent de service (H/F)](20260713c924.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Conducteur de dumper (Nakéty)](2026071253e8.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Agent / Agente de comptoir en vente de voyages](202607124fda.md)**  
+    :material-domain: *SUDILES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Enseignant suppléant occasionnel LCK (Xârâcùù) - 91/2026 du 10 juillet 2026](20260712ef7c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Vendeur / Vendeuse en articles de bazar](202607110ea7.md)**  
     :material-domain: *AVENUE DE LA FETE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -81,18 +93,6 @@ Accédez aux **382** offres d'emploi actuellement actives sur le territoire.
 
 - **[Enseignant suppléant occasionnel - 89/2026 du 07 juillet 2026](202607071e68.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Coordinateur / Coordinatrice de travaux](20260707d64d.md)**  
-    :material-domain: *NOVANCE* | :material-file-document-outline: CDIC | :material-map-marker-outline: MONT-DORE
-
-- **[Administrateur / Administratrice systémes et réseaux](2026070792a1.md)**  
-    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[ERP integrator](202607073dbb.md)**  
-    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne informatique](20260707d73a.md)**  
-    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
