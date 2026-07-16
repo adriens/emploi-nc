@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **385** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **393** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Aide électricien monteur / Aide électricienne monteuse réseaux](202607157606.md)**  
+    :material-domain: *SEPAC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Electricien / Electricienne d'entretien en industrie](202607152ad1.md)**  
+    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée d'affaires en industrie](202607157e2f.md)**  
+    :material-domain: *SOCIETE DES ATELIERS DE MECANIQUE ET DE CHAUDRONNERIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant administratif / Assistante administrative et comptable](202607155e82.md)**  
+    :material-domain: *HOLDING SF2I* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de rayon](20260715065a.md)**  
+    :material-domain: *SMDI SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
+
+- **[Agent / Agente de transit maritime](202607144b1d.md)**  
+    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chef / Cheffe de travaux](202607149971.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[2 Vendeurs](202607148873.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[1 Agent de service (H/F)](20260713c924.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -69,30 +93,6 @@ Accédez aux **385** offres d'emploi actuellement actives sur le territoire.
 
 - **[Technicien / Technicienne support informatique](202607092554.md)**  
     :material-domain: *SF2I* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier / Ouvriére de maintenance d'équipements industriels](2026070818a3.md)**  
-    :material-domain: *MAINTENANCE ET SERVICES NC* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Secrétaire de direction](2026070829e0.md)**  
-    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier polyvalent / Ouvriére polyvalente d'entretien des bétiments](20260708d64d.md)**  
-    :material-domain: *CONTRABAT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Machiniste théétre](20260708aeff.md)**  
-    :material-domain: *LE CHAPITÔ DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée de production de spectacles](202607089a63.md)**  
-    :material-domain: *LE CHAPITÔ DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Secrétaire comptable](202607088a05.md)**  
-    :material-domain: *LE CHAPITÔ DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante des ventes](20260707401c.md)**  
-    :material-domain: *ER TRAVAUX* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Enseignant suppléant occasionnel - 89/2026 du 07 juillet 2026](202607071e68.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
