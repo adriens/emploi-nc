@@ -1,8 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **393** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **399** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Responsable gestionnaire des stocks](20260716e3b4.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne installation et maintenance en systémes solaires, thermiques et photovoltaéques](202607163ff1.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de magasin](20260716c745.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée de service aprés-vente](20260716277e.md)**  
+    :material-domain: *SOCALFI* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de ménage](20260715e5d4.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chargé / Chargée d'affaires en industrie](2026071554c9.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Aide électricien monteur / Aide électricienne monteuse réseaux](202607157606.md)**  
     :material-domain: *SEPAC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -75,24 +93,6 @@ Accédez aux **393** offres d'emploi actuellement actives sur le territoire.
 
 - **[Préparateur / Préparatrice en pharmacie d'officine](202607092cf7.md)**  
     :material-domain: *LA PHARMACIE DE BOULOUPARIS* | :material-file-document-outline: CDD | :material-map-marker-outline: BOULOUPARIS
-
-- **[Responsable de délégation régionale en assurances](20260709a00f.md)**  
-    :material-domain: *ALLIANZ I.A.R.D.* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable d'unité de services à la personne](202607091911.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Poissonnier-traiteur / Poissonniére-traiteuse](202607092d8d.md)**  
-    :material-domain: *PLAISIR DU LAGON* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Agent / Agente d'exploitation informatique](2026070979e2.md)**  
-    :material-domain: *SF2I* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[2 Techniciens diéselistes engins de mine](20260709ce2f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Technicien / Technicienne support informatique](202607092554.md)**  
-    :material-domain: *SF2I* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
