@@ -1,8 +1,14 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **399** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **401** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Matelot de la marine marchande](20260716a701.md)**  
+    :material-domain: *SUDILES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente de sécurité](202607162fff.md)**  
+    :material-domain: *SUDILES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Responsable gestionnaire des stocks](20260716e3b4.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -87,12 +93,6 @@ Accédez aux **399** offres d'emploi actuellement actives sur le territoire.
 
 - **[Vendeur / Vendeuse de primeurs](202607091752.md)**  
     :material-domain: *DELICIEUSEMENT VOTRE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: MONT-DORE
-
-- **[Infirmier / Infirmiére en gériatrie](20260709755d.md)**  
-    :material-domain: *LES HESPERIDES* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Préparateur / Préparatrice en pharmacie d'officine](202607092cf7.md)**  
-    :material-domain: *LA PHARMACIE DE BOULOUPARIS* | :material-file-document-outline: CDD | :material-map-marker-outline: BOULOUPARIS
 
 
 
