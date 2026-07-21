@@ -1,8 +1,29 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **400** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **407** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé / Employée de bureau](20260720764f.md)**  
+    :material-domain: *SIVAC* | :material-file-document-outline: CDI | :material-map-marker-outline: BOURAIL
+
+- **[1 Educateur sportif / Educatrice sportive sur Koné](202607206265.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Commercial pneumatique - Nord](20260720ace9.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Comptable spécialisé / Comptable spécialisée en comptabilité analytique](20260720aa0a.md)**  
+    :material-domain: *TECHNOLOGY SHARED SERVICES PACIFIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Conducteur / Conductrice de pelle hydraulique](20260720d9e4.md)**  
+    :material-domain: *GORO MINES* | :material-file-document-outline: CDD | :material-map-marker-outline: YATE
+
+- **[Adjoint d'éducation dortoir fille - 0980/SR du 26 Juin  2026 - Koumac](20260719d6fc.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Plongeur / Plongeuse en restauration](202607193009.md)**  
+    :material-domain: *NIMALIJU* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Matelot de la marine marchande](20260716a701.md)**  
     :material-domain: *SUDILES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -72,27 +93,6 @@ Accédez aux **400** offres d'emploi actuellement actives sur le territoire.
 
 - **[Responsable des Ressources Humaines -RRH-](202607106f50.md)**  
     :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[1 Superviseur maintenance](202607108353.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Chef de partie tournant / Cheffe de partie tournante](202607105f63.md)**  
-    :material-domain: *MERSEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Coordinateur de formation professionnelle continue (CFPPA Pouembout)](202607105ae4.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Comptable d'entreprise](202607096a47.md)**  
-    :material-domain: *HOLDING SF2I* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Commercial / Commerciale](202607092553.md)**  
-    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Laveur / Laveuse de véhicules automobiles](20260709ba3d.md)**  
-    :material-domain: *SARL WADIANA* | :material-file-document-outline: CDD | :material-map-marker-outline: YATE
-
-- **[Vendeur / Vendeuse de primeurs](202607091752.md)**  
-    :material-domain: *DELICIEUSEMENT VOTRE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: MONT-DORE
 
 
 
