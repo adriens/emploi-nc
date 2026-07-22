@@ -1,8 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **407** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **413** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Mécanicien / Mécanicienne poids lourds](20260721f3dc.md)**  
+    :material-domain: *CIPAC SERVICES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant administratif et commercial / Assistante administrative et commerciale](20260721b3a8.md)**  
+    :material-domain: *SATNET* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant administratif et commercial / Assistante administrative et commerciale](20260721c0f7.md)**  
+    :material-domain: *CIPAC MEDICAL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Conducteur / Conductrice de travaux](20260721dbb7.md)**  
+    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
+
+- **[Responsable qualité](202607210500.md)**  
+    :material-domain: *SOCIETE DES PRODUCTEURS AQUACOLES CALEDONIENS* | :material-file-document-outline: CDI | :material-map-marker-outline: KONE
+
+- **[Concepteur aménageur / Conceptrice aménageuse d'espaces intérieurs](202607203881.md)**  
+    :material-domain: *ECODECO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Employé / Employée de bureau](20260720764f.md)**  
     :material-domain: *SIVAC* | :material-file-document-outline: CDI | :material-map-marker-outline: BOURAIL
@@ -75,24 +93,6 @@ Accédez aux **407** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Agent de service (H/F)](20260713c924.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Conducteur de dumper (Nakéty)](2026071253e8.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Agent / Agente de comptoir en vente de voyages](202607124fda.md)**  
-    :material-domain: *SUDILES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Enseignant suppléant occasionnel LCK (Xârâcùù) - 91/2026 du 10 juillet 2026](20260712ef7c.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Vendeur / Vendeuse en articles de bazar](202607110ea7.md)**  
-    :material-domain: *AVENUE DE LA FETE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en boulangerie-pétisserie](20260710b0e4.md)**  
-    :material-domain: *LE BON PAIN* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Responsable des Ressources Humaines -RRH-](202607106f50.md)**  
-    :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
 
 
 
