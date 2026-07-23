@@ -1,8 +1,38 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **413** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **422** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Chef / Cheffe d'équipe en pose de charpentes bois](202607220cde.md)**  
+    :material-domain: *DELTABOIS* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
+
+- **[Peintre finisseur / Peintre finisseuse](20260722be4d.md)**  
+    :material-domain: *IVPAINT* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
+
+- **[Secrétaire polyvalent / Secrétaire polyvalente](202607220839.md)**  
+    :material-domain: *CHRONO 64* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Secrétaire (H/F) - JSD - MAIRIE DE POINDIMIE](20260722dbce.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chef / Cheffe de groupe transit](20260722c06a.md)**  
+    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Infirmier / Infirmiére en gériatrie](20260722c259.md)**  
+    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Téléprospecteur / Téléprospectrice](20260722e94f.md)**  
+    :material-domain: *GECOWATT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Educateur spécialisé (H/F)](202607214822.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Syndic de copropriété](2026072189b5.md)**  
+    :material-domain: *ISIS GESTION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Responsable QHSE ISO 22000](2026072178ab.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Mécanicien / Mécanicienne poids lourds](20260721f3dc.md)**  
     :material-domain: *CIPAC SERVICES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -62,36 +92,6 @@ Accédez aux **413** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *SOCALFI* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Employé / Employée de ménage](20260715e5d4.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Chargé / Chargée d'affaires en industrie](2026071554c9.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Aide électricien monteur / Aide électricienne monteuse réseaux](202607157606.md)**  
-    :material-domain: *SEPAC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Electricien / Electricienne d'entretien en industrie](202607152ad1.md)**  
-    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée d'affaires en industrie](202607157e2f.md)**  
-    :material-domain: *SOCIETE DES ATELIERS DE MECANIQUE ET DE CHAUDRONNERIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant administratif / Assistante administrative et comptable](202607155e82.md)**  
-    :material-domain: *HOLDING SF2I* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de rayon](20260715065a.md)**  
-    :material-domain: *SMDI SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Agent / Agente de transit maritime](202607144b1d.md)**  
-    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe de travaux](202607149971.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[2 Vendeurs](202607148873.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Agent de service (H/F)](20260713c924.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
