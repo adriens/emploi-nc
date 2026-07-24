@@ -1,8 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **422** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **428** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Superviseur / Superviseuse de travaux](20260723219f.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de maintenance aéronautique](20260723f117.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Opticien-lunetier / Opticienne-lunetiére](20260723c21b.md)**  
+    :material-domain: *LA GENERALE NC* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[Opticien-lunetier / Opticienne-lunetiére](20260723f895.md)**  
+    :material-domain: *LA GENERALE NC* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Contréleur / Contréleuse de gestion budgétaire](2026072348c8.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chef / Cheffe de laboratoire d'analyse industrielle](202607239200.md)**  
+    :material-domain: *NI-LAB* | :material-file-document-outline: CDD | :material-map-marker-outline: POUEMBOUT
 
 - **[Chef / Cheffe d'équipe en pose de charpentes bois](202607220cde.md)**  
     :material-domain: *DELTABOIS* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
@@ -75,24 +93,6 @@ Accédez aux **422** offres d'emploi actuellement actives sur le territoire.
 
 - **[Matelot de la marine marchande](20260716a701.md)**  
     :material-domain: *SUDILES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de sécurité](202607162fff.md)**  
-    :material-domain: *SUDILES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable gestionnaire des stocks](20260716e3b4.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne installation et maintenance en systémes solaires, thermiques et photovoltaéques](202607163ff1.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de magasin](20260716c745.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée de service aprés-vente](20260716277e.md)**  
-    :material-domain: *SOCALFI* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de ménage](20260715e5d4.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
