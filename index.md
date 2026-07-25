@@ -1,8 +1,38 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **428** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **435** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Secrétaire comptable](20260724bd51.md)**  
+    :material-domain: *ISIS GESTION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Gestionnaire paie et administration du personnel](2026072437ab.md)**  
+    :material-domain: *FIDEC SOCIAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Pharmacien / Pharmacienne en officine](2026072404b5.md)**  
+    :material-domain: *PHARMACIE D'OUVEA* | :material-file-document-outline: CDD | :material-map-marker-outline: OUVEA
+
+- **[Agent / Agente de sécurité](2026072419b5.md)**  
+    :material-domain: *SARL RGS* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[Gestionnaire comptable](20260724c716.md)**  
+    :material-domain: *L'AGENT COMPTABLE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de bureau](202607244f7e.md)**  
+    :material-domain: *SEPAC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente de collecte de déchets](20260724b214.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DE SERVICES PUBLICS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Comptable gérance immobiliére](20260723c337.md)**  
+    :material-domain: *TROPIC IMMOBILIER* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant / Assistante de gestion d'entreprise](20260723b25e.md)**  
+    :material-domain: *DECOSOLS & CONSTRUCTIONS* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[Cuisiniste](20260723432c.md)**  
+    :material-domain: *L.M.D.* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Superviseur / Superviseuse de travaux](20260723219f.md)**  
     :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -63,36 +93,6 @@ Accédez aux **428** offres d'emploi actuellement actives sur le territoire.
 
 - **[Conducteur / Conductrice de travaux](20260721dbb7.md)**  
     :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
-
-- **[Responsable qualité](202607210500.md)**  
-    :material-domain: *SOCIETE DES PRODUCTEURS AQUACOLES CALEDONIENS* | :material-file-document-outline: CDI | :material-map-marker-outline: KONE
-
-- **[Concepteur aménageur / Conceptrice aménageuse d'espaces intérieurs](202607203881.md)**  
-    :material-domain: *ECODECO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de bureau](20260720764f.md)**  
-    :material-domain: *SIVAC* | :material-file-document-outline: CDI | :material-map-marker-outline: BOURAIL
-
-- **[1 Educateur sportif / Educatrice sportive sur Koné](202607206265.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Commercial pneumatique - Nord](20260720ace9.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Comptable spécialisé / Comptable spécialisée en comptabilité analytique](20260720aa0a.md)**  
-    :material-domain: *TECHNOLOGY SHARED SERVICES PACIFIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Conducteur / Conductrice de pelle hydraulique](20260720d9e4.md)**  
-    :material-domain: *GORO MINES* | :material-file-document-outline: CDD | :material-map-marker-outline: YATE
-
-- **[Adjoint d'éducation dortoir fille - 0980/SR du 26 Juin  2026 - Koumac](20260719d6fc.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Plongeur / Plongeuse en restauration](202607193009.md)**  
-    :material-domain: *NIMALIJU* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Matelot de la marine marchande](20260716a701.md)**  
-    :material-domain: *SUDILES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
