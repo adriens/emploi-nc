@@ -1,8 +1,14 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **435** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **434** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé / Employée de ménage](202607258d60.md)**  
+    :material-domain: *CBM* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Préparateur / Préparatrice en pharmacie hospitaliére](202607259da7.md)**  
+    :material-domain: *PHARMACIE DU KADUCEE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
 
 - **[Secrétaire comptable](20260724bd51.md)**  
     :material-domain: *ISIS GESTION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -87,12 +93,6 @@ Accédez aux **435** offres d'emploi actuellement actives sur le territoire.
 
 - **[Assistant administratif et commercial / Assistante administrative et commerciale](20260721b3a8.md)**  
     :material-domain: *SATNET* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant administratif et commercial / Assistante administrative et commerciale](20260721c0f7.md)**  
-    :material-domain: *CIPAC MEDICAL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Conducteur / Conductrice de travaux](20260721dbb7.md)**  
-    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
 
 
 
