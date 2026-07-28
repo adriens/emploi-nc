@@ -1,8 +1,50 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **434** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **448** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Technicien / Technicienne service aprés vente (SAV) en maintenance industrielle](202607273d5a.md)**  
+    :material-domain: *SERVICE TECHNIQUE INDUSTRIEL MARINE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Gestionnaire des bénéficiaires](20260727e9b3.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Pharmacien / Pharmacienne en officine](202607279583.md)**  
+    :material-domain: *PHARMACIE DU MALL* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Animateur / Animatrice de loisirs pour enfants](20260727c2f9.md)**  
+    :material-domain: *Ô JARDIN SPORTIF* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: PAITA
+
+- **[Responsable ventes de la distribution](202607279cdb.md)**  
+    :material-domain: *SARL REZO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Journaliste de presse écrite](202607261364.md)**  
+    :material-domain: *INTERMEDIAS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Acheteur / Acheteuse import](202607266358.md)**  
+    :material-domain: *FIGESBAL SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable des Ressources Humaines -RRH-](20260726fa9b.md)**  
+    :material-domain: *FIGESBAL SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Educateur familial / Educatrice familiale](202607265b54.md)**  
+    :material-domain: *ASSOCIATION POUR LA PROTECTION DE L'ENFANCE, DE LA JEUNESSE ET DES ADULTES EN DIFFICULTE EN N.C* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Responsable gestionnaire des stocks](20260726b6c0.md)**  
+    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
+
+- **[Responsable des Ressources Humaines -RRH-](20260726c287.md)**  
+    :material-domain: *TECHNOLOGY SHARED SERVICES PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Référent ressources humaines et administratif -  1125/SR du 24 juillet 2026 - Koné](202607260600.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Maître nageur sauveteur - 1124/SR du 24 juillet 2026 - Pouembout](20260726b040.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Enseignant suppléant occasionnel - 94/2026 du 22 juillet 2026](20260726970e.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Employé / Employée de ménage](202607258d60.md)**  
     :material-domain: *CBM* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -51,48 +93,6 @@ Accédez aux **434** offres d'emploi actuellement actives sur le territoire.
 
 - **[Opticien-lunetier / Opticienne-lunetiére](20260723f895.md)**  
     :material-domain: *LA GENERALE NC* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Contréleur / Contréleuse de gestion budgétaire](2026072348c8.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe de laboratoire d'analyse industrielle](202607239200.md)**  
-    :material-domain: *NI-LAB* | :material-file-document-outline: CDD | :material-map-marker-outline: POUEMBOUT
-
-- **[Chef / Cheffe d'équipe en pose de charpentes bois](202607220cde.md)**  
-    :material-domain: *DELTABOIS* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Peintre finisseur / Peintre finisseuse](20260722be4d.md)**  
-    :material-domain: *IVPAINT* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Secrétaire polyvalent / Secrétaire polyvalente](202607220839.md)**  
-    :material-domain: *CHRONO 64* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Secrétaire (H/F) - JSD - MAIRIE DE POINDIMIE](20260722dbce.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Chef / Cheffe de groupe transit](20260722c06a.md)**  
-    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Infirmier / Infirmiére en gériatrie](20260722c259.md)**  
-    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Téléprospecteur / Téléprospectrice](20260722e94f.md)**  
-    :material-domain: *GECOWATT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Educateur spécialisé (H/F)](202607214822.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Syndic de copropriété](2026072189b5.md)**  
-    :material-domain: *ISIS GESTION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Responsable QHSE ISO 22000](2026072178ab.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Mécanicien / Mécanicienne poids lourds](20260721f3dc.md)**  
-    :material-domain: *CIPAC SERVICES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant administratif et commercial / Assistante administrative et commerciale](20260721b3a8.md)**  
-    :material-domain: *SATNET* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
