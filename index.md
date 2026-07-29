@@ -1,13 +1,37 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **448** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **455** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Vendeur / Vendeuse en boulangerie-pétisserie](20260728d139.md)**  
+    :material-domain: *FDLC* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
+
+- **[Educateur familial / Educatrice familiale](20260728540a.md)**  
+    :material-domain: *ASSOCIATION POUR LA PROTECTION DE L'ENFANCE, DE LA JEUNESSE ET DES ADULTES EN DIFFICULTE EN N.C* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Rédacteur / Rédactrice sinistres complexes](2026072810bd.md)**  
+    :material-domain: *AXA FRANCE IARD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Gestionnaire d'internat (H/F) N°6054-226-2026/DRHPN](202607287f3c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Employé polyvalent / Employée polyvalente de libre-service](20260727f4fa.md)**  
+    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
+
+- **[Agent / Agente de cuisine](20260727f2af.md)**  
+    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
+
+- **[Secrétaire comptable](202607270d7c.md)**  
+    :material-domain: *AXA FRANCE IARD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée de clientéle en assurances](20260727cfa3.md)**  
+    :material-domain: *HORIZON CONSEIL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Technicien / Technicienne service aprés vente (SAV) en maintenance industrielle](202607273d5a.md)**  
     :material-domain: *SERVICE TECHNIQUE INDUSTRIEL MARINE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[1 Gestionnaire des bénéficiaires](20260727e9b3.md)**  
+- **[Gestionnaire des bénéficiaires](20260727e9b3.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Pharmacien / Pharmacienne en officine](202607279583.md)**  
@@ -69,30 +93,6 @@ Accédez aux **448** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé / Employée de bureau](202607244f7e.md)**  
     :material-domain: *SEPAC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de collecte de déchets](20260724b214.md)**  
-    :material-domain: *SOCIETE CALEDONIENNE DE SERVICES PUBLICS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Comptable gérance immobiliére](20260723c337.md)**  
-    :material-domain: *TROPIC IMMOBILIER* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante de gestion d'entreprise](20260723b25e.md)**  
-    :material-domain: *DECOSOLS & CONSTRUCTIONS* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Cuisiniste](20260723432c.md)**  
-    :material-domain: *L.M.D.* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Superviseur / Superviseuse de travaux](20260723219f.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de maintenance aéronautique](20260723f117.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Opticien-lunetier / Opticienne-lunetiére](20260723c21b.md)**  
-    :material-domain: *LA GENERALE NC* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Opticien-lunetier / Opticienne-lunetiére](20260723f895.md)**  
-    :material-domain: *LA GENERALE NC* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
 
 
 
