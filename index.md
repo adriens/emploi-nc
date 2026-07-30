@@ -1,8 +1,35 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **455** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **464** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Chargé / Chargée de clientéle de courtage](20260729dc38.md)**  
+    :material-domain: *STE FRANCAISE DE COURTAGE     D'ASSURANCES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Commis de cuisine tournant / Commise de cuisine tournante](202607299a7e.md)**  
+    :material-domain: *BEACH VATA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Diététicien (H/F)](202607288ce7.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Secrétaire comptable](202607287452.md)**  
+    :material-domain: *FIDUCAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Enseignant suppléant annualisé CLIS (H/F) - N°6060-96-2026-DEFIJ](202607284c71.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Infirmier en soins généraux](202607289676.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Infirmier / Infirmiére aide opératoire](2026072806f6.md)**  
+    :material-domain: *SELARL DRS  BARANTON/BOUGUEREAU/LOUBEYRE/ROUAULT/ROZAN/VENEGONI* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Agent DECLIC (Psychologue ou IDE)](20260728348c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Concepteur projets miniers](2026072875ad.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Vendeur / Vendeuse en boulangerie-pétisserie](20260728d139.md)**  
     :material-domain: *FDLC* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
@@ -31,7 +58,7 @@ Accédez aux **455** offres d'emploi actuellement actives sur le territoire.
 - **[Technicien / Technicienne service aprés vente (SAV) en maintenance industrielle](202607273d5a.md)**  
     :material-domain: *SERVICE TECHNIQUE INDUSTRIEL MARINE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[Gestionnaire des bénéficiaires](20260727e9b3.md)**  
+- **[1 Gestionnaire des bénéficiaires](20260727e9b3.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Pharmacien / Pharmacienne en officine](202607279583.md)**  
@@ -61,38 +88,11 @@ Accédez aux **455** offres d'emploi actuellement actives sur le territoire.
 - **[Responsable des Ressources Humaines -RRH-](20260726c287.md)**  
     :material-domain: *TECHNOLOGY SHARED SERVICES PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[1 Référent ressources humaines et administratif -  1125/SR du 24 juillet 2026 - Koné](202607260600.md)**  
+- **[1 Référent ressources humaines et administratif -  1125/SR du 24 juillet 2026](202607260600.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[1 Maître nageur sauveteur - 1124/SR du 24 juillet 2026 - Pouembout](20260726b040.md)**  
+- **[1 Maître nageur sauveteur - 1124/SR du 24 juillet 2026](20260726b040.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Enseignant suppléant occasionnel - 94/2026 du 22 juillet 2026](20260726970e.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Employé / Employée de ménage](202607258d60.md)**  
-    :material-domain: *CBM* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Préparateur / Préparatrice en pharmacie hospitaliére](202607259da7.md)**  
-    :material-domain: *PHARMACIE DU KADUCEE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Secrétaire comptable](20260724bd51.md)**  
-    :material-domain: *ISIS GESTION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Gestionnaire paie et administration du personnel](2026072437ab.md)**  
-    :material-domain: *FIDEC SOCIAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Pharmacien / Pharmacienne en officine](2026072404b5.md)**  
-    :material-domain: *PHARMACIE D'OUVEA* | :material-file-document-outline: CDD | :material-map-marker-outline: OUVEA
-
-- **[Agent / Agente de sécurité](2026072419b5.md)**  
-    :material-domain: *SARL RGS* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Gestionnaire comptable](20260724c716.md)**  
-    :material-domain: *L'AGENT COMPTABLE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de bureau](202607244f7e.md)**  
-    :material-domain: *SEPAC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
