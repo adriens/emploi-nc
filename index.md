@@ -1,8 +1,29 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **464** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **471** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Comptable d'entreprise](20260730800f.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Enseignant suppléant occasionnel LCK (Xârâcùù) - 100/2026 du 30 juillet 2026](20260730e8d5.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chef / Cheffe de projet en organisation](20260730cdda.md)**  
+    :material-domain: *SOCIETE GENERALE CALEDONIENNE  DE BANQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable des projets organisation](202607302b00.md)**  
+    :material-domain: *SOCIETE GENERALE CALEDONIENNE  DE BANQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée de mission développement local](20260730bf5e.md)**  
+    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Auxiliaire de vie](20260730233f.md)**  
+    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Responsable des opérations funéraires](20260729b41e.md)**  
+    :material-domain: *TRANSFUNERAIRE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Chargé / Chargée de clientéle de courtage](20260729dc38.md)**  
     :material-domain: *STE FRANCAISE DE COURTAGE     D'ASSURANCES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -72,27 +93,6 @@ Accédez aux **464** offres d'emploi actuellement actives sur le territoire.
 
 - **[Journaliste de presse écrite](202607261364.md)**  
     :material-domain: *INTERMEDIAS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Acheteur / Acheteuse import](202607266358.md)**  
-    :material-domain: *FIGESBAL SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable des Ressources Humaines -RRH-](20260726fa9b.md)**  
-    :material-domain: *FIGESBAL SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Educateur familial / Educatrice familiale](202607265b54.md)**  
-    :material-domain: *ASSOCIATION POUR LA PROTECTION DE L'ENFANCE, DE LA JEUNESSE ET DES ADULTES EN DIFFICULTE EN N.C* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable gestionnaire des stocks](20260726b6c0.md)**  
-    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
-
-- **[Responsable des Ressources Humaines -RRH-](20260726c287.md)**  
-    :material-domain: *TECHNOLOGY SHARED SERVICES PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Référent ressources humaines et administratif -  1125/SR du 24 juillet 2026](202607260600.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Maître nageur sauveteur - 1124/SR du 24 juillet 2026](20260726b040.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
