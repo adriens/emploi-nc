@@ -1,8 +1,38 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **471** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **480** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Superviseur Parc](20260731e907.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[2 Opérateurs laboratoire](20260731f8b6.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[1 Superviseur Contrôle d'Intervention](2026073168a1.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Equipier / Equipiére logistique](202607316b9b.md)**  
+    :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Assistant technique installateur / Assistante technique installatrice de matériel médical](20260731a4b1.md)**  
+    :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[1 Chauffeur polyvalent - Pelle hydraulique -  Houailou (Bâ)](202607318c7d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Infirmier de soins généraux itinérant - 981/SR du 26 juin 2026](20260731ff80.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[2 Chauffeurs polyvalents Camions articulés - Tombereau - Houailou (Bâ)](202607316928.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Médecin spécialiste](202607304146.md)**  
+    :material-domain: *MUTUELLE DU NICKEL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Secrétaire généraliste](2026073052f8.md)**  
+    :material-domain: *SELARL D'AVOCAT VALERIE LUCAS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Comptable d'entreprise](20260730800f.md)**  
     :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -63,36 +93,6 @@ Accédez aux **471** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Gestionnaire d'internat (H/F) N°6054-226-2026/DRHPN](202607287f3c.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](20260727f4fa.md)**  
-    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
-
-- **[Agent / Agente de cuisine](20260727f2af.md)**  
-    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
-
-- **[Secrétaire comptable](202607270d7c.md)**  
-    :material-domain: *AXA FRANCE IARD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée de clientéle en assurances](20260727cfa3.md)**  
-    :material-domain: *HORIZON CONSEIL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne service aprés vente (SAV) en maintenance industrielle](202607273d5a.md)**  
-    :material-domain: *SERVICE TECHNIQUE INDUSTRIEL MARINE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Gestionnaire des bénéficiaires](20260727e9b3.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Pharmacien / Pharmacienne en officine](202607279583.md)**  
-    :material-domain: *PHARMACIE DU MALL* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Animateur / Animatrice de loisirs pour enfants](20260727c2f9.md)**  
-    :material-domain: *Ô JARDIN SPORTIF* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: PAITA
-
-- **[Responsable ventes de la distribution](202607279cdb.md)**  
-    :material-domain: *SARL REZO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Journaliste de presse écrite](202607261364.md)**  
-    :material-domain: *INTERMEDIAS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
