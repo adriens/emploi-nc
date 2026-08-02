@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **480** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **479** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé polyvalent / Employée polyvalente de libre-service](2026080134b9.md)**  
+    :material-domain: *LIBRE-SERVICE LE COLIBRI* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
 
 - **[1 Superviseur Parc](20260731e907.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
@@ -90,9 +93,6 @@ Accédez aux **480** offres d'emploi actuellement actives sur le territoire.
 
 - **[Rédacteur / Rédactrice sinistres complexes](2026072810bd.md)**  
     :material-domain: *AXA FRANCE IARD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Gestionnaire d'internat (H/F) N°6054-226-2026/DRHPN](202607287f3c.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
