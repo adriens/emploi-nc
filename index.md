@@ -1,8 +1,23 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **508** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **513** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Infirmier en soins généraux - 232/2026 du 04 août 2026](202608044068.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Poseur / Poseuse de vitrages](20260804c031.md)**  
+    :material-domain: *RE ART TECH SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Enseignant suppléant occasionnel - 104/2026 du 04 août 2026](202608045cfb.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Ecailler / Ecaillére de restaurant](20260803c643.md)**  
+    :material-domain: *LE BOUT DU MONDE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Pharmacien / Pharmacienne en officine](202608034bfd.md)**  
+    :material-domain: *PHARMACIE DE LIFOU* | :material-file-document-outline: CDD | :material-map-marker-outline: LIFOU
 
 - **[Chapiste](2026080335c2.md)**  
     :material-domain: *SOL'S CALEDONIE SARL* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
@@ -78,21 +93,6 @@ Accédez aux **508** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé polyvalent / Employée polyvalente de restaurant](202608028d84.md)**  
     :material-domain: *FICOM* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Secrétaire général - 1163/SR du 31 juillet 2026](202608026812.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Comptable général / Comptable générale](202608029bab.md)**  
-    :material-domain: *FIDUCAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Magasinier-Mécanicien - 1161/SR du 31 juillet 2026](20260802267e.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Technicien en production animale - 1162/SR du 31 juillet 2026](202608021975.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](2026080134b9.md)**  
-    :material-domain: *LIBRE-SERVICE LE COLIBRI* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
 
 
 
