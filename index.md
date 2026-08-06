@@ -1,8 +1,38 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **513** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **520** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Ouvrier / Ouvriére Voiries et Réseaux Divers -VRD-](20260805422d.md)**  
+    :material-domain: *EL2T* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[Gérant / Gérante de magasin d'alimentation](2026080534d9.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Assistant / Assistante de gestion commerciale](20260805bffb.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Guide de tourisme d'aventure](202608055934.md)**  
+    :material-domain: *AVENTURE PULSION KAYAK* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Comptable d'entreprise](202608054660.md)**  
+    :material-domain: *CABLELEC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Comptable général / Comptable générale](202608050d1b.md)**  
+    :material-domain: *PGA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Recouvreur / Recouvreuse de créances](202608047d26.md)**  
+    :material-domain: *SOCIETE GENERALE CALEDONIENNE  DE BANQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse en téléphonie](202608047708.md)**  
+    :material-domain: *GATIMEL TECHNOLOGY* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Comptable d'entreprise](20260804d0c1.md)**  
+    :material-domain: *RHNC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Aide-comptable facturier / Aide-comptable facturiére](20260804dc47.md)**  
+    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
 
 - **[Infirmier en soins généraux - 232/2026 du 04 août 2026](202608044068.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -63,36 +93,6 @@ Accédez aux **513** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Chef de service administratif et financier - 1165/SR du 31 juillet 2026](20260803f9ff.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Directeur - Aménagement et Foncier - 1164/SR du 31 juillet 2026](202608036f66.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Aide tuyauteur / Aide tuyauteuse](20260803dd56.md)**  
-    :material-domain: *SARL PRO-TUBES* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Opticien-lunetier / Opticienne-lunetiére](202608030530.md)**  
-    :material-domain: *CLARO NOUMEA* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Responsable en organisation](20260803365c.md)**  
-    :material-domain: *SERVICE MEDICAL INTERENTREPRISES DU TRAVAIL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Secrétaire de direction bilingue](20260803b3f5.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante comptable et budgétaire](20260802ad80.md)**  
-    :material-domain: *LA FIDUCIAIRE DU NORD* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
-
-- **[Technicien / Technicienne d'intervention sur matériels d'assistance respiratoire](20260802cae6.md)**  
-    :material-domain: *ISIS CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Assistant maternel agréé / Assistante maternelle agréée](202608022214.md)**  
-    :material-domain: *DUBUS Delphine, Marie* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Second / Seconde de cuisine](202608029563.md)**  
-    :material-domain: *ON THE BEACH* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé polyvalent / Employée polyvalente de restaurant](202608028d84.md)**  
-    :material-domain: *FICOM* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
