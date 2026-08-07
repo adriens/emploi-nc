@@ -1,8 +1,41 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **520** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **531** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Assistant administratif et commercial / Assistante administrative et commerciale](20260806baf6.md)**  
+    :material-domain: *SARL REZO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Métallier soudeur / Métalliére soudeuse](2026080615da.md)**  
+    :material-domain: *AMEUW NICOLAS ARNAUD PATRICK* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[Assistant administratif / Assistante administrative et comptable](20260806a8ce.md)**  
+    :material-domain: *HIDDEKEL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Agent administratif / Agente administrative des opérations bancaires](20260806f546.md)**  
+    :material-domain: *SOCIETE GENERALE CALEDONIENNE  DE BANQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Consultant / Consultante en recrutement](20260806f535.md)**  
+    :material-domain: *PARTNERS INTERIM* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant administratif / Assistante administrative](20260806fbf3.md)**  
+    :material-domain: *CAP ASSURANCES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Enseignant suppléant annualisé LCK - Païcî - Poya (Gohapin)](202608068f0f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Mécanicien / Mécanicienne de chantier](20260806a752.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Vendeur / Vendeuse en aménagement du foyer](202608055b73.md)**  
+    :material-domain: *LA MAISON DU MATERIEL DE MASSAGE ET MEDICAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Professeur documentaliste](20260805f62c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Enseignant en biologie écologie](2026080513f8.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Ouvrier / Ouvriére Voiries et Réseaux Divers -VRD-](20260805422d.md)**  
     :material-domain: *EL2T* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
@@ -59,39 +92,6 @@ Accédez aux **520** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *TARAGNAT PRESSING* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[1 Directeur - Enseignement Formation Insertion Jeunesse - 1176/SR du 31 juillet 2026](202608035165.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Chargé de projet gestion des incendies - 1175/SR du 31 juillet 2026](202608030e9e.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Directeur - Affaires Juridiques Administratives et Patrimoine - 1174/SR du 31 juillet 2026](2026080315dc.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Directeur Adjoint  - Affaires Sanitaires Sociales Prévention et Solidarité](20260803ac82.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Directeur - Affaires Sanitaires Sociales Prévention et Solidarité - 1172/SR du 31 juillet 2026](20260803a4b3.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Directeur - Développement Economique et Environnement - 1171/SR du 31 juillet 2026](202608036306.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Directeur - Développement Humain et Identités - 1170/SR du 31 juillet 2026](202608036c16.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Secrétaire général adjoint - 1169/SR du 31 juillet 2026](202608037ae1.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Directeur Finances et Budget - 1168/SR du 31 juillet 2026](202608031f22.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Directeur Ressources Humaines - 1167/SR du 31 juillet 2026](202608032bbd.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Directeur - Systèmes Information - 1166/SR du 31 juillet 2026](20260803e4c5.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Chef de service administratif et financier - 1165/SR du 31 juillet 2026](20260803f9ff.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
