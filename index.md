@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **531** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **536** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Analyste SOC (Security Operations Center)](2026080718d8.md)**  
+    :material-domain: *IKIGAI* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Secrétaire](202608072a97.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Technicien / Technicienne de maintenance en équipements industriels](202608073f24.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente de comptoir en location de véhicules](202608073663.md)**  
+    :material-domain: *KILOU PLUS LOCATION TRANSPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chef / Cheffe des cuisines](2026080662c9.md)**  
+    :material-domain: *MERSEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Caissier / Caissiére](202608064218.md)**  
+    :material-domain: *SOCIETE HOUDIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Ingénieur / Ingénieure technique et études de prix](202608061c4f.md)**  
+    :material-domain: *ARBE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[Employé / Employée de laverie automatique](20260806ce1b.md)**  
+    :material-domain: *NEW WASH* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Assistant administratif et commercial / Assistante administrative et commerciale](20260806baf6.md)**  
     :material-domain: *SARL REZO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -40,9 +64,6 @@ Accédez aux **531** offres d'emploi actuellement actives sur le territoire.
 - **[Ouvrier / Ouvriére Voiries et Réseaux Divers -VRD-](20260805422d.md)**  
     :material-domain: *EL2T* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
 
-- **[Gérant / Gérante de magasin d'alimentation](2026080534d9.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
 - **[Assistant / Assistante de gestion commerciale](20260805bffb.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
@@ -72,27 +93,6 @@ Accédez aux **531** offres d'emploi actuellement actives sur le territoire.
 
 - **[Poseur / Poseuse de vitrages](20260804c031.md)**  
     :material-domain: *RE ART TECH SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Enseignant suppléant occasionnel - 104/2026 du 04 août 2026](202608045cfb.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Ecailler / Ecaillére de restaurant](20260803c643.md)**  
-    :material-domain: *LE BOUT DU MONDE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Pharmacien / Pharmacienne en officine](202608034bfd.md)**  
-    :material-domain: *PHARMACIE DE LIFOU* | :material-file-document-outline: CDD | :material-map-marker-outline: LIFOU
-
-- **[Chapiste](2026080335c2.md)**  
-    :material-domain: *SOL'S CALEDONIE SARL* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Secrétaire comptable](202608036298.md)**  
-    :material-domain: *PROSELECT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de blanchisserie industrielle](20260803183d.md)**  
-    :material-domain: *TARAGNAT PRESSING* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Directeur - Enseignement Formation Insertion Jeunesse - 1176/SR du 31 juillet 2026](202608035165.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
