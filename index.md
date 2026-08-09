@@ -1,8 +1,17 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **536** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **538** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Serveur / Serveuse](20260808ae71.md)**  
+    :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: CDD | :material-map-marker-outline: ILE DES PINS
+
+- **[Conseiller / Conseillére en investissements financiers](20260808ae92.md)**  
+    :material-domain: *OBLED Sophie (usage HAUTBOIS)* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Préparateur / Préparatrice en pharmacie d'officine](20260807c955.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Analyste SOC (Security Operations Center)](2026080718d8.md)**  
     :material-domain: *IKIGAI* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -84,15 +93,6 @@ Accédez aux **536** offres d'emploi actuellement actives sur le territoire.
 
 - **[Comptable d'entreprise](20260804d0c1.md)**  
     :material-domain: *RHNC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Aide-comptable facturier / Aide-comptable facturiére](20260804dc47.md)**  
-    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
-
-- **[Infirmier en soins généraux - 232/2026 du 04 août 2026](202608044068.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Poseur / Poseuse de vitrages](20260804c031.md)**  
-    :material-domain: *RE ART TECH SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
