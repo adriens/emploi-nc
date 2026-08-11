@@ -1,8 +1,35 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **538** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **547** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[2 Infirmiers (H/F) de soins généraux- 26-1187/SR du 7 août 2026 – DASSPS- Pouébo](2026081063c8.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Responsable du management de la DSI](20260810a877.md)**  
+    :material-domain: *TECHNOLOGY SHARED SERVICES PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Chargé d'activité maintenance MMT Nord](2026081087af.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Chirurgien-dentiste-3134-26-1188/SR du 07 Août 2026-CMS de HIENGHENE](20260809a334.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chirurgien-dentiste-3134-26-1184/SR du 07 Août2026- CMS de TOUHO](20260809931d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chirurgien-dentiste-3134-26-1183/SR du 07 Août 2026-CMS de PONERIHOUEN](20260809be03.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Assistant administratif](2026080940cc.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[10 Conducteurs dumper (Poya)](202608090561.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Cuisinier](2026080950fe.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Serveur / Serveuse](20260808ae71.md)**  
     :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: CDD | :material-map-marker-outline: ILE DES PINS
@@ -66,33 +93,6 @@ Accédez aux **538** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Professeur documentaliste](20260805f62c.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Enseignant en biologie écologie](2026080513f8.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Ouvrier / Ouvriére Voiries et Réseaux Divers -VRD-](20260805422d.md)**  
-    :material-domain: *EL2T* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Assistant / Assistante de gestion commerciale](20260805bffb.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Guide de tourisme d'aventure](202608055934.md)**  
-    :material-domain: *AVENTURE PULSION KAYAK* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Comptable d'entreprise](202608054660.md)**  
-    :material-domain: *CABLELEC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Comptable général / Comptable générale](202608050d1b.md)**  
-    :material-domain: *PGA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Recouvreur / Recouvreuse de créances](202608047d26.md)**  
-    :material-domain: *SOCIETE GENERALE CALEDONIENNE  DE BANQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en téléphonie](202608047708.md)**  
-    :material-domain: *GATIMEL TECHNOLOGY* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Comptable d'entreprise](20260804d0c1.md)**  
-    :material-domain: *RHNC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
