@@ -1,8 +1,41 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **547** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **556** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Responsable administratif et financier / Responsable administrative et financiére](202608118dad.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Comptable clientéle](20260811a1b4.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chef de partie tournant / Cheffe de partie tournante](2026081109b9.md)**  
+    :material-domain: *LA BD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente immobilier](20260811e61a.md)**  
+    :material-domain: *L'AGENCE IMMO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée en poissonnerie](20260811b0f0.md)**  
+    :material-domain: *FISH DELICE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[1 Chef de poste pilotage de production](2026081138c7.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[1 Accompagnateur de vie - Voh](202608119485.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[1 Technicien sécurité centre](20260811f16a.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Distributeur / Distributrice de journaux](20260811cbbd.md)**  
+    :material-domain: *SARL REZO* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Monteur / Monteuse d'assemblage mécanique de précision](20260810cfc1.md)**  
+    :material-domain: *CALLIDUS NOUVELLE CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Secrétaire administratif / Secrétaire administrative](20260810b16b.md)**  
+    :material-domain: *CHATELIN IMMOBILIER* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[2 Infirmiers (H/F) de soins généraux- 26-1187/SR du 7 août 2026 – DASSPS- Pouébo](2026081063c8.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -26,9 +59,6 @@ Accédez aux **547** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[10 Conducteurs dumper (Poya)](202608090561.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Cuisinier](2026080950fe.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Serveur / Serveuse](20260808ae71.md)**  
@@ -63,36 +93,6 @@ Accédez aux **547** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé / Employée de laverie automatique](20260806ce1b.md)**  
     :material-domain: *NEW WASH* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Assistant administratif et commercial / Assistante administrative et commerciale](20260806baf6.md)**  
-    :material-domain: *SARL REZO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Métallier soudeur / Métalliére soudeuse](2026080615da.md)**  
-    :material-domain: *AMEUW NICOLAS ARNAUD PATRICK* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Assistant administratif / Assistante administrative et comptable](20260806a8ce.md)**  
-    :material-domain: *HIDDEKEL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent administratif / Agente administrative des opérations bancaires](20260806f546.md)**  
-    :material-domain: *SOCIETE GENERALE CALEDONIENNE  DE BANQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Consultant / Consultante en recrutement](20260806f535.md)**  
-    :material-domain: *PARTNERS INTERIM* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant administratif / Assistante administrative](20260806fbf3.md)**  
-    :material-domain: *CAP ASSURANCES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Enseignant suppléant annualisé LCK - Païcî - Poya (Gohapin)](202608068f0f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Mécanicien / Mécanicienne de chantier](20260806a752.md)**  
-    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Vendeur / Vendeuse en aménagement du foyer](202608055b73.md)**  
-    :material-domain: *LA MAISON DU MATERIEL DE MASSAGE ET MEDICAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Professeur documentaliste](20260805f62c.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
