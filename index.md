@@ -1,8 +1,44 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **556** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **566** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Ouvrier / Ouvriére horticole](202608126b9d.md)**  
+    :material-domain: *PEPINIERE LA TAMOA* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Juriste de contentieux](20260812f844.md)**  
+    :material-domain: *CAISSE COMPENSATION PRESTATION FAMILIALES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Graphiste](20260812c10e.md)**  
+    :material-domain: *AGENCE CONCEPT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse en chocolaterie](20260812a08f.md)**  
+    :material-domain: *CAPS'N PODS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Volontaire en Service Civique - Appui à la transition agroécologique](2026081260df.md)**  
+    :material-domain: *nan* | :material-file-document-outline: STAGE | :material-map-marker-outline: nan
+
+- **[Planificateur / Planificatrice de production industrielle](2026081227d8.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Commercial / Commerciale](2026081255a3.md)**  
+    :material-domain: *CAFEINE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chef d'atelier maintenance et logistique](20260811f00c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Conducteur / Conductrice de travaux du BTP](202608112dd4.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chef / Cheffe de chantier du BTP](202608118bbc.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne des méthodes BTP](20260811e6f3.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Secrétaire comptable](20260811a03f.md)**  
+    :material-domain: *FISH DELICE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
 - **[Responsable administratif et financier / Responsable administrative et financiére](202608118dad.md)**  
     :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -55,44 +91,8 @@ Accédez aux **556** offres d'emploi actuellement actives sur le territoire.
 - **[Chirurgien-dentiste-3134-26-1183/SR du 07 Août 2026-CMS de PONERIHOUEN](20260809be03.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[Assistant administratif](2026080940cc.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
 - **[10 Conducteurs dumper (Poya)](202608090561.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Serveur / Serveuse](20260808ae71.md)**  
-    :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: CDD | :material-map-marker-outline: ILE DES PINS
-
-- **[Conseiller / Conseillére en investissements financiers](20260808ae92.md)**  
-    :material-domain: *OBLED Sophie (usage HAUTBOIS)* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Préparateur / Préparatrice en pharmacie d'officine](20260807c955.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Analyste SOC (Security Operations Center)](2026080718d8.md)**  
-    :material-domain: *IKIGAI* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Secrétaire](202608072a97.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Technicien / Technicienne de maintenance en équipements industriels](202608073f24.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de comptoir en location de véhicules](202608073663.md)**  
-    :material-domain: *KILOU PLUS LOCATION TRANSPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe des cuisines](2026080662c9.md)**  
-    :material-domain: *MERSEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Caissier / Caissiére](202608064218.md)**  
-    :material-domain: *SOCIETE HOUDIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Ingénieur / Ingénieure technique et études de prix](202608061c4f.md)**  
-    :material-domain: *ARBE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Employé / Employée de laverie automatique](20260806ce1b.md)**  
-    :material-domain: *NEW WASH* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
