@@ -1,8 +1,35 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **566** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **575** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Géologue minier / Géologue miniére](20260813a396.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Géologue minier / Géologue miniére](202608130756.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
+
+- **[Conseiller / Conseillére en organisation d'entreprise](20260812a037.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Assistant administratif / Assistante administrative](20260812ff72.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de bureau](202608127a10.md)**  
+    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de bureau](202608123164.md)**  
+    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de bureau](202608128838.md)**  
+    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Assistant maternel agréé / Assistante maternelle agréée](202608121caa.md)**  
+    :material-domain: *LES CRAPOUILLES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Ouvrier / Ouvriére d'entretien propreté](20260812ede1.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DE SERVICES PUBLICS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Ouvrier / Ouvriére horticole](202608126b9d.md)**  
     :material-domain: *PEPINIERE LA TAMOA* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
@@ -66,33 +93,6 @@ Accédez aux **566** offres d'emploi actuellement actives sur le territoire.
 
 - **[Distributeur / Distributrice de journaux](20260811cbbd.md)**  
     :material-domain: *SARL REZO* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Monteur / Monteuse d'assemblage mécanique de précision](20260810cfc1.md)**  
-    :material-domain: *CALLIDUS NOUVELLE CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Secrétaire administratif / Secrétaire administrative](20260810b16b.md)**  
-    :material-domain: *CHATELIN IMMOBILIER* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[2 Infirmiers (H/F) de soins généraux- 26-1187/SR du 7 août 2026 – DASSPS- Pouébo](2026081063c8.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Responsable du management de la DSI](20260810a877.md)**  
-    :material-domain: *TECHNOLOGY SHARED SERVICES PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Chargé d'activité maintenance MMT Nord](2026081087af.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Chirurgien-dentiste-3134-26-1188/SR du 07 Août 2026-CMS de HIENGHENE](20260809a334.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Chirurgien-dentiste-3134-26-1184/SR du 07 Août2026- CMS de TOUHO](20260809931d.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Chirurgien-dentiste-3134-26-1183/SR du 07 Août 2026-CMS de PONERIHOUEN](20260809be03.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[10 Conducteurs dumper (Poya)](202608090561.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
