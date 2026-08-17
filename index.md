@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **587** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **588** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé / Employée de rayon](202608168270.md)**  
+    :material-domain: *SMDI SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
 
 - **[Tuteur curateur / Tutrice curatrice](20260814141e.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -90,9 +93,6 @@ Accédez aux **587** offres d'emploi actuellement actives sur le territoire.
 
 - **[Graphiste](20260812c10e.md)**  
     :material-domain: *AGENCE CONCEPT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en chocolaterie](20260812a08f.md)**  
-    :material-domain: *CAPS'N PODS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
