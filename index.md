@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **588** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **596** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Juriste de contentieux](20260817f25a.md)**  
+    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Professeur remplaçant en mathématiques en province nord](202608169373.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Consultant / Consultante SI Gestion de la Relation Client](20260816d052.md)**  
+    :material-domain: *SOCIETE DE SERVICES PETROLIERS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Auditeur / Auditrice comptable](20260816e2ed.md)**  
+    :material-domain: *BDO Audit* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Médecin (H/F) - 3134-26-1210/SR du 14 août 2026](20260816de1c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Médecin (H/F) - 3134-26-1209/SR du 14 août 2026](20260816ec72.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Médecin (H/F) - 3134-26-1212/SR du 14 août 2026](20260816b56f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Médecin (H/F) - 3134-26-1218/SR du 14 août 2026](202608162936.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Employé / Employée de rayon](202608168270.md)**  
     :material-domain: *SMDI SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
@@ -69,30 +93,6 @@ Accédez aux **588** offres d'emploi actuellement actives sur le territoire.
 
 - **[Assistant administratif / Assistante administrative](20260812ff72.md)**  
     :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de bureau](202608127a10.md)**  
-    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de bureau](202608123164.md)**  
-    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de bureau](202608128838.md)**  
-    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Assistant maternel agréé / Assistante maternelle agréée](202608121caa.md)**  
-    :material-domain: *LES CRAPOUILLES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier / Ouvriére d'entretien propreté](20260812ede1.md)**  
-    :material-domain: *SOCIETE CALEDONIENNE DE SERVICES PUBLICS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier / Ouvriére horticole](202608126b9d.md)**  
-    :material-domain: *PEPINIERE LA TAMOA* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Juriste de contentieux](20260812f844.md)**  
-    :material-domain: *CAISSE COMPENSATION PRESTATION FAMILIALES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Graphiste](20260812c10e.md)**  
-    :material-domain: *AGENCE CONCEPT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
