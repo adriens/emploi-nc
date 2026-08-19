@@ -1,8 +1,20 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **596** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **600** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Technicien / Technicienne d'installation en courants faibles](202608187b52.md)**  
+    :material-domain: *INDEO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Agent d'entretien des locaux](20260818f041.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chargé / Chargée d'affaires en efficacité énergétique](20260818101c.md)**  
+    :material-domain: *AGENCE CALEDONIENNE DE L'ENERGIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse en accessoires automobile](20260817971b.md)**  
+    :material-domain: *ATECO SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Juriste de contentieux](20260817f25a.md)**  
     :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -81,18 +93,6 @@ Accédez aux **596** offres d'emploi actuellement actives sur le territoire.
 
 - **[Technicien / Technicienne sécurité-alarme](202608138ac4.md)**  
     :material-domain: *PACIFIC ALARME* | :material-file-document-outline: INTERIM | :material-map-marker-outline: NOUMEA
-
-- **[Géologue minier / Géologue miniére](20260813a396.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Géologue minier / Géologue miniére](202608130756.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[Conseiller / Conseillére en organisation d'entreprise](20260812a037.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Assistant administratif / Assistante administrative](20260812ff72.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
