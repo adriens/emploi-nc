@@ -1,8 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **600** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **605** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Développeur / Développeuse de sécurité des systémes d'information](202608190f82.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Directeur / Directrice des systémes d'information](2026081902c3.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable qualité](202608191c27.md)**  
+    :material-domain: *MULTI EXPERTISES TECHNIQUES* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de ménage](202608191c68.md)**  
+    :material-domain: *LE NID DES P'TITS CAGOUS* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Expert / Experte support technique](20260818f0ec.md)**  
+    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée de clientéle en assurances](202608183205.md)**  
+    :material-domain: *GAN OUTRE MER IARD SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Technicien / Technicienne d'installation en courants faibles](202608187b52.md)**  
     :material-domain: *INDEO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -75,24 +93,6 @@ Accédez aux **600** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Médecin généraliste- 1222/SR du 14 août 2026 - DASSPS- OUEGOA](202608148228.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Médecin -1213/SR du 14 août 202- DASSPS - POUM](202608147ba2.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Médecin généraliste-1216/SR du 14 août 202- DASSPS- BELEP](202608143e53.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Vendeur / Vendeuse en optique lunetterie](202608131e89.md)**  
-    :material-domain: *CLARO NOUMEA* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne support informatique](20260813a75f.md)**  
-    :material-domain: *SF2I* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Assistant administratif / Assistante administrative et comptable](20260813aabb.md)**  
-    :material-domain: *AVANT GARDE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne sécurité-alarme](202608138ac4.md)**  
-    :material-domain: *PACIFIC ALARME* | :material-file-document-outline: INTERIM | :material-map-marker-outline: NOUMEA
 
 
 
