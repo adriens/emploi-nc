@@ -1,8 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **605** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **609** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Administrateur / Administratrice de systéme d'information](2026081991b2.md)**  
+    :material-domain: *CAISSE COMPENSATION PRESTATION FAMILIALES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Dessinateur / Dessinatrice du BTP](202608199a4d.md)**  
+    :material-domain: *MEUBLES DU PACIFIQUE LTD* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[Chef / Cheffe de service technique en maintenance industrielle](20260819d2ed.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Consultant fonctionnel / Consultante fonctionnelle de progiciel](20260819df46.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chef / Cheffe d'atelier de maintenance en électromécanique](202608199b0b.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chef / Cheffe d'atelier d'entretien et de maintenance industrielle](202608199521.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Développeur / Développeuse de sécurité des systémes d'information](202608190f82.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -74,24 +92,6 @@ Accédez aux **605** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *SERDIS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
 
 - **[1 Assistant socio-éducatif](20260814c1aa.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Médecin -1214/SR du 14 août 2026](20260814eb21.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[2 Médecins itinérants et de téléconsultation - 1215/SR du 14 août 2026](20260814ee79.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Directeur / Directrice de centre de profit](20260814c7b6.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Aide médico-psychologique](20260814d251.md)**  
-    :material-domain: *ASSOCIATION DES PARENTS D'ENFANTS HANDICAPES DE LA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Médecin-1220/SR du 14 août 2026-DASSPS- KAALA-GOMEN](202608144a7f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Médecin généraliste- 1222/SR du 14 août 2026 - DASSPS- OUEGOA](202608148228.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
