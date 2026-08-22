@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **609** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **615** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Pharmacien / Pharmacienne en officine](20260821ca18.md)**  
+    :material-domain: *PHARMACIE DE POINDIMIE* | :material-file-document-outline: CDI | :material-map-marker-outline: POINDIMIE
+
+- **[Chauffeur-livreur / Chauffeuse-livreuse](202608215ff4.md)**  
+    :material-domain: *BATI CENTER* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Responsable commercial international / Responsable commerciale internationale](20260821b569.md)**  
+    :material-domain: *TRANSIT TRANSPORT INTERNATIONAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Enseignant suppléant annualisé LCK 2027 (Païcî) - n°112 du 21 août 2026](202608215d75.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Enseignant suppléant annualisé LCK-2027 (Xârâcùù) - 112/2026 du 21 août 2026](202608218c66.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Analyste d'application](2026082007b8.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Enseignant suppléant occasionnel LCK (Xârâcùù) - 111/2026 du 20 août 2026](20260820fef8.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1	Gestionnaire maquette postes RH](20260820d881.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Administrateur / Administratrice de systéme d'information](2026081991b2.md)**  
     :material-domain: *CAISSE COMPENSATION PRESTATION FAMILIALES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -68,30 +92,6 @@ Accédez aux **609** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[1 Médecin (H/F) - 3134-26-1209/SR du 14 août 2026](20260816ec72.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Médecin (H/F) - 3134-26-1212/SR du 14 août 2026](20260816b56f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Médecin (H/F) - 3134-26-1218/SR du 14 août 2026](202608162936.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Employé / Employée de rayon](202608168270.md)**  
-    :material-domain: *SMDI SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Tuteur curateur / Tutrice curatrice](20260814141e.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Assistant / Assistante de direction commerciale](202608142320.md)**  
-    :material-domain: *EURL PMC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Acheteur / Acheteuse import](202608148d8b.md)**  
-    :material-domain: *SERDIS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Acheteur / Acheteuse import](20260814019f.md)**  
-    :material-domain: *SERDIS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[1 Assistant socio-éducatif](20260814c1aa.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
