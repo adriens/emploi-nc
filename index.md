@@ -1,8 +1,20 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **599** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **602** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Animateur / Animatrice de réseau](20260824bc5b.md)**  
+    :material-domain: *SECOURS CATHOLIQUE DELEGATION DE NC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chauffeur / Chauffeuse de poids lourd](202608242366.md)**  
+    :material-domain: *RECYCAL SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Commercial / Commerciale](202608243c86.md)**  
+    :material-domain: *SARL COSMETIQUES DE FRANCE (N.C.)* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Médecin - réf 3134-26-0884/SR du 5 juin 2026](20260823e622.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Pharmacien / Pharmacienne en officine](20260821ca18.md)**  
     :material-domain: *PHARMACIE DE POINDIMIE* | :material-file-document-outline: CDI | :material-map-marker-outline: POINDIMIE
@@ -80,18 +92,6 @@ Accédez aux **599** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[1 Professeur remplaçant en mathématiques en province nord](202608169373.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Consultant / Consultante SI Gestion de la Relation Client](20260816d052.md)**  
-    :material-domain: *SOCIETE DE SERVICES PETROLIERS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Auditeur / Auditrice comptable](20260816e2ed.md)**  
-    :material-domain: *BDO Audit* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Médecin (H/F) - 3134-26-1210/SR du 14 août 2026](20260816de1c.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Médecin (H/F) - 3134-26-1209/SR du 14 août 2026](20260816ec72.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
