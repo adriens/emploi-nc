@@ -1,8 +1,17 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **602** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **605** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Ouvrier agricole en porcherie](20260825199b.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Coordinateur LVCK en Païcî (H/F) - 113/2026 du 25 août 2026](20260824f780.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Secrétaire médicosocial / Secrétaire médicosociale](2026082428e2.md)**  
+    :material-domain: *Information non diffusable* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Animateur / Animatrice de réseau](20260824bc5b.md)**  
     :material-domain: *SECOURS CATHOLIQUE DELEGATION DE NC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -84,15 +93,6 @@ Accédez aux **602** offres d'emploi actuellement actives sur le territoire.
 
 - **[Chargé / Chargée d'affaires en efficacité énergétique](20260818101c.md)**  
     :material-domain: *AGENCE CALEDONIENNE DE L'ENERGIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en accessoires automobile](20260817971b.md)**  
-    :material-domain: *ATECO SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Juriste de contentieux](20260817f25a.md)**  
-    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Professeur remplaçant en mathématiques en province nord](202608169373.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
