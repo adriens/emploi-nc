@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **605** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **610** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Agent / Agente de cuisine](20260826d7af.md)**  
+    :material-domain: *LE SESAME NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chef / Cheffe de projet digital](20260826f0b3.md)**  
+    :material-domain: *ADPULSE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Agent déclarant / Agente déclarante en douane](20260826e067.md)**  
+    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente de transit maritime](20260826c355.md)**  
+    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente d'entretien-propreté de bureaux](20260825f441.md)**  
+    :material-domain: *HESTIA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Intervenant en langues étrangères (anglais/espagnol ) (H/F)  - Poindimié](20260825a635.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Agent / Agente d'entretien du matériel motorisé de parcs et jardins](202608259231.md)**  
+    :material-domain: *KILOU PLUS LOCATION TRANSPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne de maintenance du nautisme](202608250c5a.md)**  
+    :material-domain: *ABS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[1 Ouvrier agricole en porcherie](20260825199b.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -46,9 +70,6 @@ Accédez aux **605** offres d'emploi actuellement actives sur le territoire.
 - **[Enseignant suppléant occasionnel LCK (Xârâcùù) - 111/2026 du 20 août 2026](20260820fef8.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[1	Gestionnaire maquette postes RH](20260820d881.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
 - **[Administrateur / Administratrice de systéme d'information](2026081991b2.md)**  
     :material-domain: *CAISSE COMPENSATION PRESTATION FAMILIALES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
@@ -72,27 +93,6 @@ Accédez aux **605** offres d'emploi actuellement actives sur le territoire.
 
 - **[Directeur / Directrice des systémes d'information](2026081902c3.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable qualité](202608191c27.md)**  
-    :material-domain: *MULTI EXPERTISES TECHNIQUES* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de ménage](202608191c68.md)**  
-    :material-domain: *LE NID DES P'TITS CAGOUS* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Expert / Experte support technique](20260818f0ec.md)**  
-    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée de clientéle en assurances](202608183205.md)**  
-    :material-domain: *GAN OUTRE MER IARD SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne d'installation en courants faibles](202608187b52.md)**  
-    :material-domain: *INDEO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Agent d'entretien des locaux](20260818f041.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Chargé / Chargée d'affaires en efficacité énergétique](20260818101c.md)**  
-    :material-domain: *AGENCE CALEDONIENNE DE L'ENERGIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
