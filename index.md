@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **623** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **631** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé administratif / Employée administrative](2026082862a8.md)**  
+    :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[1 Chef du service du développement de la condition féminine - 1294/SR du 28 août 2026](202608287362.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Poseur / Poseuse de fermettes](2026082713ae.md)**  
+    :material-domain: *ACGM* | :material-file-document-outline: CDD | :material-map-marker-outline: BOULOUPARIS
+
+- **[Canalisateur / Canalisatrice](2026082779b4.md)**  
+    :material-domain: *EL2T* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[Boucher-charcutier / Bouchére-charcutiére](202608270253.md)**  
+    :material-domain: *SOCIETE HOUDIE* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Aide-boulanger / Aide-boulangére](20260827dcb0.md)**  
+    :material-domain: *FDLC* | :material-file-document-outline: nan | :material-map-marker-outline: MONT-DORE
+
+- **[2 Opérateurs Exploitation Maintenance IF Mécanique](20260827d081.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chargé / Chargée d'affaires en électricité](20260827168a.md)**  
+    :material-domain: *CALEDONIENNE D'INGENIERIE ELECTRICITE ET LUMIERE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Chauffeur / Chauffeuse de poids lourd](20260827f31e.md)**  
     :material-domain: *RP MANUTENTION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -69,30 +93,6 @@ Accédez aux **623** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Ouvrier agricole en porcherie](20260825199b.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Coordinateur LVCK en Païcî (H/F) - 113/2026 du 25 août 2026](20260824f780.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Secrétaire médicosocial / Secrétaire médicosociale](2026082428e2.md)**  
-    :material-domain: *Information non diffusable* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Animateur / Animatrice de réseau](20260824bc5b.md)**  
-    :material-domain: *SECOURS CATHOLIQUE DELEGATION DE NC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chauffeur / Chauffeuse de poids lourd](202608242366.md)**  
-    :material-domain: *RECYCAL SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Commercial / Commerciale](202608243c86.md)**  
-    :material-domain: *SARL COSMETIQUES DE FRANCE (N.C.)* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Médecin - réf 3134-26-0884/SR du 5 juin 2026](20260823e622.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Pharmacien / Pharmacienne en officine](20260821ca18.md)**  
-    :material-domain: *PHARMACIE DE POINDIMIE* | :material-file-document-outline: CDI | :material-map-marker-outline: POINDIMIE
-
-- **[Chauffeur-livreur / Chauffeuse-livreuse](202608215ff4.md)**  
-    :material-domain: *BATI CENTER* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
