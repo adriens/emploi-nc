@@ -1,14 +1,14 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **631** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **627** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
+- **[Adjoint / Adjointe d'enseignement chargé d'éducation](202608291b6c.md)**  
+    :material-domain: *KINDY SCHOOL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
 - **[Employé administratif / Employée administrative](2026082862a8.md)**  
     :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[1 Chef du service du développement de la condition féminine - 1294/SR du 28 août 2026](202608287362.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Poseur / Poseuse de fermettes](2026082713ae.md)**  
     :material-domain: *ACGM* | :material-file-document-outline: CDD | :material-map-marker-outline: BOULOUPARIS
