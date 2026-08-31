@@ -1,8 +1,14 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **627** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **629** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Chef de partie tournant / Cheffe de partie tournante](202608307259.md)**  
+    :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chef cuisinier / Cheffe cuisiniére](20260830a353.md)**  
+    :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Adjoint / Adjointe d'enseignement chargé d'éducation](202608291b6c.md)**  
     :material-domain: *KINDY SCHOOL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -87,12 +93,6 @@ Accédez aux **627** offres d'emploi actuellement actives sur le territoire.
 
 - **[Agent / Agente d'entretien du matériel motorisé de parcs et jardins](202608259231.md)**  
     :material-domain: *KILOU PLUS LOCATION TRANSPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne de maintenance du nautisme](202608250c5a.md)**  
-    :material-domain: *ABS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Ouvrier agricole en porcherie](20260825199b.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
