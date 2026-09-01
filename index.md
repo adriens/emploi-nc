@@ -1,8 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **629** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **635** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Infirmier / Infirmiére en hémodialyse](20260831f439.md)**  
+    :material-domain: *ASSOCIATION POUR LA PREVENTION ET LE TRAITEMENT DE L'INSUFFISANCE RENALE EN NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[Responsable financier / Responsable financiére](20260831e97e.md)**  
+    :material-domain: *TECHNOLOGY SHARED SERVICES PACIFIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Menuisier / Menuisiére atelier et pose](20260831e46e.md)**  
+    :material-domain: *REDWOOD* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Conducteur / Conductrice de travaux du BTP](202608314af1.md)**  
+    :material-domain: *COSTENTIN* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Gestionnaire Comptable](20260831758d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Assistant / Assistante des ventes](20260830f65f.md)**  
+    :material-domain: *SERDIS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
 
 - **[Chef de partie tournant / Cheffe de partie tournante](202608307259.md)**  
     :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -15,6 +33,9 @@ Accédez aux **629** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé administratif / Employée administrative](2026082862a8.md)**  
     :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[1 Chef du service du développement de la condition féminine - 1294/SR du 28 août 2026](202608287362.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Poseur / Poseuse de fermettes](2026082713ae.md)**  
     :material-domain: *ACGM* | :material-file-document-outline: CDD | :material-map-marker-outline: BOULOUPARIS
@@ -72,27 +93,6 @@ Accédez aux **629** offres d'emploi actuellement actives sur le territoire.
 
 - **[Assistant administratif et commercial / Assistante administrative et commerciale](20260826206d.md)**  
     :material-domain: *PLEIN SUD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](202608266d41.md)**  
-    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
-
-- **[Agent / Agente de cuisine](20260826d7af.md)**  
-    :material-domain: *LE SESAME NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe de projet digital](20260826f0b3.md)**  
-    :material-domain: *ADPULSE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent déclarant / Agente déclarante en douane](20260826e067.md)**  
-    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de transit maritime](20260826c355.md)**  
-    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente d'entretien-propreté de bureaux](20260825f441.md)**  
-    :material-domain: *HESTIA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente d'entretien du matériel motorisé de parcs et jardins](202608259231.md)**  
-    :material-domain: *KILOU PLUS LOCATION TRANSPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
