@@ -1,98 +1,98 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **635** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **708** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
-- **[Infirmier / Infirmiére en hémodialyse](20260831f439.md)**  
-    :material-domain: *ASSOCIATION POUR LA PREVENTION ET LE TRAITEMENT DE L'INSUFFISANCE RENALE EN NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+- **[Attaché technico-commercial / Attachée technico-commerciale](202609131060.md)**  
+    :material-domain: *LADUO SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[Responsable financier / Responsable financiére](20260831e97e.md)**  
-    :material-domain: *TECHNOLOGY SHARED SERVICES PACIFIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+- **[Manéuvre manutentionnaire](202609137ae6.md)**  
+    :material-domain: *LADUO SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
-- **[Menuisier / Menuisiére atelier et pose](20260831e46e.md)**  
-    :material-domain: *REDWOOD* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+- **[Secrétaire polyvalent / Secrétaire polyvalente](2026091119c3.md)**  
+    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
 
-- **[Conducteur / Conductrice de travaux du BTP](202608314af1.md)**  
-    :material-domain: *COSTENTIN* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+- **[Comptable taxateur / Comptable taxatrice d'étude notariale](202609115739.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
-- **[Gestionnaire Comptable](20260831758d.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+- **[Chargé / Chargée de projet en environnement](202609102b0a.md)**  
+    :material-domain: *CENTRE D'INITIATION A L'ENVIRONNEMENT DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[Assistant / Assistante des ventes](20260830f65f.md)**  
-    :material-domain: *SERDIS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+- **[Chef / Cheffe de chantier](202609108fca.md)**  
+    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
 
-- **[Chef de partie tournant / Cheffe de partie tournante](202608307259.md)**  
+- **[Ouvrier / Ouvriére d'entretien des espaces verts](2026091085d0.md)**  
+    :material-domain: *SOCIETE CIVILE IMMOBILIERE PASTORALE ET AGRICOLE DE TOMO* | :material-file-document-outline: CDD | :material-map-marker-outline: BOULOUPARIS
+
+- **[Administrateur / Administratrice systémes et réseaux](20260910f7ee.md)**  
+    :material-domain: *EXODATA NCP* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Serveur / Serveuse](2026091035dc.md)**  
     :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[Chef cuisinier / Cheffe cuisiniére](20260830a353.md)**  
+- **[Responsable de restauration](20260910fcc6.md)**  
     :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[Adjoint / Adjointe d'enseignement chargé d'éducation](202608291b6c.md)**  
-    :material-domain: *KINDY SCHOOL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+- **[Chef / Cheffe de partie](20260910318b.md)**  
+    :material-domain: *ON THE BEACH* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[Employé administratif / Employée administrative](2026082862a8.md)**  
-    :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+- **[Infirmier coordinateur / Infirmiére coordinatrice en établissement médico-social](20260910df1f.md)**  
+    :material-domain: *ASSOCIATION DES PARENTS D'ENFANTS HANDICAPES DE LA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
-- **[1 Chef du service du développement de la condition féminine - 1294/SR du 28 août 2026](202608287362.md)**  
+- **[Aide médico-psychologique](202609102be6.md)**  
+    :material-domain: *ASSOCIATION DES PARENTS D'ENFANTS HANDICAPES DE LA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant / Assistante export](2026091055dc.md)**  
+    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
+
+- **[Barbapapiste](20260909ab32.md)**  
+    :material-domain: *BALLANDE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Mécanicien / Mécanicienne de machines agricoles](2026090961fc.md)**  
+    :material-domain: *SUPERCAL EQUIPEMENT SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Conseiller / Conseillére en recherche d'emploi](20260909bf47.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Professeur / Professeure d'enseignement technique et pratique](202609099e4a.md)**  
+    :material-domain: *COMMUNAUTE DES ALLIANCES SCOLAIRES ET EDUCATIVES DE BWAKADRA* | :material-file-document-outline: CDD | :material-map-marker-outline: KAALA-GOMEN
+
+- **[Professeur / Professeure de physique, chimie, biologie](20260909a9f0.md)**  
+    :material-domain: *COMMUNAUTE DES ALLIANCES SCOLAIRES ET EDUCATIVES DE BWAKADRA* | :material-file-document-outline: CDD | :material-map-marker-outline: KAALA-GOMEN
+
+- **[1 Accompagnateurs de vie-Koumac](20260909daf3.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[Poseur / Poseuse de fermettes](2026082713ae.md)**  
-    :material-domain: *ACGM* | :material-file-document-outline: CDD | :material-map-marker-outline: BOULOUPARIS
+- **[1 Accompagnateurs de vie-Koumac](20260909d2aa.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
-- **[Canalisateur / Canalisatrice](2026082779b4.md)**  
-    :material-domain: *EL2T* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+- **[Agent / Agente de maintenance en climatisation](20260909c4a6.md)**  
+    :material-domain: *SOCOMETRA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[Boucher-charcutier / Bouchére-charcutiére](202608270253.md)**  
-    :material-domain: *SOCIETE HOUDIE* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Aide-boulanger / Aide-boulangére](20260827dcb0.md)**  
-    :material-domain: *FDLC* | :material-file-document-outline: nan | :material-map-marker-outline: MONT-DORE
-
-- **[2 Opérateurs Exploitation Maintenance IF Mécanique](20260827d081.md)**  
+- **[1 Assistant aux opérations drone (Province Nord)](2026090941de.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[Chargé / Chargée d'affaires en électricité](20260827168a.md)**  
-    :material-domain: *CALEDONIENNE D'INGENIERIE ELECTRICITE ET LUMIERE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chauffeur / Chauffeuse de poids lourd](20260827f31e.md)**  
-    :material-domain: *RP MANUTENTION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](202608270d51.md)**  
-    :material-domain: *NEXT STOP* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](20260827baf6.md)**  
-    :material-domain: *NEXT STOP* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](202608273fce.md)**  
-    :material-domain: *NEXT STOP* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Chauffeur grutier / Chauffeuse grutiére](20260827b799.md)**  
-    :material-domain: *STAR PACIFIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](202608276367.md)**  
-    :material-domain: *NEXT STOP* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](20260827577f.md)**  
-    :material-domain: *NEXT STOP* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Assistant administratif / Assistante administrative](202608270959.md)**  
-    :material-domain: *COTE CUISINE SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](202608273a07.md)**  
-    :material-domain: *NEXT STOP* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Chargé d'affaires technico-commercial / Chargée d'affaires technico-commerciale](202608278f97.md)**  
-    :material-domain: *L.M.D.* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de maison](20260826378b.md)**  
-    :material-domain: *HESTIA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Professeur / Professeure d'arts plastiques - Collège de Mou - PONERIHOUEN](20260826c60b.md)**  
+- **[1  Agent de maintenance spécialité électricité](202609088702.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[Assistant administratif et commercial / Assistante administrative et commerciale](20260826206d.md)**  
-    :material-domain: *PLEIN SUD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+- **[Responsable de production](2026090890e2.md)**  
+    :material-domain: *ALIZES ENERGIE* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
+
+- **[Technicien / Technicienne paie](202609080d77.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chef / Cheffe comptable](2026090820fe.md)**  
+    :material-domain: *LES HESPERIDES* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Assistant administratif / Assistante administrative](20260907f2ef.md)**  
+    :material-domain: *PGA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Boucher désosseur / Bouchére désosseuse](20260907bee9.md)**  
+    :material-domain: *EURL ROLLAND KENJI* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[Educateur sportif](202609076f8b.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
