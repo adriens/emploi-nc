@@ -1,8 +1,23 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **708** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **710** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Agent de gestion comptable et budgétaire](20260913fbc3.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Aide-comptable facturier / Aide-comptable facturiére](20260913f967.md)**  
+    :material-domain: *SOCIETE D'ACHALANDISE ET DE GESTION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Ingénieur chargé / Ingénieure chargée d'affaires du BTP](20260913faf5.md)**  
+    :material-domain: *AMBI ENERGY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant / Assistante logistique](2026091385b4.md)**  
+    :material-domain: *AGENCEMENT SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Electricien / Electricienne photovoltaéque](2026091360d9.md)**  
+    :material-domain: *AMBI ENERGY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Attaché technico-commercial / Attachée technico-commerciale](202609131060.md)**  
     :material-domain: *LADUO SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -61,12 +76,6 @@ Accédez aux **708** offres d'emploi actuellement actives sur le territoire.
 - **[Professeur / Professeure de physique, chimie, biologie](20260909a9f0.md)**  
     :material-domain: *COMMUNAUTE DES ALLIANCES SCOLAIRES ET EDUCATIVES DE BWAKADRA* | :material-file-document-outline: CDD | :material-map-marker-outline: KAALA-GOMEN
 
-- **[1 Accompagnateurs de vie-Koumac](20260909daf3.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Accompagnateurs de vie-Koumac](20260909d2aa.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
 - **[Agent / Agente de maintenance en climatisation](20260909c4a6.md)**  
     :material-domain: *SOCOMETRA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
@@ -84,15 +93,6 @@ Accédez aux **708** offres d'emploi actuellement actives sur le territoire.
 
 - **[Chef / Cheffe comptable](2026090820fe.md)**  
     :material-domain: *LES HESPERIDES* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Assistant administratif / Assistante administrative](20260907f2ef.md)**  
-    :material-domain: *PGA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Boucher désosseur / Bouchére désosseuse](20260907bee9.md)**  
-    :material-domain: *EURL ROLLAND KENJI* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Educateur sportif](202609076f8b.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
