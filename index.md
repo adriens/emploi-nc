@@ -1,8 +1,53 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **710** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **724** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Adjoint d'éducation (dortoir garçons) - 1362/SR du 11/09/2026](20260915f0c1.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chef cuisinier internat - 1365/SR du 11/09/2026](20260915ec7e.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Chargé de contact clientèle en soutien (H/F)](20260915bddf.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Ouvrier agricole polyvalent](2026091567c5.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Agent / Agente de sécurité](2026091544bb.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Employé / Employée de rayon](202609157234.md)**  
+    :material-domain: *HTDT SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Enseignant suppléant annualisé LCK 2027 (Païcî) - n°123 du 15 septembre 2026](202609152602.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Adjoint d'éducation - dortoir garçons - 1363/SR du 11 septembre 2026](2026091551be.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Agent d'entretien polyvalent -1364/SR du 11 septembre 2026](20260915f349.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Agent de service en dortoir - 1361/SR du 11 septembre 2026](20260915f7c6.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Coordinateur socioculturel / Coordinatrice socioculturelle](20260915aff2.md)**  
+    :material-domain: *CONSERVATION INTERNATIONAL FOUNDATION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé administratif / Employée administrative](20260915a4df.md)**  
+    :material-domain: *CONSERVATION INTERNATIONAL FOUNDATION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Commercial / Commerciale technique](20260914e505.md)**  
+    :material-domain: *CIPAC INDUSTRIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Infirmier / Infirmiére en hémodialyse](202609145d2f.md)**  
+    :material-domain: *ASSOCIATION POUR LA PREVENTION ET LE TRAITEMENT DE L'INSUFFISANCE RENALE EN NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[Comptable d'entreprise](20260914f51e.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[1 Agent de gestion comptable et budgétaire](20260913fbc3.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -48,51 +93,6 @@ Accédez aux **710** offres d'emploi actuellement actives sur le territoire.
 
 - **[Responsable de restauration](20260910fcc6.md)**  
     :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe de partie](20260910318b.md)**  
-    :material-domain: *ON THE BEACH* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Infirmier coordinateur / Infirmiére coordinatrice en établissement médico-social](20260910df1f.md)**  
-    :material-domain: *ASSOCIATION DES PARENTS D'ENFANTS HANDICAPES DE LA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Aide médico-psychologique](202609102be6.md)**  
-    :material-domain: *ASSOCIATION DES PARENTS D'ENFANTS HANDICAPES DE LA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante export](2026091055dc.md)**  
-    :material-domain: *GROUPEMENT D'EMPLOYEURS DE LA ZONE VKPP* | :material-file-document-outline: CDD | :material-map-marker-outline: KONE
-
-- **[Barbapapiste](20260909ab32.md)**  
-    :material-domain: *BALLANDE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Mécanicien / Mécanicienne de machines agricoles](2026090961fc.md)**  
-    :material-domain: *SUPERCAL EQUIPEMENT SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Conseiller / Conseillére en recherche d'emploi](20260909bf47.md)**  
-    :material-domain: *PROSELECT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Professeur / Professeure d'enseignement technique et pratique](202609099e4a.md)**  
-    :material-domain: *COMMUNAUTE DES ALLIANCES SCOLAIRES ET EDUCATIVES DE BWAKADRA* | :material-file-document-outline: CDD | :material-map-marker-outline: KAALA-GOMEN
-
-- **[Professeur / Professeure de physique, chimie, biologie](20260909a9f0.md)**  
-    :material-domain: *COMMUNAUTE DES ALLIANCES SCOLAIRES ET EDUCATIVES DE BWAKADRA* | :material-file-document-outline: CDD | :material-map-marker-outline: KAALA-GOMEN
-
-- **[Agent / Agente de maintenance en climatisation](20260909c4a6.md)**  
-    :material-domain: *SOCOMETRA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Assistant aux opérations drone (Province Nord)](2026090941de.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1  Agent de maintenance spécialité électricité](202609088702.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Responsable de production](2026090890e2.md)**  
-    :material-domain: *ALIZES ENERGIE* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
-
-- **[Technicien / Technicienne paie](202609080d77.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe comptable](2026090820fe.md)**  
-    :material-domain: *LES HESPERIDES* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
 
 
