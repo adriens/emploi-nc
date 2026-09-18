@@ -1,8 +1,23 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **735** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **738** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Recouvreur / Recouvreuse de créances](202609170471.md)**  
+    :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Responsable d'exploitation](20260917e921.md)**  
+    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente de gestion comptable](20260917fef4.md)**  
+    :material-domain: *VERON TRANSACTIONS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Opticien-optométriste / Opticienne-optométriste](202609175257.md)**  
+    :material-domain: *SUD OPTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Comptable spécialisé / Comptable spécialisée en comptabilité générale](2026091694ec.md)**  
+    :material-domain: *HOLDING GROUPE JEANDOT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Chargé / Chargée d'affaires marketing](20260916b309.md)**  
     :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -78,21 +93,6 @@ Accédez aux **735** offres d'emploi actuellement actives sur le territoire.
 
 - **[Infirmier / Infirmiére en hémodialyse](202609145d2f.md)**  
     :material-domain: *ASSOCIATION POUR LA PREVENTION ET LE TRAITEMENT DE L'INSUFFISANCE RENALE EN NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Comptable d'entreprise](20260914f51e.md)**  
-    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Agent de gestion comptable et budgétaire](20260913fbc3.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Aide-comptable facturier / Aide-comptable facturiére](20260913f967.md)**  
-    :material-domain: *SOCIETE D'ACHALANDISE ET DE GESTION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ingénieur chargé / Ingénieure chargée d'affaires du BTP](20260913faf5.md)**  
-    :material-domain: *AMBI ENERGY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante logistique](2026091385b4.md)**  
-    :material-domain: *AGENCEMENT SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
