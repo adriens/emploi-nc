@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **738** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **744** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé / Employée de libre-service](202609194cc9.md)**  
+    :material-domain: *AFJT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse rayon traiteur](20260918c657.md)**  
+    :material-domain: *LE SESAME NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente de réservation](20260918c4de.md)**  
+    :material-domain: *GROUPE LA PROMENADE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne en froid et climatisation](20260918cf49.md)**  
+    :material-domain: *G2 RENOVATION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Animateur sportif / Animatrice sportive](20260918557d.md)**  
+    :material-domain: *COMITE REGIONAL DE CYCLISME DE NOUVELLE CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de laverie automatique](202609184f72.md)**  
+    :material-domain: *NEW WASH* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente d'état des lieux](202609179608.md)**  
+    :material-domain: *PROMOBAT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Responsable du développement commercial](202609171099.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Recouvreur / Recouvreuse de créances](202609170471.md)**  
     :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
@@ -69,30 +93,6 @@ Accédez aux **738** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé / Employée de rayon](202609157234.md)**  
     :material-domain: *HTDT SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Enseignant suppléant annualisé LCK 2027 (Païcî) - n°123 du 15 septembre 2026](202609152602.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Adjoint d'éducation - dortoir garçons - 1363/SR du 11 septembre 2026](2026091551be.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Agent d'entretien polyvalent -1364/SR du 11 septembre 2026](20260915f349.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Agent de service en dortoir - 1361/SR du 11 septembre 2026](20260915f7c6.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Coordinateur socioculturel / Coordinatrice socioculturelle](20260915aff2.md)**  
-    :material-domain: *CONSERVATION INTERNATIONAL FOUNDATION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé administratif / Employée administrative](20260915a4df.md)**  
-    :material-domain: *CONSERVATION INTERNATIONAL FOUNDATION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Commercial / Commerciale technique](20260914e505.md)**  
-    :material-domain: *CIPAC INDUSTRIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Infirmier / Infirmiére en hémodialyse](202609145d2f.md)**  
-    :material-domain: *ASSOCIATION POUR LA PREVENTION ET LE TRAITEMENT DE L'INSUFFISANCE RENALE EN NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
 
 
 
