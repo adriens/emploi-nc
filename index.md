@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **744** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **745** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Diagnostiqueur / Diagnostiqueuse construction amiante](20260920c801.md)**  
+    :material-domain: *ARCHITECTURE DESIGN TRANSITION* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
 
 - **[Employé / Employée de libre-service](202609194cc9.md)**  
     :material-domain: *AFJT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -90,9 +93,6 @@ Accédez aux **744** offres d'emploi actuellement actives sur le territoire.
 
 - **[Agent / Agente de sécurité](2026091544bb.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Employé / Employée de rayon](202609157234.md)**  
-    :material-domain: *HTDT SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
