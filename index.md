@@ -1,8 +1,50 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **745** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **757** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Adjoint d'éducation en internat - IP Poindimié - 1424/SR du 18 septembre 2026](202609219f98.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Educateur spécialisé - IP Hienghène - 1420 /SR du 18 septembre 2026](202609212f20.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Coordinateur / Coordinatrice de site logistique](202609217dff.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Mécanicien / Mécanicienne de chantier](202609215dd4.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Mécanicien / Mécanicienne de chantier](20260921037f.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Agent / Agente logistique en magasinage](20260921e28b.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Vendeur / Vendeuse en optique lunetterie](20260921c492.md)**  
+    :material-domain: *LA GENERALE NC* | :material-file-document-outline: nan | :material-map-marker-outline: PAITA
+
+- **[Chargé d'affaires technico-commercial / Chargée d'affaires technico-commerciale](20260921ad0a.md)**  
+    :material-domain: *GEOCALIVE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[2 Cuisiniers - 1422/SR du 18 septembre 2026](202609208c5b.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Chef de projets - 1425/SR du 18 septembre 2026](20260920ab34.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Diététicien](20260920c30b.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Chef de bureau de proximité de soins](202609205fba.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Coordinateur des actions éducatives des internats - 1426/SR du 18 septembre 2026](20260920ac36.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Assistant administratif et commercial / Assistante administrative et commerciale](202609206c40.md)**  
+    :material-domain: *CONSTRUCTEUR AMENAGEUR PROMOTEUR NC* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
 
 - **[Diagnostiqueur / Diagnostiqueuse construction amiante](20260920c801.md)**  
     :material-domain: *ARCHITECTURE DESIGN TRANSITION* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
@@ -51,48 +93,6 @@ Accédez aux **745** offres d'emploi actuellement actives sur le territoire.
 
 - **[Vendeur / Vendeuse rayon traiteur](20260916580c.md)**  
     :material-domain: *DELICIEUSEMENT VOTRE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: MONT-DORE
-
-- **[Boulanger-pétissier / Boulangére-pétissiére](202609164934.md)**  
-    :material-domain: *UAKAI BOULANGERIE - PATISSERIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Vendeur / Vendeuse en produits biologiques](20260916be6b.md)**  
-    :material-domain: *SANTE NATURE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[2 Educateurs spécialisés](20260916a4f7.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Vendeur / Vendeuse en prét-é-porter féminin](20260916ab38.md)**  
-    :material-domain: *LEMMYNEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chargé de contact clientèle](2026091688ed.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Auditeur légal / Auditrice légale](202609155482.md)**  
-    :material-domain: *OCEA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Artisan menuisier / Artisane menuisiére du bétiment](2026091564d5.md)**  
-    :material-domain: *CONTRABAT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de maison](20260915b94d.md)**  
-    :material-domain: *ZEN & CLEAN* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Chargé / Chargée de clientèle en assurances](20260915bad1.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Adjoint d'éducation (dortoir garçons) - 1362/SR du 11/09/2026](20260915f0c1.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Chef cuisinier internat - 1365/SR du 11/09/2026](20260915ec7e.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Chargé de contact clientèle en soutien (H/F)](20260915bddf.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Ouvrier agricole polyvalent](2026091567c5.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Agent / Agente de sécurité](2026091544bb.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
