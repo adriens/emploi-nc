@@ -1,8 +1,35 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **757** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **765** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Vendeur / Vendeuse en optique lunetterie](20260922cffa.md)**  
+    :material-domain: *SARL CHEBIZ* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Secrétaire commercial / Secrétaire commerciale](2026092228d6.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Laborantin](20260922be97.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Gestionnaire de centre de production expérimentale](202609226991.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Analyste-programmeur / Analyste-programmeuse gestion informatique](20260922a2b7.md)**  
+    :material-domain: *SINAPSE* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
+
+- **[Responsable financier / Responsable financiére](2026092207f1.md)**  
+    :material-domain: *SEM SUD HABITAT* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[1 Responsable de magasin (H/F)](202609218af7.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Mécanicien](20260921fc26.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[1 Adjoint d'éducation -Koumac Dortoir garçons -1421/SR du 18 septembre 2026](20260921dcb0.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[1 Adjoint d'éducation en internat - IP Poindimié - 1424/SR du 18 septembre 2026](202609219f98.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -66,33 +93,6 @@ Accédez aux **757** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé / Employée de laverie automatique](202609184f72.md)**  
     :material-domain: *NEW WASH* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente d'état des lieux](202609179608.md)**  
-    :material-domain: *PROMOBAT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable du développement commercial](202609171099.md)**  
-    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Recouvreur / Recouvreuse de créances](202609170471.md)**  
-    :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Responsable d'exploitation](20260917e921.md)**  
-    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de gestion comptable](20260917fef4.md)**  
-    :material-domain: *VERON TRANSACTIONS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Opticien-optométriste / Opticienne-optométriste](202609175257.md)**  
-    :material-domain: *SUD OPTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Comptable spécialisé / Comptable spécialisée en comptabilité générale](2026091694ec.md)**  
-    :material-domain: *HOLDING GROUPE JEANDOT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée d'affaires marketing](20260916b309.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse rayon traiteur](20260916580c.md)**  
-    :material-domain: *DELICIEUSEMENT VOTRE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: MONT-DORE
 
 
 
