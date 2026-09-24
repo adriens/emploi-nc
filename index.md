@@ -1,8 +1,29 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **765** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **772** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Infirmier / Infirmiére de bloc opératoire Diplémé(e) d'Etat - IBODE](20260923c510.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Secrétaire polyvalent / Secrétaire polyvalente](2026092321df.md)**  
+    :material-domain: *DESWARTE CALMET CHAUCHAT AVOCATS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Coordinateur de formation professionnelle continue](20260923308b.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Préparateur / Préparatrice logistique en entrepét](20260923291f.md)**  
+    :material-domain: *COMPTOIR DE MATERIEL PROFESSIONNEL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Assistant / Assistante de manager](202609235313.md)**  
+    :material-domain: *BLUESCOPE ACIER NOUVELLE-CALEDONIE* | :material-file-document-outline: ALTERNANCE | :material-map-marker-outline: NOUMEA
+
+- **[Animateur / Animatrice agricole](202609227c64.md)**  
+    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Conseiller / Conseillére en gestion de patrimoine financier](202609224855.md)**  
+    :material-domain: *CABINET DE PLACEMENT ET D'INVESTISSEMENT FINANCIERS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Vendeur / Vendeuse en optique lunetterie](20260922cffa.md)**  
     :material-domain: *SARL CHEBIZ* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
@@ -72,27 +93,6 @@ Accédez aux **765** offres d'emploi actuellement actives sur le territoire.
 
 - **[Assistant administratif et commercial / Assistante administrative et commerciale](202609206c40.md)**  
     :material-domain: *CONSTRUCTEUR AMENAGEUR PROMOTEUR NC* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Diagnostiqueur / Diagnostiqueuse construction amiante](20260920c801.md)**  
-    :material-domain: *ARCHITECTURE DESIGN TRANSITION* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Employé / Employée de libre-service](202609194cc9.md)**  
-    :material-domain: *AFJT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse rayon traiteur](20260918c657.md)**  
-    :material-domain: *LE SESAME NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de réservation](20260918c4de.md)**  
-    :material-domain: *GROUPE LA PROMENADE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne en froid et climatisation](20260918cf49.md)**  
-    :material-domain: *G2 RENOVATION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Animateur sportif / Animatrice sportive](20260918557d.md)**  
-    :material-domain: *COMITE REGIONAL DE CYCLISME DE NOUVELLE CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de laverie automatique](202609184f72.md)**  
-    :material-domain: *NEW WASH* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
