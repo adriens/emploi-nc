@@ -1,8 +1,14 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **772** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **774** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Animateur / Animatrice beauté](202609258269.md)**  
+    :material-domain: *SARL COSMETIQUES DE FRANCE (N.C.)* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Aide-comptable facturier / Aide-comptable facturiére](2026092511b1.md)**  
+    :material-domain: *ASSOCIATION POUR LA GESTION DES TUTELLES EN NOUVELLE CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Infirmier / Infirmiére de bloc opératoire Diplémé(e) d'Etat - IBODE](20260923c510.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
@@ -87,12 +93,6 @@ Accédez aux **772** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Chef de bureau de proximité de soins](202609205fba.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Coordinateur des actions éducatives des internats - 1426/SR du 18 septembre 2026](20260920ac36.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Assistant administratif et commercial / Assistante administrative et commerciale](202609206c40.md)**  
-    :material-domain: *CONSTRUCTEUR AMENAGEUR PROMOTEUR NC* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
 
 
 
