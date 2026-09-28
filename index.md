@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **775** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **776** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Conseiller / Conseillére beauté](20260927374b.md)**  
+    :material-domain: *COSMOBIO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Moniteur / Monitrice d'auto-école](2026092573ac.md)**  
     :material-domain: *CHRONO 64* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
@@ -89,9 +92,6 @@ Accédez aux **775** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[1 Chef de projets - 1425/SR du 18 septembre 2026](20260920ab34.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Diététicien](20260920c30b.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
