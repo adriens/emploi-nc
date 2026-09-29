@@ -1,8 +1,29 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **776** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **782** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Ouvrier polyvalent / Ouvriére polyvalente d'entretien des bétiments](202609288405.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Caissier/Etalagiste en quincaillerie](202609284514.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Employé / Employée de maison](20260928f5a3.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Magasinier vendeur / Magasiniére vendeuse](20260928e5b7.md)**  
+    :material-domain: *PHARMACIE DE L'AUTOMOBILE SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Acheteur industriel / Acheteuse industrielle](20260928803f.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente de sécurité](202609279609.md)**  
+    :material-domain: *HORUS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Infirmier de soins généraux-26-1185/SR  du 07 août 2026](20260927cd7d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Conseiller / Conseillére beauté](20260927374b.md)**  
     :material-domain: *COSMOBIO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -72,27 +93,6 @@ Accédez aux **776** offres d'emploi actuellement actives sur le territoire.
 
 - **[Coordinateur / Coordinatrice de site logistique](202609217dff.md)**  
     :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Mécanicien / Mécanicienne de chantier](202609215dd4.md)**  
-    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Mécanicien / Mécanicienne de chantier](20260921037f.md)**  
-    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Agent / Agente logistique en magasinage](20260921e28b.md)**  
-    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Vendeur / Vendeuse en optique lunetterie](20260921c492.md)**  
-    :material-domain: *LA GENERALE NC* | :material-file-document-outline: nan | :material-map-marker-outline: PAITA
-
-- **[Chargé d'affaires technico-commercial / Chargée d'affaires technico-commerciale](20260921ad0a.md)**  
-    :material-domain: *GEOCALIVE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[2 Cuisiniers - 1422/SR du 18 septembre 2026](202609208c5b.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Chef de projets - 1425/SR du 18 septembre 2026](20260920ab34.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
