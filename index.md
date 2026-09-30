@@ -1,8 +1,29 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **782** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **788** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Coiffeur / Coiffeuse mixte](20260929031f.md)**  
+    :material-domain: *SARL L.C.C.* | :material-file-document-outline: CDI | :material-map-marker-outline: KONE
+
+- **[Secrétaire Facturier / Facturiére](20260929e97d.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente de gestion locative en immobilier](202609299b72.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Ouvrier / Ouvriére paysagiste](20260929695a.md)**  
+    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
+
+- **[Préparateur-vendeur / Préparatrice-vendeuse de pizzas](20260929691f.md)**  
+    :material-domain: *SPORT PASSION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de bar](202609296614.md)**  
+    :material-domain: *SPORT PASSION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Mécanicien / Mécanicienne VL](2026092838e7.md)**  
+    :material-domain: *WEISS MAINTENANCE INDUSTRIELLE* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
 
 - **[Ouvrier polyvalent / Ouvriére polyvalente d'entretien des bétiments](202609288405.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -72,27 +93,6 @@ Accédez aux **782** offres d'emploi actuellement actives sur le territoire.
 
 - **[Analyste-programmeur / Analyste-programmeuse gestion informatique](20260922a2b7.md)**  
     :material-domain: *SINAPSE* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[Responsable financier / Responsable financiére](2026092207f1.md)**  
-    :material-domain: *SEM SUD HABITAT* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[1 Responsable de magasin (H/F)](202609218af7.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Mécanicien](20260921fc26.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[1 Adjoint d'éducation -Koumac Dortoir garçons -1421/SR du 18 septembre 2026](20260921dcb0.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Adjoint d'éducation en internat - IP Poindimié - 1424/SR du 18 septembre 2026](202609219f98.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Educateur spécialisé - IP Hienghène - 1420 /SR du 18 septembre 2026](202609212f20.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Coordinateur / Coordinatrice de site logistique](202609217dff.md)**  
-    :material-domain: *SOCIETE CALEDONIENNE DES TRACTEURS* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
 
 
 
