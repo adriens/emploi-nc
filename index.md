@@ -1,8 +1,35 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **788** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **797** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Vendeur / Vendeuse en optique lunetterie](2026093007ce.md)**  
+    :material-domain: *CLARO NOUMEA* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Ingénieur / Ingénieure environnement-hygiéne-sécurité en industrie](20260930f5ef.md)**  
+    :material-domain: *PETROCAL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de maison](2026093013c1.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Responsable de magasin](20260930ca9e.md)**  
+    :material-domain: *PLUM MARKET* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
+
+- **[Vendeur / Vendeuse en articles de bazar](202609308632.md)**  
+    :material-domain: *ZHANG Yixin* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Ouvrier polyvalent / Ouvriére polyvalente d'entretien des bétiments](20260930ae97.md)**  
+    :material-domain: *BELTRANO Joann* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[Infirmier de soins généraux-26-1186/SR  du 07 août 2026](20260929f145.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chargé de mission transition énergétique](202609293680.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
+
+- **[Second / Seconde de cuisine](20260929d05c.md)**  
+    :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Coiffeur / Coiffeuse mixte](20260929031f.md)**  
     :material-domain: *SARL L.C.C.* | :material-file-document-outline: CDI | :material-map-marker-outline: KONE
@@ -66,33 +93,6 @@ Accédez aux **788** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Coordinateur de formation professionnelle continue](20260923308b.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Préparateur / Préparatrice logistique en entrepét](20260923291f.md)**  
-    :material-domain: *COMPTOIR DE MATERIEL PROFESSIONNEL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante de manager](202609235313.md)**  
-    :material-domain: *BLUESCOPE ACIER NOUVELLE-CALEDONIE* | :material-file-document-outline: ALTERNANCE | :material-map-marker-outline: NOUMEA
-
-- **[Animateur / Animatrice agricole](202609227c64.md)**  
-    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Conseiller / Conseillére en gestion de patrimoine financier](202609224855.md)**  
-    :material-domain: *CABINET DE PLACEMENT ET D'INVESTISSEMENT FINANCIERS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en optique lunetterie](20260922cffa.md)**  
-    :material-domain: *SARL CHEBIZ* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Secrétaire commercial / Secrétaire commerciale](2026092228d6.md)**  
-    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Laborantin](20260922be97.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Gestionnaire de centre de production expérimentale](202609226991.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Analyste-programmeur / Analyste-programmeuse gestion informatique](20260922a2b7.md)**  
-    :material-domain: *SINAPSE* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
 
 
 
