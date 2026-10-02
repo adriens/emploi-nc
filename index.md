@@ -1,8 +1,38 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **797** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **806** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Opticien-lunetier / Opticienne-lunetiére](20261001e8b5.md)**  
+    :material-domain: *CENTRE OPTIQUE SAINTE MARIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Opticien-lunetier / Opticienne-lunetiére](2026100167dc.md)**  
+    :material-domain: *CENTRE OPTIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse comptoir de matériels et équipements](202610019e88.md)**  
+    :material-domain: *SOCIETE DE DISTRIBUTION DU BATIMENT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Data analyst](20261001380b.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
+
+- **[Installateur dépanneur / Installatrice dépanneuse en informatique](202610019817.md)**  
+    :material-domain: *CAN'L* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Barman / Barmaid expert en cocktails](20260930076b.md)**  
+    :material-domain: *SARL ART' TERRASSE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Serveur / Serveuse](20260930c1df.md)**  
+    :material-domain: *SARL ART' TERRASSE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Serveur / Serveuse](202609309c07.md)**  
+    :material-domain: *SARL ART' TERRASSE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de libre-service](20260930d725.md)**  
+    :material-domain: *ECOMARCHE* | :material-file-document-outline: CDI | :material-map-marker-outline: BOULOUPARIS
+
+- **[Agent commercial / Agente commerciale en immobilier](20260930aa2a.md)**  
+    :material-domain: *IMMOBILIERE DU FAUBOURG* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Vendeur / Vendeuse en optique lunetterie](2026093007ce.md)**  
     :material-domain: *CLARO NOUMEA* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
@@ -63,36 +93,6 @@ Accédez aux **797** offres d'emploi actuellement actives sur le territoire.
 
 - **[Magasinier vendeur / Magasiniére vendeuse](20260928e5b7.md)**  
     :material-domain: *PHARMACIE DE L'AUTOMOBILE SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Acheteur industriel / Acheteuse industrielle](20260928803f.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de sécurité](202609279609.md)**  
-    :material-domain: *HORUS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Infirmier de soins généraux-26-1185/SR  du 07 août 2026](20260927cd7d.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Conseiller / Conseillére beauté](20260927374b.md)**  
-    :material-domain: *COSMOBIO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Moniteur / Monitrice d'auto-école](2026092573ac.md)**  
-    :material-domain: *CHRONO 64* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Animateur / Animatrice beauté](202609258269.md)**  
-    :material-domain: *SARL COSMETIQUES DE FRANCE (N.C.)* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Aide-comptable facturier / Aide-comptable facturiére](2026092511b1.md)**  
-    :material-domain: *ASSOCIATION POUR LA GESTION DES TUTELLES EN NOUVELLE CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Infirmier / Infirmiére de bloc opératoire Diplémé(e) d'Etat - IBODE](20260923c510.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Secrétaire polyvalent / Secrétaire polyvalente](2026092321df.md)**  
-    :material-domain: *DESWARTE CALMET CHAUCHAT AVOCATS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Coordinateur de formation professionnelle continue](20260923308b.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
