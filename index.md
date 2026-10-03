@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **806** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **814** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Serveur / Serveuse de bar](2026100236ff.md)**  
+    :material-domain: *SPORT PASSION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Ouvrier / Ouvriére du béton](20261002fd64.md)**  
+    :material-domain: *LA TARENTAISE DE CONSTRUCTION ET RENOVATION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Enseignant suppléant occasionnel - 131/2026 du 02 octobre 2026](20261002875d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Comptable général / Comptable générale](20261002bb43.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Ingénieur chargé / Ingénieure chargée d'affaires du BTP](202610021ff1.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Opérateur / Opératrice de saisie de données](202610029d4f.md)**  
+    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Agent Technico-commerciale](202610018c8f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Gestionnaire liquidation retraite](20261001fdfb.md)**  
+    :material-domain: *ASSOCIATION DE MOYENS RETRAITE COMPLEMENTAIRE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Opticien-lunetier / Opticienne-lunetiére](20261001e8b5.md)**  
     :material-domain: *CENTRE OPTIQUE SAINTE MARIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -69,30 +93,6 @@ Accédez aux **806** offres d'emploi actuellement actives sur le territoire.
 
 - **[Agent / Agente de gestion locative en immobilier](202609299b72.md)**  
     :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier / Ouvriére paysagiste](20260929695a.md)**  
-    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
-
-- **[Préparateur-vendeur / Préparatrice-vendeuse de pizzas](20260929691f.md)**  
-    :material-domain: *SPORT PASSION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de bar](202609296614.md)**  
-    :material-domain: *SPORT PASSION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Mécanicien / Mécanicienne VL](2026092838e7.md)**  
-    :material-domain: *WEISS MAINTENANCE INDUSTRIELLE* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Ouvrier polyvalent / Ouvriére polyvalente d'entretien des bétiments](202609288405.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Caissier/Etalagiste en quincaillerie](202609284514.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Employé / Employée de maison](20260928f5a3.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Magasinier vendeur / Magasiniére vendeuse](20260928e5b7.md)**  
-    :material-domain: *PHARMACIE DE L'AUTOMOBILE SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
