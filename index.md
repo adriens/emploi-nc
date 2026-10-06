@@ -1,8 +1,35 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **808** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **817** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé polyvalent / Employée polyvalente de restaurant](2026100545dc.md)**  
+    :material-domain: *SARL BG* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Conducteur de dumper (Nakéty)](20261005e299.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Comptable unique](2026100529ce.md)**  
+    :material-domain: *nan* | :material-file-document-outline: nan | :material-map-marker-outline: nan
+
+- **[1 Directeur de centre de loisirs - basé à Voh](202610056c9b.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Animateur de centre de loisirs - basé à Voh](202610054a36.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Agent / Agente d'accueil](202610043aca.md)**  
+    :material-domain: *AGENCE CALEDONIENNE DE TRANSIT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Juriste d'affaires](202610046f70.md)**  
+    :material-domain: *LEGISCAL* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Juriste de contentieux](20261004659d.md)**  
+    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Responsable d'exploitation aéroportuaire](202610044927.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
 
 - **[Serveur / Serveuse de bar](2026100236ff.md)**  
     :material-domain: *SPORT PASSION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -66,33 +93,6 @@ Accédez aux **808** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé / Employée de maison](2026093013c1.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Responsable de magasin](20260930ca9e.md)**  
-    :material-domain: *PLUM MARKET* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
-
-- **[Vendeur / Vendeuse en articles de bazar](202609308632.md)**  
-    :material-domain: *ZHANG Yixin* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier polyvalent / Ouvriére polyvalente d'entretien des bétiments](20260930ae97.md)**  
-    :material-domain: *BELTRANO Joann* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Infirmier de soins généraux-26-1186/SR  du 07 août 2026](20260929f145.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Chargé de mission transition énergétique](202609293680.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[Second / Seconde de cuisine](20260929d05c.md)**  
-    :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Coiffeur / Coiffeuse mixte](20260929031f.md)**  
-    :material-domain: *SARL L.C.C.* | :material-file-document-outline: CDI | :material-map-marker-outline: KONE
-
-- **[Secrétaire Facturier / Facturiére](20260929e97d.md)**  
-    :material-domain: *PROSELECT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de gestion locative en immobilier](202609299b72.md)**  
-    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
