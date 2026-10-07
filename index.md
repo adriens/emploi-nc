@@ -1,8 +1,50 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **817** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **831** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Un(e) Volontaire en Service Civique Appui à la transition agroécologique](20261006928e.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Aide-technicien agricole](202610066cd6.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Pharmacien / Pharmacienne en officine](202610061307.md)**  
+    :material-domain: *PHARMACIE DU MALL* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Réparateur / Réparatrice de pare-brises](20261006018b.md)**  
+    :material-domain: *LA MAISON DU PARE BRISE* | :material-file-document-outline: CDI | :material-map-marker-outline: KONE
+
+- **[1 Alternant - Gestionnaire administratif et accueil](20261006b94d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Mécanicien](20261006ebef.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Accompagnateur éducatif](20261006244e.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Ouvrier / Ouvriére avicole](20261006691d.md)**  
+    :material-domain: *PADDOCK-CREEK* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
+
+- **[Adjoint / Adjointe responsable de magasin de détail](202610064d6f.md)**  
+    :material-domain: *LA MAISON DE L'OUTILLAGE SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Mécanicien / Mécanicienne VL](20261006f49f.md)**  
+    :material-domain: *BNK AUTO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Assistant / Assistante achat](20261005e8c6.md)**  
+    :material-domain: *S.H SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Ouvrier pétissier / Ouvriére pétissiére](202610054f3c.md)**  
+    :material-domain: *S.H SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne études de prix BTP](2026100528ce.md)**  
+    :material-domain: *LES BETONS DU PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[1 Superviseur Méthodes Engins Mobiles](20261005d928.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 - **[Employé polyvalent / Employée polyvalente de restaurant](2026100545dc.md)**  
     :material-domain: *SARL BG* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
@@ -50,48 +92,6 @@ Accédez aux **817** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Agent Technico-commerciale](202610018c8f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Gestionnaire liquidation retraite](20261001fdfb.md)**  
-    :material-domain: *ASSOCIATION DE MOYENS RETRAITE COMPLEMENTAIRE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Opticien-lunetier / Opticienne-lunetiére](20261001e8b5.md)**  
-    :material-domain: *CENTRE OPTIQUE SAINTE MARIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Opticien-lunetier / Opticienne-lunetiére](2026100167dc.md)**  
-    :material-domain: *CENTRE OPTIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse comptoir de matériels et équipements](202610019e88.md)**  
-    :material-domain: *SOCIETE DE DISTRIBUTION DU BATIMENT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Data analyst](20261001380b.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[Installateur dépanneur / Installatrice dépanneuse en informatique](202610019817.md)**  
-    :material-domain: *CAN'L* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Barman / Barmaid expert en cocktails](20260930076b.md)**  
-    :material-domain: *SARL ART' TERRASSE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Serveur / Serveuse](20260930c1df.md)**  
-    :material-domain: *SARL ART' TERRASSE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Serveur / Serveuse](202609309c07.md)**  
-    :material-domain: *SARL ART' TERRASSE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de libre-service](20260930d725.md)**  
-    :material-domain: *ECOMARCHE* | :material-file-document-outline: CDI | :material-map-marker-outline: BOULOUPARIS
-
-- **[Agent commercial / Agente commerciale en immobilier](20260930aa2a.md)**  
-    :material-domain: *IMMOBILIERE DU FAUBOURG* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en optique lunetterie](2026093007ce.md)**  
-    :material-domain: *CLARO NOUMEA* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Ingénieur / Ingénieure environnement-hygiéne-sécurité en industrie](20260930f5ef.md)**  
-    :material-domain: *PETROCAL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de maison](2026093013c1.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
