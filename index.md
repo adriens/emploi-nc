@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **831** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **838** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Opérateur / Opératrice en cybersécurité](20261007ed0c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Ouvrier / Ouvriére du paysage](202610078755.md)**  
+    :material-domain: *NOUMEA ARROSAGE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Directeur / Directrice de centre de profit](202610070e02.md)**  
+    :material-domain: *RHNC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Caissier / Caissiére](20261007e5eb.md)**  
+    :material-domain: *LIBERTY MAINTENANCE* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
+
+- **[Assistant administratif / Assistante administrative](20261007f903.md)**  
+    :material-domain: *GSR* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée de mission aux relations internationales](202610062071.md)**  
+    :material-domain: *CONSULAT GENERAL DE NOUVELLE-ZELANDE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Serveur / Serveuse de restaurant](202610061aa8.md)**  
+    :material-domain: *KOU-BUGNY* | :material-file-document-outline: CDD | :material-map-marker-outline: ILE DES PINS
+
+- **[1 Mécanicien sur engins minier - Kaala Gomen](202610066797.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 - **[Un(e) Volontaire en Service Civique Appui à la transition agroécologique](20261006928e.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
@@ -69,30 +93,6 @@ Accédez aux **831** offres d'emploi actuellement actives sur le territoire.
 
 - **[Juriste de contentieux](20261004659d.md)**  
     :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable d'exploitation aéroportuaire](202610044927.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Serveur / Serveuse de bar](2026100236ff.md)**  
-    :material-domain: *SPORT PASSION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier / Ouvriére du béton](20261002fd64.md)**  
-    :material-domain: *LA TARENTAISE DE CONSTRUCTION ET RENOVATION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Enseignant suppléant occasionnel - 131/2026 du 02 octobre 2026](20261002875d.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Comptable général / Comptable générale](20261002bb43.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ingénieur chargé / Ingénieure chargée d'affaires du BTP](202610021ff1.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Opérateur / Opératrice de saisie de données](202610029d4f.md)**  
-    :material-domain: *GEODIS FF NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Agent Technico-commerciale](202610018c8f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
