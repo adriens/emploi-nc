@@ -1,8 +1,35 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **838** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **846** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Responsable du développement commercial](20261008c082.md)**  
+    :material-domain: *INVESTISSEMENT FINANCE PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable du développement commercial](20261008169b.md)**  
+    :material-domain: *INVESTISSEMENT FINANCE PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Secrétaire comptable](202610085341.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Technicien / Technicienne support technique](20261008ad8b.md)**  
+    :material-domain: *GEOCALIVE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de rayon](202610088890.md)**  
+    :material-domain: *SMDI SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
+
+- **[Magasinier / Magasiniére cariste](20261008a832.md)**  
+    :material-domain: *FRIGODOM NC* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[Ordonnanceur-approvisionneur / Ordonnanceuse-approvisionneuse](2026100821fa.md)**  
+    :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
+
+- **[Pilote d'installation de production d'énergie](20261007ed9d.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
+
+- **[Collaborateur / Collaboratrice d'expertise comptable](202610075609.md)**  
+    :material-domain: *AXEO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Opérateur / Opératrice en cybersécurité](20261007ed0c.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
@@ -26,9 +53,6 @@ Accédez aux **838** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *KOU-BUGNY* | :material-file-document-outline: CDD | :material-map-marker-outline: ILE DES PINS
 
 - **[1 Mécanicien sur engins minier - Kaala Gomen](202610066797.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Un(e) Volontaire en Service Civique Appui à la transition agroécologique](20261006928e.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 - **[Aide-technicien agricole](202610066cd6.md)**  
@@ -69,30 +93,6 @@ Accédez aux **838** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Superviseur Méthodes Engins Mobiles](20261005d928.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Employé polyvalent / Employée polyvalente de restaurant](2026100545dc.md)**  
-    :material-domain: *SARL BG* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Conducteur de dumper (Nakéty)](20261005e299.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Comptable unique](2026100529ce.md)**  
-    :material-domain: *nan* | :material-file-document-outline: nan | :material-map-marker-outline: nan
-
-- **[1 Directeur de centre de loisirs - basé à Voh](202610056c9b.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Animateur de centre de loisirs - basé à Voh](202610054a36.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Agent / Agente d'accueil](202610043aca.md)**  
-    :material-domain: *AGENCE CALEDONIENNE DE TRANSIT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Juriste d'affaires](202610046f70.md)**  
-    :material-domain: *LEGISCAL* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Juriste de contentieux](20261004659d.md)**  
-    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
