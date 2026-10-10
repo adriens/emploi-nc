@@ -1,8 +1,20 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **846** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **850** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Chaudronnier soudeur / Chaudronniére soudeuse](202610093781.md)**  
+    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Monteur / Monteuse en pneumatique](20261009803e.md)**  
+    :material-domain: *MAISON DU RECHAPAGE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Comptable d'entreprise](2026100810e7.md)**  
+    :material-domain: *SOCIETE CALEDONIENNE DE SERVICES PUBLICS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chef / Cheffe d'atelier de cuisine](202610080624.md)**  
+    :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
 
 - **[Responsable du développement commercial](20261008c082.md)**  
     :material-domain: *INVESTISSEMENT FINANCE PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -81,18 +93,6 @@ Accédez aux **846** offres d'emploi actuellement actives sur le territoire.
 
 - **[Mécanicien / Mécanicienne VL](20261006f49f.md)**  
     :material-domain: *BNK AUTO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante achat](20261005e8c6.md)**  
-    :material-domain: *S.H SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier pétissier / Ouvriére pétissiére](202610054f3c.md)**  
-    :material-domain: *S.H SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne études de prix BTP](2026100528ce.md)**  
-    :material-domain: *LES BETONS DU PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[1 Superviseur Méthodes Engins Mobiles](20261005d928.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 
 
