@@ -1,8 +1,17 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **850** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **844** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé / Employée d'institut de beauté](20261010eb09.md)**  
+    :material-domain: *L'ATELIER DU REGARD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de bar](202610091eda.md)**  
+    :material-domain: *SPORT PASSION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Conducteur / Conductrice de travaux](2026100959d3.md)**  
+    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
 - **[Chaudronnier soudeur / Chaudronniére soudeuse](202610093781.md)**  
     :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -82,17 +91,8 @@ Accédez aux **850** offres d'emploi actuellement actives sur le territoire.
 - **[1 Mécanicien](20261006ebef.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[Accompagnateur éducatif](20261006244e.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
 - **[Ouvrier / Ouvriére avicole](20261006691d.md)**  
     :material-domain: *PADDOCK-CREEK* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Adjoint / Adjointe responsable de magasin de détail](202610064d6f.md)**  
-    :material-domain: *LA MAISON DE L'OUTILLAGE SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Mécanicien / Mécanicienne VL](20261006f49f.md)**  
-    :material-domain: *BNK AUTO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
