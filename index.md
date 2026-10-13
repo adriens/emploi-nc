@@ -1,8 +1,47 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **844** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **857** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé polyvalent / Employée polyvalente de restaurant](20261012bf26.md)**  
+    :material-domain: *SOERIP RACHEL GEORGINA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente d'entretien des installations d'infrastructures](20261012ed94.md)**  
+    :material-domain: *NC IMPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Aide de cuisine](2026101249b3.md)**  
+    :material-domain: *KIM MARCHÉ* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Préparateur-vendeur / Préparatrice-vendeuse de sandwichs](20261012126a.md)**  
+    :material-domain: *L.T* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Pharmacien / Pharmacienne en officine](20261012d89e.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Psychomotricien (H/F) - 1494/SR du 9 octobre 2026 – DASSPS - Poum](202610122c12.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chauffeur poids lourds polyvalent - Service AEP](20261012e894.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Technicien / Technicienne en hygiéne et environnement](20261012ece4.md)**  
+    :material-domain: *LINC* | :material-file-document-outline: ALTERNANCE | :material-map-marker-outline: NOUMEA
+
+- **[Comptable syndic immobilier](20261011f39a.md)**  
+    :material-domain: *GAUTIER IMMOBILIER* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Aide d'élevage aquacole](202610119ea8.md)**  
+    :material-domain: *PRONACRI* | :material-file-document-outline: CDD | :material-map-marker-outline: POYA
+
+- **[1 Comptable  -1462/SR du 2 octobre 2026 - DAJAP Koné](20261011b97c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Assistant de direction  -1464/SR du 2 octobre 2026 - DAJAP Koné](20261011c74a.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Chargé d'action -1460/SR du 2 octobre 2026 - DDHI Koné](202610111752.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Employé / Employée d'institut de beauté](20261010eb09.md)**  
     :material-domain: *L'ATELIER DU REGARD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -54,45 +93,6 @@ Accédez aux **844** offres d'emploi actuellement actives sur le territoire.
 
 - **[Opérateur / Opératrice en cybersécurité](20261007ed0c.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Ouvrier / Ouvriére du paysage](202610078755.md)**  
-    :material-domain: *NOUMEA ARROSAGE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Directeur / Directrice de centre de profit](202610070e02.md)**  
-    :material-domain: *RHNC* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Caissier / Caissiére](20261007e5eb.md)**  
-    :material-domain: *LIBERTY MAINTENANCE* | :material-file-document-outline: CDI | :material-map-marker-outline: MONT-DORE
-
-- **[Assistant administratif / Assistante administrative](20261007f903.md)**  
-    :material-domain: *GSR* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée de mission aux relations internationales](202610062071.md)**  
-    :material-domain: *CONSULAT GENERAL DE NOUVELLE-ZELANDE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Serveur / Serveuse de restaurant](202610061aa8.md)**  
-    :material-domain: *KOU-BUGNY* | :material-file-document-outline: CDD | :material-map-marker-outline: ILE DES PINS
-
-- **[1 Mécanicien sur engins minier - Kaala Gomen](202610066797.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Aide-technicien agricole](202610066cd6.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Pharmacien / Pharmacienne en officine](202610061307.md)**  
-    :material-domain: *PHARMACIE DU MALL* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Réparateur / Réparatrice de pare-brises](20261006018b.md)**  
-    :material-domain: *LA MAISON DU PARE BRISE* | :material-file-document-outline: CDI | :material-map-marker-outline: KONE
-
-- **[1 Alternant - Gestionnaire administratif et accueil](20261006b94d.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Mécanicien](20261006ebef.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Ouvrier / Ouvriére avicole](20261006691d.md)**  
-    :material-domain: *PADDOCK-CREEK* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
 
 
 
