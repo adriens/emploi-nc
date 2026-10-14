@@ -1,8 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **857** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **863** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Formateur / Formatrice d'anglais](20261013a39a.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse en vins et spiritueux](20261013a44e.md)**  
+    :material-domain: *LE VIN AUTREMENT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Professeur / Professeure en centre de formation pour adultes](202610131ff0.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Infirmier en soins généraux (H/F) -26-1497/SR  du 09 octobre  2026 - HIENGHENE](202610137bfb.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Opticien-lunetier / Opticienne-lunetiére](20261012ebb1.md)**  
+    :material-domain: *LA GENERALE NC* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[Aide dentaire](2026101242cb.md)**  
+    :material-domain: *CABINET DENTAIRE DU DR DUVAL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Employé polyvalent / Employée polyvalente de restaurant](20261012bf26.md)**  
     :material-domain: *SOERIP RACHEL GEORGINA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -75,24 +93,6 @@ Accédez aux **857** offres d'emploi actuellement actives sur le territoire.
 
 - **[Technicien / Technicienne support technique](20261008ad8b.md)**  
     :material-domain: *GEOCALIVE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de rayon](202610088890.md)**  
-    :material-domain: *SMDI SERVICES* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Magasinier / Magasiniére cariste](20261008a832.md)**  
-    :material-domain: *FRIGODOM NC* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Ordonnanceur-approvisionneur / Ordonnanceuse-approvisionneuse](2026100821fa.md)**  
-    :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Pilote d'installation de production d'énergie](20261007ed9d.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[Collaborateur / Collaboratrice d'expertise comptable](202610075609.md)**  
-    :material-domain: *AXEO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Opérateur / Opératrice en cybersécurité](20261007ed0c.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 
 
