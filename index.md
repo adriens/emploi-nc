@@ -1,8 +1,41 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **863** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **873** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[2 Inventoristes (H/F)](20261014dbe7.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Assistant / Assistante gestionnaire en immobilier](20261014f5e1.md)**  
+    :material-domain: *CALEDONIENNE D'IMMOBILIER* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Coordinateur dispatch](202610145f8f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Secrétaire administratif / Secrétaire administrative](20261014f6a1.md)**  
+    :material-domain: *MAINTENANCE GENERALE POIDS LOURD* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de projet industriel](202610139179.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
+
+- **[1 Opérateur Engins Mobiles - Poya (Népoui)](2026101355c3.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[1 Conseiller Vente et SAV](20261013003a.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[2 Infirmiers en soins généraux itinérants -1495/SR du 9 octobre 2026](20261013ff7f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Conseiller technique -1496/SR du 9 octobre 2026](2026101368aa.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Chef de centre pneumatique Nord](20261013bebc.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chargé / Chargée de mission développement de zones d'activités](20261013dcce.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Formateur / Formatrice d'anglais](20261013a39a.md)**  
     :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: NOUMEA
@@ -60,39 +93,6 @@ Accédez aux **863** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Chargé d'action -1460/SR du 2 octobre 2026 - DDHI Koné](202610111752.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Employé / Employée d'institut de beauté](20261010eb09.md)**  
-    :material-domain: *L'ATELIER DU REGARD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de bar](202610091eda.md)**  
-    :material-domain: *SPORT PASSION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Conducteur / Conductrice de travaux](2026100959d3.md)**  
-    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Chaudronnier soudeur / Chaudronniére soudeuse](202610093781.md)**  
-    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Monteur / Monteuse en pneumatique](20261009803e.md)**  
-    :material-domain: *MAISON DU RECHAPAGE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Comptable d'entreprise](2026100810e7.md)**  
-    :material-domain: *SOCIETE CALEDONIENNE DE SERVICES PUBLICS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe d'atelier de cuisine](202610080624.md)**  
-    :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Responsable du développement commercial](20261008c082.md)**  
-    :material-domain: *INVESTISSEMENT FINANCE PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable du développement commercial](20261008169b.md)**  
-    :material-domain: *INVESTISSEMENT FINANCE PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Secrétaire comptable](202610085341.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Technicien / Technicienne support technique](20261008ad8b.md)**  
-    :material-domain: *GEOCALIVE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
