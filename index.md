@@ -1,10 +1,25 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **873** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **878** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
-- **[2 Inventoristes (H/F)](20261014dbe7.md)**  
+- **[Serveur / Serveuse](2026101585f8.md)**  
+    :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente d'affrètement](202610151469.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Conducteur / Conductrice de travaux du BTP](202610155ab6.md)**  
+    :material-domain: *NEODEL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable sécurité des systémes d'information](202610146555.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Superviseur / Superviseuse de parc engins logistiques](20261014dbb5.md)**  
+    :material-domain: *MARCONNET LOCATION SERVICES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Agent de maintenance polyvalent](202610143ae7.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Assistant / Assistante gestionnaire en immobilier](20261014f5e1.md)**  
@@ -78,21 +93,6 @@ Accédez aux **873** offres d'emploi actuellement actives sur le territoire.
 
 - **[Technicien / Technicienne en hygiéne et environnement](20261012ece4.md)**  
     :material-domain: *LINC* | :material-file-document-outline: ALTERNANCE | :material-map-marker-outline: NOUMEA
-
-- **[Comptable syndic immobilier](20261011f39a.md)**  
-    :material-domain: *GAUTIER IMMOBILIER* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Aide d'élevage aquacole](202610119ea8.md)**  
-    :material-domain: *PRONACRI* | :material-file-document-outline: CDD | :material-map-marker-outline: POYA
-
-- **[1 Comptable  -1462/SR du 2 octobre 2026 - DAJAP Koné](20261011b97c.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Assistant de direction  -1464/SR du 2 octobre 2026 - DAJAP Koné](20261011c74a.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Chargé d'action -1460/SR du 2 octobre 2026 - DDHI Koné](202610111752.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
