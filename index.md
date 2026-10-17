@@ -1,8 +1,53 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **878** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **893** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Technicien / Technicienne de biologie médicale](20261016c903.md)**  
+    :material-domain: *LABORATOIRE DU CATALAN* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Infirmier préleveur / Infirmiére préleveuse](20261016a5e3.md)**  
+    :material-domain: *LABORATOIRE DU CATALAN* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Commercial / Commerciale technique](20261016369a.md)**  
+    :material-domain: *GECOWATT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Mécanicien / Mécanicienne poids lourds](20261016f4af.md)**  
+    :material-domain: *CIPAC SERVICES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[2 Serveurs (Emploi vacances) (H/F)](202610164810.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Employé / Employée de laverie automatique](20261016fb35.md)**  
+    :material-domain: *NEW WASH* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chauffeur-magasinier / Chauffeuse-magasiniére](2026101621ff.md)**  
+    :material-domain: *SAHMARA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chauffeur / Chauffeuse de poids lourd](202610164944.md)**  
+    :material-domain: *SARL FREEWAY TRANSPORT TERRASSEMENT PERE ET FILS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Assistant administratif / Assistante administrative](20261015842a.md)**  
+    :material-domain: *DUMBEA NATATION* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Dessinateur / Dessinatrice d'études du BTP](20261015d537.md)**  
+    :material-domain: *ETUDES TECHNIQUES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de la gestion et des services généraux](20261015b278.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Moniteur / Monitrice de plongée](2026101537c3.md)**  
+    :material-domain: *ABYSS PLONGEE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Formateur / Formatrice comptabilité et gestion financiére](20261015b2ec.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Couvreur charpentier / Couvreuse charpentiére](202610155386.md)**  
+    :material-domain: *SIKA CHARPENTE SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
+
+- **[1 Assistant administratif](20261015ccaa.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Serveur / Serveuse](2026101585f8.md)**  
     :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -48,51 +93,6 @@ Accédez aux **878** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Chef de centre pneumatique Nord](20261013bebc.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Chargé / Chargée de mission développement de zones d'activités](20261013dcce.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Formateur / Formatrice d'anglais](20261013a39a.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en vins et spiritueux](20261013a44e.md)**  
-    :material-domain: *LE VIN AUTREMENT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Professeur / Professeure en centre de formation pour adultes](202610131ff0.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Infirmier en soins généraux (H/F) -26-1497/SR  du 09 octobre  2026 - HIENGHENE](202610137bfb.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Opticien-lunetier / Opticienne-lunetiére](20261012ebb1.md)**  
-    :material-domain: *LA GENERALE NC* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Aide dentaire](2026101242cb.md)**  
-    :material-domain: *CABINET DENTAIRE DU DR DUVAL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé polyvalent / Employée polyvalente de restaurant](20261012bf26.md)**  
-    :material-domain: *SOERIP RACHEL GEORGINA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente d'entretien des installations d'infrastructures](20261012ed94.md)**  
-    :material-domain: *NC IMPORT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Aide de cuisine](2026101249b3.md)**  
-    :material-domain: *KIM MARCHÉ* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Préparateur-vendeur / Préparatrice-vendeuse de sandwichs](20261012126a.md)**  
-    :material-domain: *L.T* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Pharmacien / Pharmacienne en officine](20261012d89e.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Psychomotricien (H/F) - 1494/SR du 9 octobre 2026 – DASSPS - Poum](202610122c12.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Chauffeur poids lourds polyvalent - Service AEP](20261012e894.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Technicien / Technicienne en hygiéne et environnement](20261012ece4.md)**  
-    :material-domain: *LINC* | :material-file-document-outline: ALTERNANCE | :material-map-marker-outline: NOUMEA
 
 
 
