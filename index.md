@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **893** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **890** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Responsable de magasin](202610171859.md)**  
+    :material-domain: *ALTOMARINE SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Technicien / Technicienne de biologie médicale](20261016c903.md)**  
     :material-domain: *LABORATOIRE DU CATALAN* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -89,9 +92,6 @@ Accédez aux **893** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[1 Conseiller technique -1496/SR du 9 octobre 2026](2026101368aa.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Chef de centre pneumatique Nord](20261013bebc.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
