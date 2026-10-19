@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **890** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **891** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Peintre en carrosserie automobile](202610183a68.md)**  
+    :material-domain: *PROJECT AUTO NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Responsable de magasin](202610171859.md)**  
     :material-domain: *ALTOMARINE SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -89,9 +92,6 @@ Accédez aux **890** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[2 Infirmiers en soins généraux itinérants -1495/SR du 9 octobre 2026](20261013ff7f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Conseiller technique -1496/SR du 9 octobre 2026](2026101368aa.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
