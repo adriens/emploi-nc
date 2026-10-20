@@ -1,8 +1,38 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **891** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **899** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Opérateur / Opératrice de production des métaux](202610190ec5.md)**  
+    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne QSE - Qualité Sécurité Environnement BTP](202610194de5.md)**  
+    :material-domain: *ARBE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Chef cuisinier / Cheffe cuisiniére](202610194f0d.md)**  
+    :material-domain: *SARL ART' TERRASSE* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente de sécurité vidéosurveillance](202610198218.md)**  
+    :material-domain: *ERYS SECURITE NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Hôte / Hôtesse de caisse (Emploi Vacances)](20261018f89e.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Responsable de salle](20261018a363.md)**  
+    :material-domain: *SARL ART' TERRASSE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Employé polyvalent / Employée polyvalente de restauration](20261018ba97.md)**  
+    :material-domain: *LE BISTRO DES HALLES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Gestionnaire administratif / Gestionnaire administrative immobilier](202610184837.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable d'exploitation](2026101815d6.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Ouvrier pétissier / Ouvriére pétissiére](20261018798b.md)**  
+    :material-domain: *HIVA OA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Peintre en carrosserie automobile](202610183a68.md)**  
     :material-domain: *PROJECT AUTO NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -52,9 +82,6 @@ Accédez aux **891** offres d'emploi actuellement actives sur le territoire.
 - **[Couvreur charpentier / Couvreuse charpentiére](202610155386.md)**  
     :material-domain: *SIKA CHARPENTE SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
 
-- **[1 Assistant administratif](20261015ccaa.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
 - **[Serveur / Serveuse](2026101585f8.md)**  
     :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
@@ -66,33 +93,6 @@ Accédez aux **891** offres d'emploi actuellement actives sur le territoire.
 
 - **[Responsable sécurité des systémes d'information](202610146555.md)**  
     :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Superviseur / Superviseuse de parc engins logistiques](20261014dbb5.md)**  
-    :material-domain: *MARCONNET LOCATION SERVICES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Agent de maintenance polyvalent](202610143ae7.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Assistant / Assistante gestionnaire en immobilier](20261014f5e1.md)**  
-    :material-domain: *CALEDONIENNE D'IMMOBILIER* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Coordinateur dispatch](202610145f8f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Secrétaire administratif / Secrétaire administrative](20261014f6a1.md)**  
-    :material-domain: *MAINTENANCE GENERALE POIDS LOURD* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de projet industriel](202610139179.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[1 Opérateur Engins Mobiles - Poya (Népoui)](2026101355c3.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[1 Conseiller Vente et SAV](20261013003a.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[2 Infirmiers en soins généraux itinérants -1495/SR du 9 octobre 2026](20261013ff7f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
