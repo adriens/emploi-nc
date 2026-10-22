@@ -1,8 +1,35 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **913** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **922** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Agent / Agente de cuisine](20261021d2ef.md)**  
+    :material-domain: *SOERIP RACHEL GEORGINA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Héte / Hétesse d'accueil](2026102135e3.md)**  
+    :material-domain: *OFFICE NOTARIAL ELISA MOUGEL ET STEPHANIE LAUBREAUX* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Infirmier de soins généraux 1185/SR 07/08/2026](202610210caa.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Infirmier de soins généraux 1186/SR du 7/08/2026](202610211777.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Éducateur sanitaire - 1540/SR du 16 octobre 2026 - Pouébo/Hienghène- DASSPS](202610200b1a.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Conseiller en insertion socioprofessionnelle - 1537/SR du 16 octobre 2026 - Koumac](20261020be3c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Caissier / Caissiére](20261020eac1.md)**  
+    :material-domain: *INTERCAL* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Assistant administratif / Assistante administrative d'assurances](20261020673a.md)**  
+    :material-domain: *INVESTISSEMENT FINANCE PACIFIQUE* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Expert / Experte middle-office](202610206576.md)**  
+    :material-domain: *INVESTISSEMENT FINANCE PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Vendeur / Vendeuse en prét-é-porter féminin](202610204751.md)**  
     :material-domain: *LEMMYNEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -37,10 +64,10 @@ Accédez aux **913** offres d'emploi actuellement actives sur le territoire.
 - **[Technicien / Technicienne informatique](20261020fc45.md)**  
     :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[1 Employé de rayon- Koumac](20261019ba1d.md)**  
+- **[1 Employé de rayon- Koumac -Emploi Vacances-(Être âgé de 18 ans minimum)](20261019ba1d.md)**  
     :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
 
-- **[1 Hôte de caisse-Koumac](202610191d57.md)**  
+- **[1 Hôte de caisse-Koumac -Emploi Vacances-(Être âgé de 18 ans minimum)](202610191d57.md)**  
     :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
 
 - **[Assistant administratif / Assistante administrative](202610195b7c.md)**  
@@ -66,33 +93,6 @@ Accédez aux **913** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé polyvalent / Employée polyvalente de restauration](20261018ba97.md)**  
     :material-domain: *LE BISTRO DES HALLES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Gestionnaire administratif / Gestionnaire administrative immobilier](202610184837.md)**  
-    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable d'exploitation](2026101815d6.md)**  
-    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier pétissier / Ouvriére pétissiére](20261018798b.md)**  
-    :material-domain: *HIVA OA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Peintre en carrosserie automobile](202610183a68.md)**  
-    :material-domain: *PROJECT AUTO NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de magasin](202610171859.md)**  
-    :material-domain: *ALTOMARINE SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne de biologie médicale](20261016c903.md)**  
-    :material-domain: *LABORATOIRE DU CATALAN* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Infirmier préleveur / Infirmiére préleveuse](20261016a5e3.md)**  
-    :material-domain: *LABORATOIRE DU CATALAN* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Commercial / Commerciale technique](20261016369a.md)**  
-    :material-domain: *GECOWATT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Mécanicien / Mécanicienne poids lourds](20261016f4af.md)**  
-    :material-domain: *CIPAC SERVICES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
