@@ -1,20 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **922** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **924** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Secrétaire administratif / Secrétaire administrative](20261022fc54.md)**  
+    :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne de biologie médicale](20261021f598.md)**  
+    :material-domain: *CALEDO BIO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Cadre de santé](20261021d4f2.md)**  
+    :material-domain: *NAITRE EN NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Plongeur / Plongeuse subaquatique](202610210648.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Agent / Agente de cuisine](20261021d2ef.md)**  
     :material-domain: *SOERIP RACHEL GEORGINA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Héte / Hétesse d'accueil](2026102135e3.md)**  
     :material-domain: *OFFICE NOTARIAL ELISA MOUGEL ET STEPHANIE LAUBREAUX* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Infirmier de soins généraux 1185/SR 07/08/2026](202610210caa.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Infirmier de soins généraux 1186/SR du 7/08/2026](202610211777.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[1 Éducateur sanitaire - 1540/SR du 16 octobre 2026 - Pouébo/Hienghène- DASSPS](202610200b1a.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -87,12 +93,6 @@ Accédez aux **922** offres d'emploi actuellement actives sur le territoire.
 
 - **[Hôte / Hôtesse de caisse (Emploi Vacances)](20261018f89e.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Responsable de salle](20261018a363.md)**  
-    :material-domain: *SARL ART' TERRASSE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé polyvalent / Employée polyvalente de restauration](20261018ba97.md)**  
-    :material-domain: *LE BISTRO DES HALLES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
