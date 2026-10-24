@@ -1,8 +1,17 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **924** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **927** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Technicien / Technicienne paysagiste](202610229f96.md)**  
+    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
+
+- **[Responsable des ventes](202610222a27.md)**  
+    :material-domain: *SARL REZO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Assistant technique installateur / Assistante technique installatrice de matériel médical](20261022faff.md)**  
+    :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
 - **[Secrétaire administratif / Secrétaire administrative](20261022fc54.md)**  
     :material-domain: *ASSOCIATION DE COOPERATION SOCIALE ET MEDICO-SOCIALE DU CENTRE HOSPITALIER SPECIALISE ALBERT BOUSQUET* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -84,15 +93,6 @@ Accédez aux **924** offres d'emploi actuellement actives sur le territoire.
 
 - **[Technicien / Technicienne QSE - Qualité Sécurité Environnement BTP](202610194de5.md)**  
     :material-domain: *ARBE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Chef cuisinier / Cheffe cuisiniére](202610194f0d.md)**  
-    :material-domain: *SARL ART' TERRASSE* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de sécurité vidéosurveillance](202610198218.md)**  
-    :material-domain: *ERYS SECURITE NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Hôte / Hôtesse de caisse (Emploi Vacances)](20261018f89e.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
