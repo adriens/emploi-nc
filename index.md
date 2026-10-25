@@ -1,8 +1,14 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **927** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **926** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Syndic de copropriété](202610235b6a.md)**  
+    :material-domain: *MAX IMMO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Pharmacien / Pharmacienne en officine](202610231419.md)**  
+    :material-domain: *PHARMACIE DU KADUCEE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
 
 - **[Technicien / Technicienne paysagiste](202610229f96.md)**  
     :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
@@ -87,12 +93,6 @@ Accédez aux **927** offres d'emploi actuellement actives sur le territoire.
 
 - **[Assistant administratif / Assistante administrative](202610195b7c.md)**  
     :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Opérateur / Opératrice de production des métaux](202610190ec5.md)**  
-    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne QSE - Qualité Sécurité Environnement BTP](202610194de5.md)**  
-    :material-domain: *ARBE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
 
 
