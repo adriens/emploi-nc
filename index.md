@@ -1,8 +1,50 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **926** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **940** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Professeur / Professeure d'enseignement technique et pratique](20261026d1e7.md)**  
+    :material-domain: *COMMUNAUTE DES ALLIANCES SCOLAIRES ET EDUCATIVES DE BWAKADRA* | :material-file-document-outline: CDD | :material-map-marker-outline: KAALA-GOMEN
+
+- **[Professeur / Professeure de matiéres scientifiques](202610265358.md)**  
+    :material-domain: *COMMUNAUTE DES ALLIANCES SCOLAIRES ET EDUCATIVES DE BWAKADRA* | :material-file-document-outline: CDD | :material-map-marker-outline: KAALA-GOMEN
+
+- **[Agent / Agente de sécurité](20261026d933.md)**  
+    :material-domain: *MACCAM SECURITE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Gestionnaire paie et administration du personnel](202610265a7b.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Formateur / Formatrice d'adultes](20261026c660.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Enseignant suppléant occasionnel -139-2026/DEFIJ](20261026df5c.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[2 Accompagnateurs de vie - Népoui](20261026aa09.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Administrateur / Administratrice de systéme d'information](20261025b8a8.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Maître nageur sauveteur - 1593/SR du 23 octobre 2026](20261025f3c7.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Secrétaire comptable](202610254613.md)**  
+    :material-domain: *FOUCHER Max, Aimé, Marie* | :material-file-document-outline: CDD | :material-map-marker-outline: BOULOUPARIS
+
+- **[1 Sage-femme - 1580/SR du 23 octobre 2026 - DASSPS - CME Koumac](202610252e16.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Enseignant suppléant occasionnel - n°1139 du 23 octobre 2026 (GS Les Cigales - Koné)](202610259564.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Serveur / Serveuse](2026102595fd.md)**  
+    :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: ILE DES PINS
+
+- **[Plongeur / Plongeuse en restauration](20261025d39a.md)**  
+    :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: ILE DES PINS
 
 - **[Syndic de copropriété](202610235b6a.md)**  
     :material-domain: *MAX IMMO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -32,7 +74,7 @@ Accédez aux **926** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Agent / Agente de cuisine](20261021d2ef.md)**  
-    :material-domain: *SOERIP RACHEL GEORGINA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+    :material-domain: *SOERIP Rachel Georgina* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
 
 - **[Héte / Hétesse d'accueil](2026102135e3.md)**  
     :material-domain: *OFFICE NOTARIAL ELISA MOUGEL ET STEPHANIE LAUBREAUX* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -51,48 +93,6 @@ Accédez aux **926** offres d'emploi actuellement actives sur le territoire.
 
 - **[Expert / Experte middle-office](202610206576.md)**  
     :material-domain: *INVESTISSEMENT FINANCE PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en prét-é-porter féminin](202610204751.md)**  
-    :material-domain: *LEMMYNEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Responsable du développement commercial](20261020dfa6.md)**  
-    :material-domain: *INTERMEDIAS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier / Ouvriére paysagiste](20261020111e.md)**  
-    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
-
-- **[Ouvrier / Ouvriére paysagiste](20261020c81c.md)**  
-    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
-
-- **[Infirmier(e) référent(e) en gérontologie - 3134-26-1536/SR du 16 octobre 2026 - Côte Est - Poindimié](20261020685b.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Assistant conducteur / Assistante conductrice de travaux](202610208eaf.md)**  
-    :material-domain: *EL2T* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Moniteur éducateur / Monitrice éducatrice](202610206b81.md)**  
-    :material-domain: *ASSOCIATION DES PARENTS D'ENFANTS HANDICAPES DE LA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Office manager](2026102064b1.md)**  
-    :material-domain: *AMD (ASSOCIATION MAINTENANCE DURABLE)* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Auxiliaire de soins vétérinaires](202610209513.md)**  
-    :material-domain: *CLINIQUE VETERINAIRE DES DOCTEURS VIVIER  FARGIER ET CAMPOS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Administrateur / Administratrice systémes et réseaux](20261020a918.md)**  
-    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne informatique](20261020fc45.md)**  
-    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Employé de rayon- Koumac -Emploi Vacances-(Être âgé de 18 ans minimum)](20261019ba1d.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
-
-- **[1 Hôte de caisse-Koumac -Emploi Vacances-(Être âgé de 18 ans minimum)](202610191d57.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
-
-- **[Assistant administratif / Assistante administrative](202610195b7c.md)**  
-    :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
 
 
