@@ -1,8 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **940** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **945** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Administrateur / Administratrice systémes et réseaux](202610274fa4.md)**  
+    :material-domain: *EXODATA NCP* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Administrateur / Administratrice systémes et réseaux](20261027c41a.md)**  
+    :material-domain: *EXODATA NCP* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne de maintenance d'équipements de production](20261027c470.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Auxiliaire de vie sociale (Gohapin)](202610279547.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Employé / Employée de maison](202610272b0d.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Employé / Employée de libre-service](202610268216.md)**  
+    :material-domain: *LIBRE-SERVICE LE COLIBRI* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
 - **[Professeur / Professeure d'enseignement technique et pratique](20261026d1e7.md)**  
     :material-domain: *COMMUNAUTE DES ALLIANCES SCOLAIRES ET EDUCATIVES DE BWAKADRA* | :material-file-document-outline: CDD | :material-map-marker-outline: KAALA-GOMEN
@@ -75,24 +93,6 @@ Accédez aux **940** offres d'emploi actuellement actives sur le territoire.
 
 - **[Agent / Agente de cuisine](20261021d2ef.md)**  
     :material-domain: *SOERIP Rachel Georgina* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Héte / Hétesse d'accueil](2026102135e3.md)**  
-    :material-domain: *OFFICE NOTARIAL ELISA MOUGEL ET STEPHANIE LAUBREAUX* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Éducateur sanitaire - 1540/SR du 16 octobre 2026 - Pouébo/Hienghène- DASSPS](202610200b1a.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Conseiller en insertion socioprofessionnelle - 1537/SR du 16 octobre 2026 - Koumac](20261020be3c.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Caissier / Caissiére](20261020eac1.md)**  
-    :material-domain: *INTERCAL* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Assistant administratif / Assistante administrative d'assurances](20261020673a.md)**  
-    :material-domain: *INVESTISSEMENT FINANCE PACIFIQUE* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Expert / Experte middle-office](202610206576.md)**  
-    :material-domain: *INVESTISSEMENT FINANCE PACIFIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
