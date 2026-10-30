@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **953** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **955** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé / Employée de snack-bar](202610292d3a.md)**  
+    :material-domain: *KIMMY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Agent / Agente d'accueil](20261028a05e.md)**  
     :material-domain: *PROMOBAT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -62,9 +65,6 @@ Accédez aux **953** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Enseignant suppléant occasionnel -139-2026/DEFIJ](20261026df5c.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[2 Accompagnateurs de vie - Népoui](20261026aa09.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Administrateur / Administratrice de systéme d'information](20261025b8a8.md)**  
