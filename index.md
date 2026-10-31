@@ -1,14 +1,23 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **955** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **957** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
+- **[Mécanicien / Mécanicienne de garage automobile](2026103006ba.md)**  
+    :material-domain: *DRNC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chimiste en laboratoire d'analyse industrielle](20261030f11e.md)**  
+    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Cuisiniste](202610302c92.md)**  
+    :material-domain: *L.M.D.* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé polyvalent / Employée polyvalente de libre-service](202610302ea0.md)**  
+    :material-domain: *KIM MARCHÉ* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
 - **[Employé / Employée de snack-bar](202610292d3a.md)**  
     :material-domain: *KIMMY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente d'accueil](20261028a05e.md)**  
-    :material-domain: *PROMOBAT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Aide de cuisine](20261028b5a6.md)**  
     :material-domain: *DELTA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -84,15 +93,6 @@ Accédez aux **955** offres d'emploi actuellement actives sur le territoire.
 
 - **[Serveur / Serveuse](2026102595fd.md)**  
     :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: ILE DES PINS
-
-- **[Plongeur / Plongeuse en restauration](20261025d39a.md)**  
-    :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: ILE DES PINS
-
-- **[Syndic de copropriété](202610235b6a.md)**  
-    :material-domain: *MAX IMMO* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Pharmacien / Pharmacienne en officine](202610231419.md)**  
-    :material-domain: *PHARMACIE DU KADUCEE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
 
 
 
