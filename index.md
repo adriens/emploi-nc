@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **957** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **950** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Assistant administratif / Assistante administrative et comptable](202610309741.md)**  
+    :material-domain: *MEUBLES DU PACIFIQUE LTD* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
 
 - **[Mécanicien / Mécanicienne de garage automobile](2026103006ba.md)**  
     :material-domain: *DRNC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -73,9 +76,6 @@ Accédez aux **957** offres d'emploi actuellement actives sur le territoire.
 - **[Formateur / Formatrice d'adultes](20261026c660.md)**  
     :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
-- **[Enseignant suppléant occasionnel -139-2026/DEFIJ](20261026df5c.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
 - **[Administrateur / Administratrice de systéme d'information](20261025b8a8.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
@@ -88,10 +88,10 @@ Accédez aux **957** offres d'emploi actuellement actives sur le territoire.
 - **[1 Sage-femme - 1580/SR du 23 octobre 2026 - DASSPS - CME Koumac](202610252e16.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[1 Enseignant suppléant occasionnel - n°1139 du 23 octobre 2026 (GS Les Cigales - Koné)](202610259564.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
 - **[Serveur / Serveuse](2026102595fd.md)**  
+    :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: ILE DES PINS
+
+- **[Plongeur / Plongeuse en restauration](20261025d39a.md)**  
     :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: ILE DES PINS
 
 
