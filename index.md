@@ -4,6 +4,9 @@ Accédez aux **950** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
+- **[Agent / Agente d'accueil](2026110111a9.md)**  
+    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
 - **[Assistant administratif / Assistante administrative et comptable](202610309741.md)**  
     :material-domain: *MEUBLES DU PACIFIQUE LTD* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
 
@@ -89,9 +92,6 @@ Accédez aux **950** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Serveur / Serveuse](2026102595fd.md)**  
-    :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: ILE DES PINS
-
-- **[Plongeur / Plongeuse en restauration](20261025d39a.md)**  
     :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: ILE DES PINS
 
 
