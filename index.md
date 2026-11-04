@@ -1,8 +1,29 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **965** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **969** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[2 Assistants administratifs polyvalents- (Emploi vacances)](2026110376a2.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
+
+- **[1 Chef de chantier en terrassement et VRD (H/F)](2026110319b5.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Technico-commercial itinérant / Technico-commerciale itinérante](202611034b21.md)**  
+    :material-domain: *SAHMARA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Contréleur / Contréleuse de gestion commerciale](202611036885.md)**  
+    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Accompagnateurs de vie-Koumac](2026110351d0.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Laborantin / Laborantine de l'industrie](202611033254.md)**  
+    :material-domain: *PARTNERS INTERIM* | :material-file-document-outline: INTERIM | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne sécurité-alarme](20261102ef1d.md)**  
+    :material-domain: *SECU SYSTEM'S* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Réceptionniste en hétellerie](2026110287f0.md)**  
     :material-domain: *SURF HOTEL SA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -11,7 +32,7 @@ Accédez aux **965** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *SEM SUD HABITAT* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
 
 - **[1 Chargé de clientèle en assurances](20261102ed16.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 - **[Agent / Agente de sécurité](20261102db37.md)**  
     :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -72,27 +93,6 @@ Accédez aux **965** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé / Employée de snack-bar](202610292d3a.md)**  
     :material-domain: *KIMMY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant médico-administratif / Assistante médico-administrative](20261028f1d9.md)**  
-    :material-domain: *ESPACE KINE PAITA* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Aide de cuisine](20261028b5a6.md)**  
-    :material-domain: *DELTA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en meubles](20261027fe22.md)**  
-    :material-domain: *TEC HIFI MEUBLE LA FOA* | :material-file-document-outline: CDD | :material-map-marker-outline: LA FOA
-
-- **[Aide dentaire](202610273129.md)**  
-    :material-domain: *SELARL DE CHIRURGIEN-DENTISTE MICHEL OBERTI* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Syndic de copropriété](20261027c187.md)**  
-    :material-domain: *ISIS GESTION* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Aide dentaire](2026102798c8.md)**  
-    :material-domain: *CABINET DENTAIRE DELAGNEAU* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Comptable-gestionnaire de stock](202610270e13.md)**  
-    :material-domain: *INSTITUTION DE GESTION SOCIALE DES ARMEES* | :material-file-document-outline: INTERMITTENT/SAISONNIER | :material-map-marker-outline: ILE DES PINS
 
 
 
