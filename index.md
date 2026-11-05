@@ -1,6 +1,6 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **969** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **967** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
@@ -15,9 +15,6 @@ Accédez aux **969** offres d'emploi actuellement actives sur le territoire.
 
 - **[Contréleur / Contréleuse de gestion commerciale](202611036885.md)**  
     :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Accompagnateurs de vie-Koumac](2026110351d0.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Laborantin / Laborantine de l'industrie](202611033254.md)**  
     :material-domain: *PARTNERS INTERIM* | :material-file-document-outline: INTERIM | :material-map-marker-outline: NOUMEA
@@ -85,14 +82,17 @@ Accédez aux **969** offres d'emploi actuellement actives sur le territoire.
 - **[Chimiste en laboratoire d'analyse industrielle](20261030f11e.md)**  
     :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
-- **[Cuisiniste](202610302c92.md)**  
-    :material-domain: *L.M.D.* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
 - **[Employé polyvalent / Employée polyvalente de libre-service](202610302ea0.md)**  
     :material-domain: *KIM MARCHÉ* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Employé / Employée de snack-bar](202610292d3a.md)**  
     :material-domain: *KIMMY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant médico-administratif / Assistante médico-administrative](20261028f1d9.md)**  
+    :material-domain: *ESPACE KINE PAITA* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
+
+- **[Aide de cuisine](20261028b5a6.md)**  
+    :material-domain: *DELTA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
