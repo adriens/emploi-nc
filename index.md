@@ -4,6 +4,9 @@ Accédez aux **967** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
+- **[Vendeur / Vendeuse en bureau de tabac](20261105d97c.md)**  
+    :material-domain: *SARL LIB* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
 - **[2 Assistants administratifs polyvalents- (Emploi vacances)](2026110376a2.md)**  
     :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
 
@@ -63,9 +66,6 @@ Accédez aux **967** offres d'emploi actuellement actives sur le territoire.
 
 - **[Technicien / Technicienne en maintenance automobile](2026110116bb.md)**  
     :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Agent / Agente de passage escale aéroportuaire](202611011f5c.md)**  
-    :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: INTERIM | :material-map-marker-outline: PAITA
 
 - **[Agent / Agente de sécurité vidéosurveillance](20261101d15e.md)**  
     :material-domain: *ERYS SECURITE NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
