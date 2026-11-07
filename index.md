@@ -1,8 +1,35 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **967** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **976** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Electrotechnicien](20261106c2d6.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Directeur adjoint / Directrice adjointe des jeux](20261106cda1.md)**  
+    :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Membre du comité de direction des jeux](202611065644.md)**  
+    :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Electrotechnicien / Electrotechnicienne de maintenance](202611067afd.md)**  
+    :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chargé d'affaires technico-commercial / Chargée d'affaires technico-commerciale](202611063844.md)**  
+    :material-domain: *MESACHIMIE SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Commercial / Commerciale](20261106da2a.md)**  
+    :material-domain: *SARL COSMETIQUES DE FRANCE (N.C.)* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Employé de bureau en assurance](202611064c3f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Chargé / Chargée du contréle de gestion](20261106a772.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse en articles érotiques](20261105b129.md)**  
+    :material-domain: *N'JOY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Vendeur / Vendeuse en bureau de tabac](20261105d97c.md)**  
     :material-domain: *SARL LIB* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -66,33 +93,6 @@ Accédez aux **967** offres d'emploi actuellement actives sur le territoire.
 
 - **[Technicien / Technicienne en maintenance automobile](2026110116bb.md)**  
     :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Agent / Agente de sécurité vidéosurveillance](20261101d15e.md)**  
-    :material-domain: *ERYS SECURITE NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente d'accueil](2026110111a9.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Assistant administratif / Assistante administrative et comptable](202610309741.md)**  
-    :material-domain: *MEUBLES DU PACIFIQUE LTD* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
-
-- **[Mécanicien / Mécanicienne de garage automobile](2026103006ba.md)**  
-    :material-domain: *DRNC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chimiste en laboratoire d'analyse industrielle](20261030f11e.md)**  
-    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé polyvalent / Employée polyvalente de libre-service](202610302ea0.md)**  
-    :material-domain: *KIM MARCHÉ* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de snack-bar](202610292d3a.md)**  
-    :material-domain: *KIMMY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant médico-administratif / Assistante médico-administrative](20261028f1d9.md)**  
-    :material-domain: *ESPACE KINE PAITA* | :material-file-document-outline: CDD | :material-map-marker-outline: PAITA
-
-- **[Aide de cuisine](20261028b5a6.md)**  
-    :material-domain: *DELTA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
