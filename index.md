@@ -1,8 +1,14 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **973** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **976** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Caissier / Caissiére](202611088c98.md)**  
+    :material-domain: *TLQS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Aide dentaire](20261108c354.md)**  
+    :material-domain: *DR RUSSE RAPHAELLE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[1 Electrotechnicien](20261106c2d6.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -27,6 +33,9 @@ Accédez aux **973** offres d'emploi actuellement actives sur le territoire.
 
 - **[Chargé / Chargée du contréle de gestion](20261106a772.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Menuisier / Menuisiére atelier et pose](20261105f4ef.md)**  
+    :material-domain: *REDWOOD* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Vendeur / Vendeuse en articles érotiques](20261105b129.md)**  
     :material-domain: *N'JOY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -84,15 +93,6 @@ Accédez aux **973** offres d'emploi actuellement actives sur le territoire.
 
 - **[Chef / Cheffe des cuisines](20261101bbb4.md)**  
     :material-domain: *LE CHILL OUT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée de clientéle particuliers de banque](2026110161cc.md)**  
-    :material-domain: *SOCIETE GENERALE CALEDONIENNE  DE BANQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chef d'équipe distributeur / Cheffe d'équipe distributrice d'imprimés](20261101729b.md)**  
-    :material-domain: *SARL REZO* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne en maintenance automobile](2026110116bb.md)**  
-    :material-domain: *PACIFIC AIRPORT* | :material-file-document-outline: CDI | :material-map-marker-outline: PAITA
 
 
 
