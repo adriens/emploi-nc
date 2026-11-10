@@ -1,17 +1,35 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **976** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **982** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Comptable d'Organisme de Placement Collectif en Valeurs Mobiliéres - OPCVM](2026110931e8.md)**  
+    :material-domain: *CPN* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Technicien / Technicienne en hygiéne et environnement](202611098e02.md)**  
+    :material-domain: *ARBE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Responsable du développement commercial](202611093eb4.md)**  
+    :material-domain: *CIPAC MEDICAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Web vendeur / Web vendeuse](20261109a0cc.md)**  
+    :material-domain: *MATERIAUX CENTER* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Distributeur / Distributrice de journaux](20261109336e.md)**  
+    :material-domain: *SARL REZO* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Gestionnaire paie et administration du personnel](202611092112.md)**  
+    :material-domain: *ALTHEO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée d'études financiéres](20261108a24b.md)**  
+    :material-domain: *INGENIERIE FINANCIERE ET FISCALE NOUVELLE CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Caissier / Caissiére](202611088c98.md)**  
     :material-domain: *TLQS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Aide dentaire](20261108c354.md)**  
     :material-domain: *DR RUSSE RAPHAELLE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Electrotechnicien](20261106c2d6.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Directeur adjoint / Directrice adjointe des jeux](20261106cda1.md)**  
     :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -32,7 +50,7 @@ Accédez aux **976** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 - **[Chargé / Chargée du contréle de gestion](20261106a772.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: NOUMEA
 
 - **[Menuisier / Menuisiére atelier et pose](20261105f4ef.md)**  
     :material-domain: *REDWOOD* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -75,24 +93,6 @@ Accédez aux **976** offres d'emploi actuellement actives sur le territoire.
 
 - **[Ingénieur / Ingénieure en prévention des risques industriels](20261102c72a.md)**  
     :material-domain: *CAPITAL SECURITE ENVIRONNEMENT NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne environnement (industrie)](202611020f70.md)**  
-    :material-domain: *CAPITAL SECURITE ENVIRONNEMENT NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier / Ouvriére paysagiste](202611025cd1.md)**  
-    :material-domain: *LES JARDINS DU SUD* | :material-file-document-outline: nan | :material-map-marker-outline: DUMBEA
-
-- **[Chargé / Chargée de mission développement durable](202611017fea.md)**  
-    :material-domain: *CHAMBRE DE COMMERCE ET D'INDUSTRIE DE NOUVELLE-CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de cuisine](20261101f9f1.md)**  
-    :material-domain: *LE CHILL OUT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Commis / Commise de salle](2026110112a3.md)**  
-    :material-domain: *LE CHILL OUT* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe des cuisines](20261101bbb4.md)**  
-    :material-domain: *LE CHILL OUT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
