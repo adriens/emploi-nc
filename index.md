@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **982** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **989** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Serveur / Serveuse](202611107cb8.md)**  
+    :material-domain: *SPORT PASSION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Infirmier / Infirmiére en gériatrie](20261110352f.md)**  
+    :material-domain: *LES BARBADINES* | :material-file-document-outline: CDI | :material-map-marker-outline: LA FOA
+
+- **[Zingueur / Zingueuse](202611100daa.md)**  
+    :material-domain: *ACROBATKEVIN* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Chauffeur polyvalent (H/F)](20261110a3cf.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Agent administratif polyvalent (H/F)](20261110eb95.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Agent d'entretien du bâtiment (H/F)](20261110d834.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Assistant administratif / Assistante administrative](202611104601.md)**  
+    :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[1 Technicien de maintenance Mécanique](202611099ade.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 - **[Comptable d'Organisme de Placement Collectif en Valeurs Mobiliéres - OPCVM](2026110931e8.md)**  
     :material-domain: *CPN* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -69,30 +93,6 @@ Accédez aux **982** offres d'emploi actuellement actives sur le territoire.
 
 - **[Technico-commercial itinérant / Technico-commerciale itinérante](202611034b21.md)**  
     :material-domain: *SAHMARA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Contréleur / Contréleuse de gestion commerciale](202611036885.md)**  
-    :material-domain: *SIAGE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Laborantin / Laborantine de l'industrie](202611033254.md)**  
-    :material-domain: *PARTNERS INTERIM* | :material-file-document-outline: INTERIM | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne sécurité-alarme](20261102ef1d.md)**  
-    :material-domain: *SECU SYSTEM'S* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Réceptionniste en hétellerie](2026110287f0.md)**  
-    :material-domain: *SURF HOTEL SA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Conducteur / Conductrice de travaux du BTP](20261102aece.md)**  
-    :material-domain: *SEM SUD HABITAT* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[1 Chargé de clientèle en assurances](20261102ed16.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Agent / Agente de sécurité](20261102db37.md)**  
-    :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Ingénieur / Ingénieure en prévention des risques industriels](20261102c72a.md)**  
-    :material-domain: *CAPITAL SECURITE ENVIRONNEMENT NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
