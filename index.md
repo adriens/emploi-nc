@@ -1,8 +1,20 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **989** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **994** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Assistant / Assistante paie](2026111101b9.md)**  
+    :material-domain: *EGN NETTOYAGE SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de la stratégie commerciale](20261111c3cd.md)**  
+    :material-domain: *OBLED Sophie (usage HAUTBOIS)* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Commercial / Commerciale en biens d'équipement auprés des entreprises](202611100932.md)**  
+    :material-domain: *AGENCE DE BUREAUTIQUE  ET D'INFORMATIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chargé / Chargée de communication externe](20261110f632.md)**  
+    :material-domain: *SPL AGENCE D'ATTRACTIVITE SUD TOURISME* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Serveur / Serveuse](202611107cb8.md)**  
     :material-domain: *SPORT PASSION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -81,18 +93,6 @@ Accédez aux **989** offres d'emploi actuellement actives sur le territoire.
 
 - **[Vendeur / Vendeuse en articles érotiques](20261105b129.md)**  
     :material-domain: *N'JOY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en bureau de tabac](20261105d97c.md)**  
-    :material-domain: *SARL LIB* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[2 Assistants administratifs polyvalents- (Emploi vacances)](2026110376a2.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
-
-- **[1 Chef de chantier en terrassement et VRD (H/F)](2026110319b5.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Technico-commercial itinérant / Technico-commerciale itinérante](202611034b21.md)**  
-    :material-domain: *SAHMARA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
