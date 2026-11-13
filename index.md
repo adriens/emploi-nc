@@ -1,8 +1,14 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **994** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **996** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Employé / Employée de maison](202611129b95.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Technicien / Technicienne de bureau d'études de l'industrie](20261112522e.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
 
 - **[Assistant / Assistante paie](2026111101b9.md)**  
     :material-domain: *EGN NETTOYAGE SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -87,12 +93,6 @@ Accédez aux **994** offres d'emploi actuellement actives sur le territoire.
 
 - **[Chargé / Chargée du contréle de gestion](20261106a772.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: NOUMEA
-
-- **[Menuisier / Menuisiére atelier et pose](20261105f4ef.md)**  
-    :material-domain: *REDWOOD* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en articles érotiques](20261105b129.md)**  
-    :material-domain: *N'JOY* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
