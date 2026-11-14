@@ -1,8 +1,38 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **996** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1006** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Auditeur / Auditrice en organisation](20261113b0fe.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Mécanicien / Mécanicienne diéséliste marine](202611131d1d.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Conducteur / Conductrice de travaux tous corps d'état](20261113868e.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Chef / Cheffe de service maintenance industrielle](20261113b2e5.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Comptable général / Comptable générale](202611136528.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Administrateur / Administratrice systémes et réseaux](20261113de7d.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Agent / Agente de diagnostic et d'intervention en machinisme agricole](2026111351af.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Ingénieur / Ingénieure travaux](2026111357cd.md)**  
+    :material-domain: *SOCIETE D'EQUIPEMENT DE LA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[Chargé d'affaires technico-commercial / Chargée d'affaires technico-commerciale](20261113efb6.md)**  
+    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Responsable de magasin cycles](20261112c760.md)**  
+    :material-domain: *DIANE IMPORT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Employé / Employée de maison](202611129b95.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
@@ -63,36 +93,6 @@ Accédez aux **996** offres d'emploi actuellement actives sur le territoire.
 
 - **[Gestionnaire paie et administration du personnel](202611092112.md)**  
     :material-domain: *ALTHEO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée d'études financiéres](20261108a24b.md)**  
-    :material-domain: *INGENIERIE FINANCIERE ET FISCALE NOUVELLE CALEDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Caissier / Caissiére](202611088c98.md)**  
-    :material-domain: *TLQS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Aide dentaire](20261108c354.md)**  
-    :material-domain: *DR RUSSE RAPHAELLE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Directeur adjoint / Directrice adjointe des jeux](20261106cda1.md)**  
-    :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Membre du comité de direction des jeux](202611065644.md)**  
-    :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Electrotechnicien / Electrotechnicienne de maintenance](202611067afd.md)**  
-    :material-domain: *SOCIETE AUSTRALE D'ANIMATION TOURISTIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chargé d'affaires technico-commercial / Chargée d'affaires technico-commerciale](202611063844.md)**  
-    :material-domain: *MESACHIMIE SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Commercial / Commerciale](20261106da2a.md)**  
-    :material-domain: *SARL COSMETIQUES DE FRANCE (N.C.)* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Employé de bureau en assurance](202611064c3f.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Chargé / Chargée du contréle de gestion](20261106a772.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: NOUMEA
 
 
 
