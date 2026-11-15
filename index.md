@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1006** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1005** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Ouvrier boulanger / Ouvriére boulangére](202611145668.md)**  
+    :material-domain: *LES FRI FRIS* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
 
 - **[Auditeur / Auditrice en organisation](20261113b0fe.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -90,9 +93,6 @@ Accédez aux **1006** offres d'emploi actuellement actives sur le territoire.
 
 - **[Distributeur / Distributrice de journaux](20261109336e.md)**  
     :material-domain: *SARL REZO* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Gestionnaire paie et administration du personnel](202611092112.md)**  
-    :material-domain: *ALTHEO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
