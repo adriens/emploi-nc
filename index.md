@@ -4,6 +4,9 @@ Accédez aux **1005** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
+- **[Peintre décorateur / Peintre décoratrice](20261115ab79.md)**  
+    :material-domain: *BULOT DECO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
 - **[Ouvrier boulanger / Ouvriére boulangére](202611145668.md)**  
     :material-domain: *LES FRI FRIS* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
 
@@ -90,9 +93,6 @@ Accédez aux **1005** offres d'emploi actuellement actives sur le territoire.
 
 - **[Web vendeur / Web vendeuse](20261109a0cc.md)**  
     :material-domain: *MATERIAUX CENTER* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Distributeur / Distributrice de journaux](20261109336e.md)**  
-    :material-domain: *SARL REZO* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
 
 
 
