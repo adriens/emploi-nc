@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1005** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1010** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Manoeuvre](2026111656b1.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chef barman / Cheffe barmaid](20261116de8e.md)**  
+    :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Serveur / Serveuse](202611167648.md)**  
+    :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Aide-comptable](202611161347.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Contréleur / Contréleuse de gestion financiére](202611165d25.md)**  
+    :material-domain: *CIPAC MEDICAL* | :material-file-document-outline: ALTERNANCE | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse en fournitures artistiques](20261116b2b4.md)**  
+    :material-domain: *NOUVELLE SOCIETE IDEFIX* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Mécanicien / Mécanicienne de marine](2026111545eb.md)**  
+    :material-domain: *COMPAGNIE DE TRANSPORT MINIERE DU NORD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Pharmacien / Pharmacienne biologiste](202611151dea.md)**  
+    :material-domain: *LABORATOIRE DU CATALAN* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Peintre décorateur / Peintre décoratrice](20261115ab79.md)**  
     :material-domain: *BULOT DECO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -69,30 +93,6 @@ Accédez aux **1005** offres d'emploi actuellement actives sur le territoire.
 
 - **[1 Chauffeur polyvalent (H/F)](20261110a3cf.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Agent administratif polyvalent (H/F)](20261110eb95.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Agent d'entretien du bâtiment (H/F)](20261110d834.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Assistant administratif / Assistante administrative](202611104601.md)**  
-    :material-domain: *PACIFIC CARE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[1 Technicien de maintenance Mécanique](202611099ade.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Comptable d'Organisme de Placement Collectif en Valeurs Mobiliéres - OPCVM](2026110931e8.md)**  
-    :material-domain: *CPN* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne en hygiéne et environnement](202611098e02.md)**  
-    :material-domain: *ARBE* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
-
-- **[Responsable du développement commercial](202611093eb4.md)**  
-    :material-domain: *CIPAC MEDICAL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Web vendeur / Web vendeuse](20261109a0cc.md)**  
-    :material-domain: *MATERIAUX CENTER* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
