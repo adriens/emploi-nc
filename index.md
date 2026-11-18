@@ -1,11 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1010** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1015** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
-- **[Manoeuvre](2026111656b1.md)**  
+- **[Agent / Agente de cuisine](202611177632.md)**  
+    :material-domain: *LE SESAME NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Chef de chantier en terrassement et VRD (H/F) Zone Côte Ouest](202611179ec3.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Technicien / Technicienne géologue en laboratoire](20261117ee0f.md)**  
+    :material-domain: *A2EP GEOTEC* | :material-file-document-outline: CDI | :material-map-marker-outline: KONE
+
+- **[Chef / Cheffe d'équipe d'électriciens de maintenance](20261117f652.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
+
+- **[Réceptionniste en établissement touristique](20261116b2e5.md)**  
+    :material-domain: *SOCIETE MUTUALISTE DES FONCTIONNAIRES ET AGENTS DES SERVICES PUBLICS* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Employé / Employée de maison](202611167209.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 - **[Chef barman / Cheffe barmaid](20261116de8e.md)**  
     :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -78,21 +93,6 @@ Accédez aux **1010** offres d'emploi actuellement actives sur le territoire.
 
 - **[Commercial / Commerciale en biens d'équipement auprés des entreprises](202611100932.md)**  
     :material-domain: *AGENCE DE BUREAUTIQUE  ET D'INFORMATIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chargé / Chargée de communication externe](20261110f632.md)**  
-    :material-domain: *SPL AGENCE D'ATTRACTIVITE SUD TOURISME* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Serveur / Serveuse](202611107cb8.md)**  
-    :material-domain: *SPORT PASSION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Infirmier / Infirmiére en gériatrie](20261110352f.md)**  
-    :material-domain: *LES BARBADINES* | :material-file-document-outline: CDI | :material-map-marker-outline: LA FOA
-
-- **[Zingueur / Zingueuse](202611100daa.md)**  
-    :material-domain: *ACROBATKEVIN* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Chauffeur polyvalent (H/F)](20261110a3cf.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 
 
