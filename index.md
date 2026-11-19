@@ -1,8 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1015** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1020** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Chef cuisinier / cuisinière](2026111895cc.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Gestionnaire sinistre Incendie, Accidents, Risques Divers -IARD-](20261118a913.md)**  
+    :material-domain: *CAP ASSURANCES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant administratif / Assistante administrative](2026111896ae.md)**  
+    :material-domain: *CAP ASSURANCES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Assistant / Assistante de conservation de bibliothéque](2026111856d3.md)**  
+    :material-domain: *INSTITUT D'ARCHEOLOGIE DE LA NOUVELLE-CALEDONIE ET DU PACIFIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chef cuisinier-traiteur / Cheffe cuisiniére-traiteuse](2026111864a7.md)**  
+    :material-domain: *SUY HUA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chirurgien-dentiste / Chirurgienne-dentiste](202611179c52.md)**  
+    :material-domain: *MUTUELLE DU NICKEL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Agent / Agente de cuisine](202611177632.md)**  
     :material-domain: *LE SESAME NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -75,24 +93,6 @@ Accédez aux **1015** offres d'emploi actuellement actives sur le territoire.
 
 - **[Chargé d'affaires technico-commercial / Chargée d'affaires technico-commerciale](20261113efb6.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de magasin cycles](20261112c760.md)**  
-    :material-domain: *DIANE IMPORT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de maison](202611129b95.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Technicien / Technicienne de bureau d'études de l'industrie](20261112522e.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante paie](2026111101b9.md)**  
-    :material-domain: *EGN NETTOYAGE SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Responsable de la stratégie commerciale](20261111c3cd.md)**  
-    :material-domain: *OBLED Sophie (usage HAUTBOIS)* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Commercial / Commerciale en biens d'équipement auprés des entreprises](202611100932.md)**  
-    :material-domain: *AGENCE DE BUREAUTIQUE  ET D'INFORMATIQUE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
