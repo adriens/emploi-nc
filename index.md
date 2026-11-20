@@ -1,11 +1,23 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1020** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1024** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
+- **[1 Employé polyvalent - Emploi Vacances (H/F)](20261119e5b2.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Employé polyvalent - Emploi vacances  (H/F)](20261119bbce.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Gestionnaire paie et administration du personnel](20261118555f.md)**  
+    :material-domain: *EGN NETTOYAGE SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
 - **[Chef cuisinier / cuisinière](2026111895cc.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Agent / Agente d'entretien de nettoyage industriel](202611181a05.md)**  
+    :material-domain: *CPN* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Gestionnaire sinistre Incendie, Accidents, Risques Divers -IARD-](20261118a913.md)**  
     :material-domain: *CAP ASSURANCES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
@@ -80,18 +92,6 @@ Accédez aux **1020** offres d'emploi actuellement actives sur le territoire.
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Comptable général / Comptable générale](202611136528.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Administrateur / Administratrice systémes et réseaux](20261113de7d.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de diagnostic et d'intervention en machinisme agricole](2026111351af.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ingénieur / Ingénieure travaux](2026111357cd.md)**  
-    :material-domain: *SOCIETE D'EQUIPEMENT DE LA NOUVELLE-CALEDONIE* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
-
-- **[Chargé d'affaires technico-commercial / Chargée d'affaires technico-commerciale](20261113efb6.md)**  
     :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
