@@ -1,13 +1,28 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1024** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1030** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
-- **[1 Employé polyvalent - Emploi Vacances (H/F)](20261119e5b2.md)**  
+- **[Enseignant suppléant occasionnel - 152/2026 du 20/11/2026](202611203a12.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[1 Employé polyvalent - Emploi vacances  (H/F)](20261119bbce.md)**  
+- **[Technicien / Technicienne de maintenance en équipements industriels](202611196620.md)**  
+    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Ingénieur / Ingénieure VRD](202611199570.md)**  
+    :material-domain: *THESEE INGENIERIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Vendeur / Vendeuse en optique lunetterie](202611196d56.md)**  
+    :material-domain: *PACIFIQUE VISION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Animateur / Animatrice d'activités sociales et de vie locale](20261119bce6.md)**  
+    :material-domain: *GROUPEMENT POUR L'INSERTION ET L'ÉVOLUTION PROFESSIONNELLES - NOUVELLE-CALÉDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[1 Assistant administratif (H/F)](20261119b1c7.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Employé polyvalent - Emploi Vacances (H/F)](20261119e5b2.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
 - **[Gestionnaire paie et administration du personnel](20261118555f.md)**  
@@ -78,21 +93,6 @@ Accédez aux **1024** offres d'emploi actuellement actives sur le territoire.
 
 - **[Ouvrier boulanger / Ouvriére boulangére](202611145668.md)**  
     :material-domain: *LES FRI FRIS* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
-
-- **[Auditeur / Auditrice en organisation](20261113b0fe.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Mécanicien / Mécanicienne diéséliste marine](202611131d1d.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Conducteur / Conductrice de travaux tous corps d'état](20261113868e.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chef / Cheffe de service maintenance industrielle](20261113b2e5.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Comptable général / Comptable générale](202611136528.md)**  
-    :material-domain: *ÂBORO CONSULTING* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
