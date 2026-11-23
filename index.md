@@ -1,8 +1,11 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1030** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1031** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Cuisinier traiteur / Cuisiniére traiteuse](202611227d7c.md)**  
+    :material-domain: *TLQS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 - **[Enseignant suppléant occasionnel - 152/2026 du 20/11/2026](202611203a12.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -90,9 +93,6 @@ Accédez aux **1030** offres d'emploi actuellement actives sur le territoire.
 
 - **[Peintre décorateur / Peintre décoratrice](20261115ab79.md)**  
     :material-domain: *BULOT DECO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Ouvrier boulanger / Ouvriére boulangére](202611145668.md)**  
-    :material-domain: *LES FRI FRIS* | :material-file-document-outline: CDD | :material-map-marker-outline: MONT-DORE
 
 
 
