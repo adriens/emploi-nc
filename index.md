@@ -1,8 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1031** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1039** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Agent administratif / Agente administrative back-office marché](202611236289.md)**  
+    :material-domain: *SOCIETE MUTUALISTE DES FONCTIONNAIRES ET AGENTS DES SERVICES PUBLICS* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
+
+- **[Manoeuvre travaux publics (Emploi-vacances)](202611234781.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[2 Assistants bibliothécaires  (Emploi Vacances)](20261123c9ef.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Assistant administratif (Emploi Vacances)](202611225428.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
+
+- **[1 Secrétaire administratif (Emploi Vacances)](2026112271a3.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
+
+- **[1 Agent polyvalent (Emploi vacances)](2026112252e8.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
+
+- **[Projeteur Minier](202611223c02.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[1 Agent polyvalent (Emploi Vacances)](2026112213ac.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
 
 - **[Cuisinier traiteur / Cuisiniére traiteuse](202611227d7c.md)**  
     :material-domain: *TLQS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -69,30 +93,6 @@ Accédez aux **1031** offres d'emploi actuellement actives sur le territoire.
 
 - **[Employé / Employée de maison](202611167209.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[Chef barman / Cheffe barmaid](20261116de8e.md)**  
-    :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Serveur / Serveuse](202611167648.md)**  
-    :material-domain: *MERSEA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Aide-comptable](202611161347.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Contréleur / Contréleuse de gestion financiére](202611165d25.md)**  
-    :material-domain: *CIPAC MEDICAL* | :material-file-document-outline: ALTERNANCE | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en fournitures artistiques](20261116b2b4.md)**  
-    :material-domain: *NOUVELLE SOCIETE IDEFIX* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Mécanicien / Mécanicienne de marine](2026111545eb.md)**  
-    :material-domain: *COMPAGNIE DE TRANSPORT MINIERE DU NORD* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Pharmacien / Pharmacienne biologiste](202611151dea.md)**  
-    :material-domain: *LABORATOIRE DU CATALAN* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Peintre décorateur / Peintre décoratrice](20261115ab79.md)**  
-    :material-domain: *BULOT DECO* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
