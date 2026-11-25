@@ -1,8 +1,29 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1039** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1044** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Enseignant suppléant annualisé LCK 2027 (Ajié) - 153/2026 du 24/11/2026](202611247222.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Professeur d'arts plastiques (H/F)](202611244e0f.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Enseignant suppléant annualisé LCK Nêlêmwa - POUM](202611245965.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Ambulancier (H/F)](20261124b3ee.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chargé / Chargée d'affaires en industrie](202611239098.md)**  
+    :material-domain: *PROSELECT* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Héte / Hétesse d'accueil standardiste](20261123d9d6.md)**  
+    :material-domain: *LA MAISON DE L'ASSURANCE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Employé polyvalent (Emploi Vacances)](2026112354bb.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
 
 - **[Agent administratif / Agente administrative back-office marché](202611236289.md)**  
     :material-domain: *SOCIETE MUTUALISTE DES FONCTIONNAIRES ET AGENTS DES SERVICES PUBLICS* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
@@ -58,9 +79,6 @@ Accédez aux **1039** offres d'emploi actuellement actives sur le territoire.
 - **[Chef cuisinier / cuisinière](2026111895cc.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[Agent / Agente d'entretien de nettoyage industriel](202611181a05.md)**  
-    :material-domain: *CPN* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
 - **[Gestionnaire sinistre Incendie, Accidents, Risques Divers -IARD-](20261118a913.md)**  
     :material-domain: *CAP ASSURANCES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
@@ -75,24 +93,6 @@ Accédez aux **1039** offres d'emploi actuellement actives sur le territoire.
 
 - **[Chirurgien-dentiste / Chirurgienne-dentiste](202611179c52.md)**  
     :material-domain: *MUTUELLE DU NICKEL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Agent / Agente de cuisine](202611177632.md)**  
-    :material-domain: *LE SESAME NC* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Chef de chantier en terrassement et VRD (H/F) Zone Côte Ouest](202611179ec3.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Technicien / Technicienne géologue en laboratoire](20261117ee0f.md)**  
-    :material-domain: *A2EP GEOTEC* | :material-file-document-outline: CDI | :material-map-marker-outline: KONE
-
-- **[Chef / Cheffe d'équipe d'électriciens de maintenance](20261117f652.md)**  
-    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
-
-- **[Réceptionniste en établissement touristique](20261116b2e5.md)**  
-    :material-domain: *SOCIETE MUTUALISTE DES FONCTIONNAIRES ET AGENTS DES SERVICES PUBLICS* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
-
-- **[Employé / Employée de maison](202611167209.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
 
 
 
