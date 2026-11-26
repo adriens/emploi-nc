@@ -1,8 +1,29 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1044** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1049** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[Conducteur de dumper](20261125b89b.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[1 Enseignant de Basse MAA](202611259f26.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[1 Enseignant de Guitare MAA](20261125ec72.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Assistant / Assistante maétre d'hétel](2026112521d9.md)**  
+    :material-domain: *BEACH VATA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[1 Infirmier de santé du travail (basé à Koné)](202611250f2a.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+
+- **[Technicien / Technicienne de maintenance industrielle polyvalente](202611244c77.md)**  
+    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Assistant administratif / Assistante administrative](20261124651d.md)**  
+    :material-domain: *POLE MULTI SERVICES* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: KONE
 
 - **[1 Enseignant suppléant annualisé LCK 2027 (Ajié) - 153/2026 du 24/11/2026](202611247222.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -21,9 +42,6 @@ Accédez aux **1044** offres d'emploi actuellement actives sur le territoire.
 
 - **[Héte / Hétesse d'accueil standardiste](20261123d9d6.md)**  
     :material-domain: *LA MAISON DE L'ASSURANCE* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[1 Employé polyvalent (Emploi Vacances)](2026112354bb.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
 
 - **[Agent administratif / Agente administrative back-office marché](202611236289.md)**  
     :material-domain: *SOCIETE MUTUALISTE DES FONCTIONNAIRES ET AGENTS DES SERVICES PUBLICS* | :material-file-document-outline: nan | :material-map-marker-outline: NOUMEA
@@ -75,24 +93,6 @@ Accédez aux **1044** offres d'emploi actuellement actives sur le territoire.
 
 - **[Gestionnaire paie et administration du personnel](20261118555f.md)**  
     :material-domain: *EGN NETTOYAGE SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Chef cuisinier / cuisinière](2026111895cc.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Gestionnaire sinistre Incendie, Accidents, Risques Divers -IARD-](20261118a913.md)**  
-    :material-domain: *CAP ASSURANCES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Assistant administratif / Assistante administrative](2026111896ae.md)**  
-    :material-domain: *CAP ASSURANCES* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Assistant / Assistante de conservation de bibliothéque](2026111856d3.md)**  
-    :material-domain: *INSTITUT D'ARCHEOLOGIE DE LA NOUVELLE-CALEDONIE ET DU PACIFIQUE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chef cuisinier-traiteur / Cheffe cuisiniére-traiteuse](2026111864a7.md)**  
-    :material-domain: *SUY HUA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Chirurgien-dentiste / Chirurgienne-dentiste](202611179c52.md)**  
-    :material-domain: *MUTUELLE DU NICKEL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
