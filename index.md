@@ -1,11 +1,32 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1049** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1052** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
 
-- **[Conducteur de dumper](20261125b89b.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
+- **[Juriste de contentieux](202611265c78.md)**  
+    :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Opticien-lunetier / Opticienne-lunetiére](202611261c46.md)**  
+    :material-domain: *PACIFIQUE VISION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Chargé de contact clientèle de soutien](202611263f49.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Assistant / Assistante de cabinet comptable](20261126f8e4.md)**  
+    :material-domain: *LAGARDE EXPERTISE ET CONSEIL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Manoeuvre travaux publics](20261126c706.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Pharmacien / Pharmacienne en officine](202611269ead.md)**  
+    :material-domain: *PHARMACIE DE DUMBEA* | :material-file-document-outline: CDD | :material-map-marker-outline: DUMBEA
+
+- **[Préparateur / Préparatrice en pharmacie d'officine](202611265882.md)**  
+    :material-domain: *PHARMACIE DE DUMBEA* | :material-file-document-outline: CDI | :material-map-marker-outline: DUMBEA
+
+- **[Attaché technico-commercial / Attachée technico-commerciale](202611266c11.md)**  
+    :material-domain: *CIPAC SERVICES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[1 Enseignant de Basse MAA](202611259f26.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
@@ -49,9 +70,6 @@ Accédez aux **1049** offres d'emploi actuellement actives sur le territoire.
 - **[Manoeuvre travaux publics (Emploi-vacances)](202611234781.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
-- **[2 Assistants bibliothécaires  (Emploi Vacances)](20261123c9ef.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
 - **[1 Assistant administratif (Emploi Vacances)](202611225428.md)**  
     :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
 
@@ -70,29 +88,11 @@ Accédez aux **1049** offres d'emploi actuellement actives sur le territoire.
 - **[Cuisinier traiteur / Cuisiniére traiteuse](202611227d7c.md)**  
     :material-domain: *TLQS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
-- **[Enseignant suppléant occasionnel - 152/2026 du 20/11/2026](202611203a12.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
 - **[Technicien / Technicienne de maintenance en équipements industriels](202611196620.md)**  
     :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Ingénieur / Ingénieure VRD](202611199570.md)**  
     :material-domain: *THESEE INGENIERIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Vendeur / Vendeuse en optique lunetterie](202611196d56.md)**  
-    :material-domain: *PACIFIQUE VISION* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Animateur / Animatrice d'activités sociales et de vie locale](20261119bce6.md)**  
-    :material-domain: *GROUPEMENT POUR L'INSERTION ET L'ÉVOLUTION PROFESSIONNELLES - NOUVELLE-CALÉDONIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[1 Assistant administratif (H/F)](20261119b1c7.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[1 Employé polyvalent - Emploi Vacances (H/F)](20261119e5b2.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
-
-- **[Gestionnaire paie et administration du personnel](20261118555f.md)**  
-    :material-domain: *EGN NETTOYAGE SARL* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 
 
