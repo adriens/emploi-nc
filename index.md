@@ -1,8 +1,26 @@
 # :material-briefcase-search: Emplois en Nouvelle-Calédonie
 
-Accédez aux **1052** offres d'emploi actuellement actives sur le territoire.
+Accédez aux **1058** offres d'emploi actuellement actives sur le territoire.
 
 ## :material-clock-fast: Dernières publications
+
+- **[1 Enseignement suppléant occasionnel - Groupe Scolaire Atitu](20261127d95b.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
+- **[Chef / Cheffe de service d'entretien et de maintenance industrielle](20261127b59b.md)**  
+    :material-domain: *EASY SKILL* | :material-file-document-outline: CDIC | :material-map-marker-outline: NOUMEA
+
+- **[Assistant / Assistante qualité en industrie](2026112716b5.md)**  
+    :material-domain: *SARL ATOUT PLUS GROUPE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Coordinateur / Coordinatrice transit en import - export](202611264382.md)**  
+    :material-domain: *OTO DIS* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
+
+- **[Secrétaire polyvalent / Secrétaire polyvalente](20261126d9cb.md)**  
+    :material-domain: *RECYCAL SARL* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
+
+- **[Assistant administratif / Assistante administrative](202611267010.md)**  
+    :material-domain: *CIPAC SERVICES* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
 
 - **[Juriste de contentieux](202611265c78.md)**  
     :material-domain: *COUR D'APPEL DE NOUMEA* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
@@ -70,29 +88,11 @@ Accédez aux **1052** offres d'emploi actuellement actives sur le territoire.
 - **[Manoeuvre travaux publics (Emploi-vacances)](202611234781.md)**  
     :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
 
+- **[2 Assistants bibliothécaires  (Emploi Vacances)](20261123c9ef.md)**  
+    :material-domain: *nan* | :material-file-document-outline: CDD | :material-map-marker-outline: nan
+
 - **[1 Assistant administratif (Emploi Vacances)](202611225428.md)**  
     :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
-
-- **[1 Secrétaire administratif (Emploi Vacances)](2026112271a3.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
-
-- **[1 Agent polyvalent (Emploi vacances)](2026112252e8.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
-
-- **[Projeteur Minier](202611223c02.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CDI | :material-map-marker-outline: nan
-
-- **[1 Agent polyvalent (Emploi Vacances)](2026112213ac.md)**  
-    :material-domain: *nan* | :material-file-document-outline: CONTRAT AIDE | :material-map-marker-outline: nan
-
-- **[Cuisinier traiteur / Cuisiniére traiteuse](202611227d7c.md)**  
-    :material-domain: *TLQS* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
-
-- **[Technicien / Technicienne de maintenance en équipements industriels](202611196620.md)**  
-    :material-domain: *STE LE NICKEL - SLN SA* | :material-file-document-outline: CDI | :material-map-marker-outline: NOUMEA
-
-- **[Ingénieur / Ingénieure VRD](202611199570.md)**  
-    :material-domain: *THESEE INGENIERIE* | :material-file-document-outline: CDD | :material-map-marker-outline: NOUMEA
 
 
 
